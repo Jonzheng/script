@@ -1,0 +1,742 @@
+1	Acidic Glavenus	❶	Head		43	55	45	20	10	15	5	15	100	350			700		
+2	Acidic Glavenus	❶	Neck		37	37	25	15	10	10	10	10	–						
+3	Acidic Glavenus	❶	Throat		65	45	45	25	10	15	10	10	–						
+4	Acidic Glavenus	❸	Back		45	45	35	20	5	10	10	10	–	180			180		
+5	Acidic Glavenus	❸	Body		23	23	18	15	5	10	10	10	–	220					
+6	Acidic Glavenus	❹	Forelegs		23	23	18	15	5	5	5	5	–	180			180		
+7	Acidic Glavenus	❷	Hind Legs		30	30	25	15	5	10	5	5	–	180	2	6			L,R
+8	Acidic Glavenus	❶	Tail Base		37	32	25	20	10	15	10	10	–						
+9	Acidic Glavenus	❶	Tail		37	32	25	25	10	15	10	10	–	280				320	
+10	Acidic Glavenus	❶	Tail	Hvy Crystal	18	24	15	35	5	20	5	5	–						
+11	Acidic Glavenus	❶	Tail	Sharpened	65	60	50	20	10	10	10	15	–						
+12	Alatreon	❶	Head		85	85	30	13	10	10	13	13	100	555			150		x2 Break
+13	Alatreon	❶	Neck		85	85	30	13	10	10	13	13	–						
+14	Alatreon	❸	Body		20	25	45	7	5	5	7	7	–	600					
+15	Alatreon	❷	Wings		35	35	25	17	13	13	17	17	–	375			750		
+16	Alatreon	❷	Arms		60	60	20	20	16	16	20	20	–	480					
+17	Alatreon	❸	Legs		40	40	25	17	13	13	17	17	–	400					
+18	Alatreon	❸	Tail		40	35	40	10	8	8	10	10	–	375				365	
+19	Alatreon	❶	Head	Fire	85	85	30	0	10	3	14	1	100		1	12		75	Element
+20	Alatreon	❶	Neck	Fire	85	85	30	0	10	3	14	1	–						
+21	Alatreon	❸	Body	Fire	20	25	45	0	5	1	7	0	–						
+22	Alatreon	❷	Wings	Fire	35	35	25	0	13	4	18	1	–						
+23	Alatreon	❷	Arms	Fire	60	60	20	0	16	5	22	2	–						
+24	Alatreon	❸	Legs	Fire	40	40	25	0	13	4	18	1	–						
+25	Alatreon	❸	Tail	Fire	40	35	40	0	8	2	11	1	–						
+26	Alatreon	❶	Head	Ice	85	85	30	14	3	10	0	1	100		1	12		75	Element
+27	Alatreon	❶	Neck	Ice	85	85	30	14	3	10	0	1	–						
+28	Alatreon	❸	Body	Ice	20	25	45	7	1	5	0	0	–						
+29	Alatreon	❷	Wings	Ice	35	35	25	18	4	13	0	1	–						
+30	Alatreon	❷	Arms	Ice	60	60	20	22	5	16	0	2	–						
+31	Alatreon	❸	Legs	Ice	40	40	25	18	4	13	0	1	–						
+32	Alatreon	❸	Tail	Ice	40	35	40	11	2	8	0	1	–						
+33	Alatreon	❶	Head	Dragon	85	85	30	6	5	5	6	9	100		1	12		75	Element
+34	Alatreon	❶	Neck	Dragon	85	85	30	6	5	5	6	9	–						
+35	Alatreon	❸	Body	Dragon	20	25	45	3	2	2	3	4	–						
+36	Alatreon	❷	Wings	Dragon	35	35	25	8	6	6	8	11	–						
+37	Alatreon	❷	Arms	Dragon	60	60	20	10	8	8	10	14	–						
+38	Alatreon	❸	Legs	Dragon	40	40	25	8	6	6	8	11	–						
+39	Alatreon	❸	Tail	Dragon	40	35	40	5	4	4	5	7	–						
+40	Ancient Leshen	❶	Head		65	65	50	25	0	15	10	15	100	15000	B	5	15000		L,R
+41	Ancient Leshen	❸	Body		45	45	25	20	0	10	5	10	–	9000	B	5	9000		
+42	Ancient Leshen	❷	Arms		45	45	30	20	0	10	5	10	–	7500					
+43	Ancient Leshen	❷	Legs		45	45	30	20	0	10	5	10	–	9000	B	5	9000		
+44	Anjanath	❶	Nose		80	75	90	0	30	15	20	10	100						
+45	Anjanath	❶	Head		70	70	65	0	25	10	15	5	100	150			750		
+46	Anjanath	❶	Neck		30	30	10	0	20	5	15	5	–						
+47	Anjanath	❸	Wings		80	45	90	0	30	15	20	10	–						
+48	Anjanath	❸	Body		30	30	45	0	15	5	10	0	–	350					
+49	Anjanath	❷	Legs		30	30	10	0	15	5	10	0	–	80	3	3	240		L,R
+50	Anjanath	❷	Legs 	Broken	45	45	50	0	15	5	10	0	–						L,R
+51	Anjanath	❸	Tail		60	60	75	0	20	10	15	5	–	100				350	
+52	Azure Rathalos	❶	Head		60	65	55	0	15	15	20	30	100	240	^	12	480		
+53	Azure Rathalos	❶	Neck		30	35	25	0	5	5	10	20	–						
+54	Azure Rathalos	❸	Body		22	22	20	0	5	5	10	20	–	300			300		
+55	Azure Rathalos	❸	Back		22	22	20	0	5	5	10	20	–						
+56	Azure Rathalos	❷	Wings		50	45	40	0	10	10	15	25	–	220			220		L,R
+57	Azure Rathalos	❸	Legs		35	35	30	0	0	0	5	15	–	190	1	8			L,R
+58	Azure Rathalos	❹	Tail		25	25	20	0	5	5	10	20	–	200				200	
+59	Azure Rathalos	❹	Tail Tip		55	50	45	0	10	10	15	25	–						
+60	Banbaro	❶	Horns		30	45	35	10	0	5	0	15	100	250			300		x2 Break
+61	Banbaro	❶	Horns	Broken	65	65	55	20	0	10	0	25	100		3	13			
+62	Banbaro	❶	Head		65	65	55	20	0	10	0	25	100						
+63	Banbaro	❶	Neck		45	45	35	5	0	0	0	10	–						
+64	Banbaro	❹	Body		30	30	25	0	0	0	0	5	–	300					
+65	Banbaro	❷	Forearms		30	30	25	0	0	0	0	5	–						
+66	Banbaro	❷	Hind Legs		45	45	45	0	0	0	0	5	–	300	1	10	300		L,R
+67	Banbaro	❷	Hind Legs	Broken	55	55	50	5	0	0	0	10	–						
+68	Banbaro	❸	Tail		35	35	25	0	0	0	0	5	–	250				400	
+69	Barioth	❶	Head		65	70	55	20	10	15	0	15	100	260	B	9	780		
+70	Barioth	❶	Neck/Back		30	30	25	5	5	5	0	5	–						
+71	Barioth	❸	Belly		38	38	25	10	0	5	0	5	–	400					
+72	Barioth	❷	Claws		21	45	25	35	5	25	0	10	–	200	B	9	200		L,R
+73	Barioth	❷	Claws	Broken	25	45	30	20	5	15	0	10	–		2	5			
+74	Barioth	❷	Wings		30	45	20	10	0	5	0	5	–						
+75	Barioth	❷	Front Legs		40	45	35	15	0	10	0	5	–						
+76	Barioth	❸	Hind Legs		25	24	25	5	5	5	0	5	–	220					L,R
+77	Barioth	❹	Tail		45	23	45	10	0	5	0	5	–	200					
+78	Barioth	❹	Tail Tip		60	40	40	15	0	10	0	5	–	200				400	
+79	Barroth	❶	Head		22	25	10	20	0	0	15	10	100	150				200	
+80	Barroth	❶	Head 	Mud	20	24	9	0	80	0	15	10	100	25			25		
+81	Barroth	❸	Body		46	46	50	20	0	0	10	5	–	200					
+82	Barroth	❸	Body 	Mud	24	24	20	0	80	0	15	10	–	25			25		
+83	Barroth	❸	Forearms		80	85	75	30	0	0	10	5	–	180			180		
+84	Barroth	❸	Forearms 	Mud	35	38	30	0	80	0	15	10	–	25			25		
+85	Barroth	❷	Hindlegs		40	35	25	20	0	0	10	5	–	120	1*	12	120		L,R
+86	Barroth	❷	Hindlegs 	Mud	24	24	20	0	80	0	15	10	–	25			25		L,R
+87	Barroth	❹	Tail		55	50	40	25	0	0	15	10	–	200				450	
+88	Barroth	❹	Tail 	Mud	25	25	22	0	80	0	15	10	–	25			25		
+89	Bazelgeuse	❶	Head		80	85	60	0	15	25	20	20	100	300			600		
+90	Bazelgeuse	❸	Body		45	45	35	0	5	15	10	10	–	320			320		
+91	Bazelgeuse	❸	Back		30	30	25	0	5	15	10	10	–						
+92	Bazelgeuse	❷	Legs		36	34	30	0	5	15	10	10	–	240	1	8			
+93	Bazelgeuse	❷	Wings		25	25	65	0	5	15	10	10	–	180			180		L,R
+94	Bazelgeuse	❶	Tail		75	70	55	0	10	20	15	15	–	280				500	
+95	Behemoth	❸	Horn		20	30	5	15	50	35	40	85	100	500			750		
+96	Behemoth	❸	Horn 	Broken	10	15	5	5	10	5	5	25	100	500					
+97	Behemoth	❸	Head		60	55	50	0	25	10	10	5	100	2500					
+98	Behemoth	❶	Shoulder		20	10	15	5	10	5	5	15	–						
+99	Behemoth	❶	Forearms		50	40	45	5	10	5	5	15	–	2250	2,B	3	6750		L,R
+100	Behemoth	❹	Back		15	22	8	0	5	5	5	0	–	2250					
+101	Behemoth	❹	Belly		22	15	5	0	0	0	0	0	–	4500					
+102	Behemoth	❷	Hindlegs		30	55	10	0	10	10	25	5	–	1650					L,R
+103	Behemoth	❸	Tail		45	25	15	25	5	15	5	5	–	1200					
+104	Behemoth	❸	Tail Tip		50	25	35	25	20	20	20	10	–					2000	
+105	Beotodus	❶	Head		46	50	45	25	10	15	0	0	100	140	^	12	420		
+106	Beotodus	❶	Head	Snow	30	34	25	25	0	5	0	0	–	80			80		
+107	Beotodus	❸	Body/Back		35	35	35	20	5	10	0	0	–	180	^	6	180		
+108	Beotodus	❸	Body/Back	Snow	30	30	25	20	0	5	0	0	–	100			100		
+109	Beotodus	❸	Legs		70	65	50	30	10	15	0	0	–	320			640		
+110	Beotodus	❷	Tail		40	35	35	20	5	10	0	0	–	160	^	6	160		
+111	Beotodus	❷	Tail	Snow	34	30	25	20	0	5	0	0	–	80			80		
+112	Black Diablos	❶	Horn		19	37	15	0	20	10	25	0	100	200			200		x2 Break
+113	Black Diablos	❶	Head		43	55	30	0	25	10	30	0	100	200					
+114	Black Diablos	❶	Neck		40	40	25	0	15	5	20	0	–						
+115	Black Diablos	❸	Stomach		63	68	35	0	30	10	35	0	–						
+116	Black Diablos	❸	Back		24	42	30	0	20	10	25	0	–	300			300		*Body
+117	Black Diablos	❸	Wings		40	30	60	0	25	10	30	0	–	150					L,R
+118	Black Diablos	❷	Legs		35	35	35	0	10	5	15	0	–	200	1	6			L,R
+119	Black Diablos	❶	Tail		45	24	45	0	20	10	15	0	–	300				500	
+120	Black Diablos	❶	Tail Tip		20	24	10	0	20	10	25	0	–						
+121	Blackveil Vaal Hazak	❶	Head		65	75	50	15	5	10	15	0	100	300	2	5	900		
+122	Blackveil Vaal Hazak	❶	Head 	Broken	75	85	60	20	5	10	15	25	100						
+123	Blackveil Vaal Hazak	❶	Neck		30	30	25	10	5	5	10	15	–						
+124	Blackveil Vaal Hazak	❸	Chest		30	30	25	10	5	5	10	15	–	150					
+125	Blackveil Vaal Hazak	❸	Chest	Spore Sac	60	65	45	15	10	10	10	20	–	200					
+126	Blackveil Vaal Hazak	❸	Stomach		35	40	25	15	5	5	10	0	–	300			300		
+127	Blackveil Vaal Hazak	❸	Stomach 	Broken	45	50	35	20	5	10	15	25	–						
+128	Blackveil Vaal Hazak	❸	Back		25	24	20	15	5	5	10	0	–						
+129	Blackveil Vaal Hazak	❸	Back 	Broken	45	45	30	20	5	10	15	25	–						
+130	Blackveil Vaal Hazak	❸	Hindlegs		23	23	20	5	0	0	0	5	–	250					L,R
+131	Blackveil Vaal Hazak	❷	Forelegs		45	40	20	10	0	0	5	5	–	130			130		L,R
+132	Blackveil Vaal Hazak	❷	Forelegs 	Broken	50	45	30	15	5	5	10	20	–						
+133	Blackveil Vaal Hazak	❷	Wings		23	23	25	15	5	10	10	15	–	150					
+134	Blackveil Vaal Hazak	❹	Tail		30	24	30	15	5	10	10	15	–	120					
+135	Blackveil Vaal Hazak	❹	Tail	Spore Sac	60	55	45	15	10	10	10	20	–	200					
+136	Blackveil Vaal Hazak	❹	Tail Tip		50	25	40	15	5	10	10	15	–	120				240	
+137	Brachydios	❶	Head		55	60	45	0	15	10	20	5	100	250	2	8	1000		
+138	Brachydios	❶	Neck		30	30	25	0	15	5	20	5	–						
+139	Brachydios	❸	Body		30	30	25	0	10	5	15	0	–	350					
+140	Brachydios	❶	Forearms 		40	40	35	0	15	5	30	0	–	200			400		L,R
+141	Brachydios	❷	Hind Legs		30	30	20	0	10	5	15	0	–	150					L,R
+142	Brachydios	❸	Tail		50	45	50	0	15	10	15	5	–	200					
+143	Brachydios	❸	Tail Tip		20	20	15	0	5	5	10	10	–	200				350	
+144	Brute Tigrex	❶	Head		55	60	45	0	25	15	10	15	100	300			300		
+145	Brute Tigrex	❶	Neck		25	25	15	5	15	15	12	15	–						
+146	Brute Tigrex	❸	Belly		25	25	15	5	15	15	12	15	–	450					
+147	Brute Tigrex	❸	Back		25	25	15	0	15	15	10	15	–						
+148	Brute Tigrex	❷	Forelegs		45	40	30	0	20	18	12	5	–	300	2	8	600		L,R
+149	Brute Tigrex	❸	Hindlegs		30	30	20	0	15	10	12	10	–	250					L,R
+150	Brute Tigrex	❹	Tail		35	30	25	0	10	5	0	5	–						
+151	Brute Tigrex	❹	Tail Tip		35	30	25	0	10	10	0	10	–	350				350	
+152	Coral Pukei-Pukei	❶	Head		60	65	45	10	0	15	30	10	100	500			1000		
+153	Coral Pukei-Pukei	❸	Body		30	30	25	5	0	5	15	5	–	350			350		
+154	Coral Pukei-Pukei	❷	Wings		34	34	40	5	0	10	25	5	–	260			260		L,R
+155	Coral Pukei-Pukei	❸	Legs		30	30	25	5	0	10	20	5	–	290	1	8			L,R
+156	Coral Pukei-Pukei	❹	Tail		40	35	30	5	0	10	25	5	–	500				350	
+157	Deviljho	❶	Head		60	70	60	10	10	15	5	15	100	350					
+158	Deviljho	❸	Chest		37	37	35	15	15	20	10	20	–	100					
+159	Deviljho	❸	Torso		25	25	25	5	5	20	5	20	–	400					
+160	Deviljho	❷	Forelegs		30	30	30	5	5	20	5	20	–	150					
+161	Deviljho	❷	Hindlegs		45	38	35	5	5	10	5	10	–	200	1,2	3			L,R
+162	Deviljho	❹	Tail		40	35	25	5	5	20	5	20	–	180				540	
+163	Deviljho	❶	Head 	Enraged	45	50	45	15	15	20	10	20	100	350	Chrg	12			
+164	Deviljho	❸	Chest 	Enraged	75	75	70	20	20	25	15	25	–	100					
+165	Deviljho	❸	Torso 	Enraged	22	22	20	10	10	25	10	25	–	400					
+166	Deviljho	❷	Forelegs 	Enraged	25	25	25	10	10	25	10	25	–	150					
+167	Deviljho	❷	Hindlegs 	Enraged	25	25	25	10	10	15	5	15	–	200	2	3			L,R
+168	Deviljho	❹	Tail 	Enraged	25	25	20	5	5	20	5	20	–	180				540	
+169	Diablos	❶	Horn		21	42	20	0	20	10	25	20	100	200			200		x2 Break
+170	Diablos	❶	Head		45	63	40	0	25	10	30	25	100	200					
+171	Diablos	❶	Neck		40	40	25	0	15	5	20	15	–						
+172	Diablos	❸	Stomach		73	78	40	0	30	10	35	30	–						
+173	Diablos	❸	Back		24	42	35	0	20	10	25	20	–	300			600		*Body
+174	Diablos	❸	Wings		40	30	60	0	25	10	30	25	–	150			150		L,R
+175	Diablos	❷	Legs		35	35	35	0	10	5	15	10	–	200	1	6			L,R
+176	Diablos	❶	Tail		50	24	45	0	20	10	15	20	–	300				500	
+177	Diablos	❶	Tail Tip		23	33	10	0	20	10	25	20	–						
+178	Dodogama	❶	Head		35	35	25	0	20	30	20	10	100	150			750		
+179	Dodogama	❶	Head 	Rock 1	75	75	65	0	20	30	20	10	100						
+180	Dodogama	❶	Head 	Rock 2	100	100	90	0	20	30	20	10	100						
+181	Dodogama	❶	Neck		30	30	20	0	10	25	10	5	100						
+182	Dodogama	❶	Neck 	Rock 1	65	65	55	0	10	25	10	5	100						
+183	Dodogama	❶	Neck 	Rock 2	90	90	80	0	10	25	10	5	100						
+184	Dodogama	❸	Body		45	45	40	0	5	10	5	5	–	300					
+185	Dodogama	❸	Back		45	45	40	0	5	10	5	5	–						
+186	Dodogama	❷	Forelegs		45	45	40	0	5	10	5	5	–	210	2	8	210		
+187	Dodogama	❷	Hindlegs		45	45	40	0	5	10	5	5	–	240	1	8			
+188	Dodogama	❹	Tail		60	60	50	0	10	15	10	5	–	100				270	
+189	Ebony Odogaron	❶	Head		43	45	45	25	35	25	25	5	100	200			400		
+190	Ebony Odogaron	❶	Head	Broken	65	75	55	20	25	20	20	5	100						
+191	Ebony Odogaron	❶	Neck		25	30	25	15	20	15	15	5	100						
+192	Ebony Odogaron	❸	Body		25	25	20	10	15	10	10	5	–	450					
+193	Ebony Odogaron	❸	Back		25	25	20	10	15	10	10	5	–						
+194	Ebony Odogaron	❶	Forelegs		34	38	30	20	30	20	20	5	–	220	B	6	220		
+195	Ebony Odogaron	❶	Forelegs	Broken	45	45	40	10	20	10	10	5	–						
+196	Ebony Odogaron	❷	Hindlegs		30	30	25	20	30	20	20	5	–	200	B	6	200		
+197	Ebony Odogaron	❷	Hindlegs	Broken	50	50	40	10	20	10	10	5	–						
+198	Ebony Odogaron	❸	Tail		25	22	25	20	30	20	20	5	–	250	^	4	250		
+199	Ebony Odogaron	❸	Tail	Broken	50	45	45	10	15	10	10	5	–						
+200	Ebony Odogaron	❸	Tail Tip		45	30	40	15	20	15	15	5	–					500	
+201	Fatalis	❶	Head		75	75	33	17	5	5	12	25	–	450	B	12	1350	2700	x2 Break
+202	Fatalis	❶	Neck		40	40	7	10	5	5	5	13	–	500					
+203	Fatalis	❸	Chest		45	45	45	13	5	5	10	15	–	675			1350		
+204	Fatalis	❸	Chest	Critical	70	70	48	5	5	5	10	15	–						
+205	Fatalis	❸	Back		25	25	5	7	5	5	5	10	–	500					
+206	Fatalis	❷	Wings		25	30	35	10	5	5	5	13	–	200			200		L,R
+207	Fatalis	❸	Front Legs		45	45	45	15	5	5	12	17	–	500					L,R*
+208	Fatalis	❷	Hind Legs		25	25	5	10	5	5	5	13	–	500					L,R
+209	Fatalis	❹	Tail		25	20	5	10	5	5	5	13	–	400					
+210	Frostfang Barioth	❶	Head		65	70	55	20	10	15	0	15	100	420			420	840	x2 Break
+211	Frostfang Barioth	❶	Neck/Back		30	30	25	5	5	5	0	5	–						
+212	Frostfang Barioth	❸	Belly		38	38	25	10	0	5	0	5	–	400					
+213	Frostfang Barioth	❷	Claws		21	45	25	35	5	25	0	10	–	200	B	9	400		L,R
+214	Frostfang Barioth	❷	Claws	Broken	25	45	30	20	5	15	0	10	–		2	5			
+215	Frostfang Barioth	❷	Wings		30	45	20	10	0	5	0	5	–						
+216	Frostfang Barioth	❷	Forelegs		40	45	35	15	0	10	0	5	–						
+217	Frostfang Barioth	❸	Hindlegs		25	24	25	5	5	5	0	5	–	220					L,R
+218	Frostfang Barioth	❹	Tail		45	23	45	10	0	5	0	5	–	200					
+219	Frostfang Barioth	❹	Tail Tip		60	40	40	15	0	10	0	5	–	200				400	
+220	Fulgur Anjanath	❶	Nose		65	60	55	15	20	0	30	10	100						
+221	Fulgur Anjanath	❶	Nose	Charged	65	60	55	15	35	0	20	10	100						
+222	Fulgur Anjanath	❶	Head		60	60	45	10	15	0	25	5	100	150			750		
+223	Fulgur Anjanath	❶	Head	Charged	55	55	45	10	25	0	15	5	100						
+224	Fulgur Anjanath	❶	Neck		30	30	10	5	15	0	20	5	–						
+225	Fulgur Anjanath	❶	Neck	Charged	23	23	10	5	20	0	15	5	–						
+226	Fulgur Anjanath	❸	Wings		65	45	55	15	20	0	30	10	–						
+227	Fulgur Anjanath	❸	Wings	Charged	55	40	50	15	35	0	20	10	–						
+228	Fulgur Anjanath	❸	Body		30	30	45	5	10	0	15	0	–	350					
+229	Fulgur Anjanath	❸	Body	Charged	23	23	40	5	15	0	10	0	–						
+230	Fulgur Anjanath	❷	Legs		30	30	10	5	10	0	15	0	–	80	3	3	240		L,R
+231	Fulgur Anjanath	❷	Legs	Charged	35	35	15	5	15	0	10	0	–						
+232	Fulgur Anjanath	❷	Legs 	Broken	45	45	50	5	15	0	15	0	–						
+233	Fulgur Anjanath	❸	Tail		60	60	75	10	15	0	20	5	–	100				350	
+234	Fulgur Anjanath	❸	Tail	Charged	55	55	70	10	20	0	15	5	–						
+235	Fulgur Anjanath	❸	Tail	Broken	60	60	75	10	15	0	15	5	–						
+236	Furious Rajang	❶	Head		55	57	45	0	5	0	20	0	100	600	1	10	600	1200	x2 Break
+237	Furious Rajang	❶	Head	Rampage	60	62	50	0	5	0	20	0	100						
+238	Furious Rajang	❸	Forelegs		38	38	30	0	5	0	10	0	–	250	1	10	250		L,R
+239	Furious Rajang	❸	Forelegs	Rampage	5	5	5	0	5	0	10	0	–						
+240	Furious Rajang	❷	Hindlegs		21	21	15	0	5	0	10	0	–	240					
+241	Furious Rajang	❸	Body		30	35	20	0	5	0	10	0	–	350					
+242	Glavenus	❶	Head		50	55	30	0	25	10	15	15	100	350	^	3	700		x2 Break
+243	Glavenus	❶	Neck		37	37	25	0	20	10	13	10	–						
+244	Glavenus	❶	Throat		65	65	45	0	30	10	15	10	–						
+245	Glavenus	❸	Back		45	45	35	0	20	5	10	10	–	250			250		
+246	Glavenus	❸	Body		20	20	30	0	15	5	10	10	–	200					
+247	Glavenus	❹	Forearms		20	20	18	0	15	5	5	5	–	200			200		
+248	Glavenus	❷	Hind Legs		37	35	25	0	15	5	5	5	–	180	2	6			L,R
+249	Glavenus	❶	Tail Base		37	35	25	0	20	10	15	15	–						
+250	Glavenus	❶	Tail		37	35	25	0	20	5	10	10	–	200			200		
+251	Glavenus	❶	Tail	Rusted	20	20	15	0	15	5	5	5	–						
+252	Glavenus	❶	Tail	Heating	65	60	45	0	25	10	15	15	–					270	
+253	Gold Rathian	❶	Head		20	20	20	0	5	10	5	0	100	240	^	12	480		
+254	Gold Rathian	❶	Head	Broken	55	60	50	0	20	30	10	0	100						
+255	Gold Rathian	❶	Neck		20	20	20	0	5	10	5	0	–						
+256	Gold Rathian	❶	Neck	Broken	30	35	30	0	20	30	10	0	–						
+257	Gold Rathian	❸	Body		25	30	30	5	10	15	10	0	–						
+258	Gold Rathian	❸	Back		20	20	15	0	5	10	5	0	–	350			350		
+259	Gold Rathian	❷	Wings	 	44	44	45	0	15	20	10	0	–	230	3^	12	230		L,R
+260	Gold Rathian	❸	Legs		38	35	28	0	10	10	5	0	–	240	2	8			L,R
+261	Gold Rathian	❹	Tail		20	20	15	0	5	10	5	0	–						
+262	Gold Rathian	❹	Tail Tip		45	45	35	0	10	10	5	0	–	300				1100	
+263	Great Girros	❶	Head		80	85	75	15	30	0	20	10	100	210			420		
+264	Great Girros	❶	Neck		40	45	35	5	20	0	10	5	100						
+265	Great Girros	❸	Body		35	35	30	0	15	0	5	0	–	360					
+266	Great Girros	❸	Back		35	35	30	0	15	0	5	0	–						
+267	Great Girros	❷	Forelegs		55	50	45	10	25	0	15	5	–	240	1	8	240		
+268	Great Girros	❷	Hindlegs		40	40	35	0	15	0	5	0	–	270	1	8			
+269	Great Girros	❹	Tail		50	45	40	5	20	0	10	5	–	300				270	
+270	Great Jagras	❶	Head		80	85	75	30	0	20	15	10	100	150			300		
+271	Great Jagras	❶	Neck		65	70	60	20	0	10	5	5	100						
+272	Great Jagras	❸	Body		50	45	40	20	0	10	5	0	–	300					
+273	Great Jagras	❸	Stomach 	Inflated	90	95	85	30	0	20	15	10	–	120			360		
+274	Great Jagras	❸	Back		45	40	35	15	0	5	5	0	–						
+275	Great Jagras	❷	Forelegs		65	60	55	25	0	15	10	5	–	210	2	8	210		
+276	Great Jagras	❷	Hindlegs		45	40	35	15	0	5	0	0	–	240	1	8			
+277	Great Jagras	❹	Tail		45	45	40	15	0	5	0	0	–	270					
+278	Jyuratodus	❶	Head		63	63	63	5	0	10	5	5	100	100	^	5	400		
+279	Jyuratodus	❶	Head 	Mud	50	50	40	0	25	0	5	5	100	100			100		
+280	Jyuratodus	❶	Neck		43	43	43	5	0	10	5	5	–						
+281	Jyuratodus	❷	Body		35	35	35	10	0	25	5	5	–	300	^	5	300		
+282	Jyuratodus	❷	Body 	Mud	30	30	25	0	25	0	5	5	–	100			300		
+283	Jyuratodus	❷	Back		25	25	25	5	0	15	5	5	–						
+284	Jyuratodus	❷	Fins		25	25	25	10	0	20	5	5	–						
+285	Jyuratodus	❷	Legs		30	30	25	15	0	30	5	5	–	240	1	10	480		L,R
+286	Jyuratodus	❷	Legs 	Mud	35	35	30	0	25	0	5	5	–	100			200		L,R
+287	Jyuratodus	❸	Tail		55	50	45	5	0	10	5	5	–	100			300		
+288	Jyuratodus	❸	Tail 	Mud	50	50	40	0	25	0	5	5	–	100			100		
+289	Kirin	❶	Head		55	55	45	25	20	0	20	5	100	200	2	6	200		≤15% HP
+290	Kirin	❸	Body		31	31	22	20	15	0	15	5	–	240					
+291	Kirin	❸	Body 	Electric	20	20	10	15	10	0	10	5	–						
+292	Kirin	❷	Lower Body		29	29	20	20	15	0	15	5	–	260					
+293	Kirin	❷	Lower Body 	Electric	20	20	10	15	10	0	10	5	–						
+294	Kulu-Ya-Ku	❶	Head		85	85	75	15	20	15	15	15	100	180			180		
+295	Kulu-Ya-Ku	❶	Forearms		65	70	55	15	20	15	15	15	–	160			160		
+296	Kulu-Ya-Ku	❷	Body		45	45	40	15	20	15	15	15	–	200	3	10			
+297	Kulu-Ya-Ku	❶	Tail		55	50	35	15	20	15	15	15	–	160					
+298	Kulu-Ya-Ku	❸	Rock		5	5	5	5	20	5	5	5	–	15					
+299	Kulve Taroth	❶	Head		25	30	10	5	10	25	0	5	100	540			540		
+300	Kulve Taroth	❸	Chest		50	45	45	0	20	0	40	25	–				100		L,R
+301	Kulve Taroth	❷	Exp. Foreleg		50	40	30	0	20	0	40	25	–						
+302	Kulve Taroth	❷	Forelegs		25	30	10	5	10	25	0	5	–				120		L,R
+303	Kulve Taroth	❷	Hindlegs		40	35	15	0	10	0	30	15	–						
+304	Kulve Taroth	❸	Body		25	30	10	5	10	25	0	5	–	720					
+305	Kulve Taroth	❸	Tail		25	30	10	5	10	25	0	5	–				120		2L,2R
+306	Kulve Taroth	❶	Head 	Molten	60	75	30	25	30	50	0	25	100						
+307	Kulve Taroth	❷	Forelegs	Molten	60	75	30	25	30	50	0	25	–				120		L,R
+308	Kulve Taroth	❸	Body 	Molten	60	75	30	25	30	50	0	25	–	720					
+309	Kulve Taroth	❸	Tail 	Molten	60	75	30	25	30	50	0	25	–				120		2L,2R
+310	Kulve Taroth	❶	Head 	Released	80	85	25	0	30	0	50	35	100	540			540		
+311	Kulve Taroth	❸	Chest 	Released	50	45	45	0	20	0	40	25	–	720					
+312	Kulve Taroth	❷	Forelegs 	Released	50	40	30	0	20	0	40	25	–	400	2				
+313	Kulve Taroth	❷	Hindlegs 	Released	40	35	15	0	10	0	30	15	–	400	4				
+314	Kulve Taroth	❸	Body 	Released	35	35	20	0	10	0	30	15	–	720					
+315	Kulve Taroth	❸	Tail 	Released	40	45	20	0	10	0	30	15	–				540		
+316	Kushala Daora	❶	Head		55	50	45	10	5	20	0	10	100	300	1	8	1500		≤15% HP
+317	Kushala Daora	❶	Neck		40	35	25	10	5	15	0	5	–						
+318	Kushala Daora	❸	Body		35	50	25	10	5	15	0	10	–	100					
+319	Kushala Daora	❷	Wings		20	15	20	10	5	20	0	15	–	100			200		
+320	Kushala Daora	❸	Back		20	25	30	10	5	15	0	10	–						
+321	Kushala Daora	❸	Forelegs		45	50	30	10	5	20	0	10	–	120	^	5			
+322	Kushala Daora	❸	Hindlegs		30	30	25	10	5	15	0	5	–	120	^	5			
+323	Kushala Daora	❹	Tail		35	30	55	10	5	20	0	15	–	140				400	
+324	Lavasioth	❶	Head 	Hardened	15	20	15	50	15	0	0	5	100						
+325	Lavasioth	❶	Head 	Broken	35	40	35	5	35	15	15	5	100						
+326	Lavasioth	❶	Head 	Heated	55	60	55	0	45	10	10	5	100	100			600		
+327	Lavasioth	❶	Neck		15	15	15	10	10	0	0	5	–						
+328	Lavasioth	❸	Abdomen		35	35	35	10	10	0	0	5	–	100					
+329	Lavasioth	❸	Body	Hardened	20	20	20	10	15	0	0	5	–						
+330	Lavasioth	❸	Body	Broken	35	35	35	5	30	20	20	5	–						
+331	Lavasioth	❸	Body	Heated	50	45	50	0	35	15	15	5	–	300			600		
+332	Lavasioth	❸	Fins		30	30	30	10	10	0	0	5	–						
+333	Lavasioth	❷	Legs 	Hardened	15	15	15	10	5	0	0	5	–						
+334	Lavasioth	❷	Legs 	Broken	30	30	30	5	25	5	5	5	–						
+335	Lavasioth	❷	Legs 	Heated	40	40	40	0	30	5	5	5	–	120	B	10	480		L,R
+336	Lavasioth	❶	Tail 	Hardened	20	15	20	10	10	0	0	5	–						
+337	Lavasioth	❶	Tail 	Broken	35	30	35	5	30	15	15	5	–						
+338	Lavasioth	❶	Tail 	Heated	45	40	45	0	35	10	10	5	–	100			400		
+339	Legiana	❶	Head		65	70	60	20	15	25	0	10	100	210	^	12	420		
+340	Legiana	❶	Neck		35	40	30	10	5	15	0	5	–						
+341	Legiana	❸	Body		25	25	20	10	5	15	0	5	–	300			300		
+342	Legiana	❸	Back		25	25	20	10	5	15	0	5	–						
+343	Legiana	❷	Wings		50	45	40	15	10	20	0	5	–	210			210		L,R
+344	Legiana	❸	Legs		35	35	30	5	0	10	0	0	–	240	1	8			L,R
+345	Legiana	❹	Tail		45	40	35	10	5	15	0	5	–	270	^	12	270		
+346	Leshen	❶	Head		65	65	60	25	0	15	10	15	100	600	B	5	600		L,R
+347	Leshen	❸	Body		45	45	45	20	0	10	5	10	–	500	B	5	500		
+348	Leshen	❷	Arms		45	45	50	20	0	10	5	10	–	400					
+349	Leshen	❷	Legs		45	45	50	20	0	10	5	10	–	500	B	5	500		
+350	Lunastra	❶	Head		40	60	45	0	7	7	30	25	100	200	B	8	200		≤15% HP
+351	Lunastra	❶	Neck		33	38	33	0	3	3	20	15	–						
+352	Lunastra	❸	Body		20	20	20	0	0	0	15	10	–	400					
+353	Lunastra	❸	Back		20	25	20	0	0	0	15	10	–						
+354	Lunastra	❷	Forelegs		25	30	20	0	3	3	15	10	–	300	2	8			Shared
+355	Lunastra	❷	Hindlegs		30	25	20	0	3	3	15	10	–	300	2	8			Shared
+356	Lunastra	❷	Wings		55	35	40	0	7	7	25	20	–	280			280		L,R
+357	Lunastra	❸	Tail		45	38	55	0	3	3	20	15	–	250				500	
+358	Namielle	❶	Head		40	40	25	40	0	0	15	30	100	300	2	8	1500		≤15% HP
+359	Namielle	❶	Head	Dehydrated	60	65	50	5	0	0	5	10	100						
+360	Namielle	❶	Neck		25	25	40	25	0	0	10	15	–						
+361	Namielle	❶	Neck	Dehydrated	45	40	45	10	0	0	5	5	–						
+362	Namielle	❸	Back		25	25	30	30	0	0	10	20	–						
+363	Namielle	❸	Back	Dehydrated	30	30	45	10	0	0	5	10	–						
+364	Namielle	❸	Stomach		30	45	45	20	0	0	15	15	–	300					
+365	Namielle	❸	Stomach	Dehydrated	40	60	50	10	0	0	5	10	–						
+366	Namielle	❸	Forelegs		45	35	20	10	0	0	15	10	–	360			720		
+367	Namielle	❸	Forelegs	Dehydrated	65	55	30	5	0	0	5	10	–						
+368	Namielle	❸	Hindlegs		20	20	20	10	0	0	5	5	–	150					
+369	Namielle	❸	Hindlegs	Dehydrated	25	25	25	5	0	0	5	5	–						
+370	Namielle	❷	Wings		25	25	20	30	5	0	20	20	–	200			400		
+371	Namielle	❷	Wings	Dehydrated	35	35	30	10	0	0	5	15	–						
+372	Namielle	❹	Tail		25	25	25	25	0	0	10	15	–	140				400	
+373	Namielle	❹	Tail	Dehydrated	40	35	30	10	0	0	5	15	–						
+374	Nargacuga	❶	Head		65	70	40	20	0	30	10	10	100	250	5	8	1000		
+375	Nargacuga	❶	Neck/Back		30	30	35	10	0	15	5	5	–						
+376	Nargacuga	❸	Belly		40	40	30	10	0	20	5	5	–	300					
+377	Nargacuga	❷	Front Legs		21	21	15	10	0	15	5	5	–	200	B,2	8	200		L,R
+378	Nargacuga	❷	Front Legs	Broken	43	23	35	10	0	20	5	5	–						
+379	Nargacuga	❷	Hind Legs		30	30	25	10	0	15	5	5	–	230					L,R
+380	Nargacuga	❸	Tail		46	40	45	10	0	25	5	5	–	200					
+381	Nargacuga	❸	Tail Tip		40	35	40	10	0	20	5	5	–					850	
+382	Nergigante	❸	Horn		20	25	35	5	15	20	0	10	100	130			280		x2 Break
+383	Nergigante	❸	Horn 	Broken	35	40	45	5	15	20	0	5	100						
+384	Nergigante	❶	Head		45	60	40	5	10	15	15	5	100	190			100		
+385	Nergigante	❶	Head 	White	75	90	70	5	10	15	15	5	100		B	6	150		60s
+386	Nergigante	❶	Head 	Black	20	25	15	5	10	20	15	10	100		B	6	300		
+387	Nergigante	❸	Body		35	30	35	0	0	10	5	5	–	450					
+388	Nergigante	❸	Back		30	35	30	0	0	10	5	5	–						
+389	Nergigante	❶	Forearms		50	45	40	5	5	15	0	5	–	280			100		L,R
+390	Nergigante	❶	Forearms 	White	70	60	55	5	5	15	0	5	–		B	6	120		L,R 60s
+391	Nergigante	❶	Forearms 	Black	10	15	10	5	5	20	0	10	–		B	6	150		L,R
+392	Nergigante	❸	Hindlegs		35	30	35	0	0	10	5	5	–	350					L,R
+393	Nergigante	❷	Wings		40	30	30	10	5	10	5	10	–	180			60		L,R
+394	Nergigante	❷	Wings 	White	55	45	45	10	5	10	5	15	–		B	6	150		L,R 60s
+395	Nergigante	❷	Wings 	Black	28	25	25	10	5	15	5	20	–		B	6	120		L,R
+396	Nergigante	❹	Tail		60	45	25	10	5	10	5	5	–	220					
+397	Nergigante	❹	Tail Tip		45	35	25	15	5	15	5	10	–				100	450	
+398	Nergigante	❹	Tail Tip 	White	65	55	40	15	5	15	5	10	–		B	6	120		60s
+399	Nergigante	❹	Tail Tip 	Black	25	20	10	15	5	20	5	15	–		B	6	120		
+400	Nightshade Paolumu	❶	Head		55	60	45	15	25	10	10	0	100	180	^	8			
+401	Nightshade Paolumu	❶	Neck		35	40	30	10	15	5	5	0	100						
+402	Nightshade Paolumu	❶	Neck Pouch		70	75	50	15	30	10	10	0	100	300	^	8	500		
+403	Nightshade Paolumu	❸	Body		46	46	35	10	15	5	5	0	–	300			300		
+404	Nightshade Paolumu	❷	Legs		30	30	25	10	15	5	5	0	–	200	2	8			L,R
+405	Nightshade Paolumu	❷	Wings		30	30	40	10	15	5	5	0	–	150	^	8	150		L,R
+406	Nightshade Paolumu	❸	Tail		25	25	15	10	15	5	5	0	–	250	^	8	250		
+407	Odogaron	❶	Head		70	75	65	10	15	20	30	0	100	300	 		600		
+408	Odogaron	❶	Neck		40	45	35	0	5	10	20	0	100						
+409	Odogaron	❸	Body		30	30	25	0	0	5	15	0	–	450					
+410	Odogaron	❸	Back		30	30	25	0	0	5	15	0	–						
+411	Odogaron	❶	Forelegs		55	50	45	5	10	15	25	0	–	240	1	8	240		
+412	Odogaron	❷	Hindlegs		45	40	35	5	10	15	25	0	–	270	1	8	270		
+413	Odogaron	❸	Tail		45	40	35	5	5	10	20	0	–	270			270	540	
+414	Paolumu	❶	Head		55	55	45	25	0	15	10	10	100	180					
+415	Paolumu	❶	Neck		40	40	30	20	0	15	10	10	100						
+416	Paolumu	❶	Neck Pouch		75	75	60	25	0	15	10	10	100	300			500		
+417	Paolumu	❸	Body		46	46	42	15	0	10	5	5	–	300			300		
+418	Paolumu	❷	Legs		40	35	25	15	0	10	5	5	–	200	2	10			L,R
+419	Paolumu	❷	Wings		35	35	45	15	0	10	5	5	–	150			150		L,R
+420	Paolumu	❸	Tail		25	25	15	20	0	15	10	10	–	250			250		
+421	Pink Rathian	❶	Head		60	65	55	0	15	20	15	30	100	240	^	12	480		
+422	Pink Rathian	❶	Neck		30	35	25	0	0	5	0	15	–						
+423	Pink Rathian	❸	Body		22	22	20	0	5	10	5	20	–	300			300		
+424	Pink Rathian	❸	Back		22	22	20	0	5	10	5	20	–						
+425	Pink Rathian	❷	Wings		50	45	40	0	10	15	10	25	–	180			180		L,R
+426	Pink Rathian	❸	Legs		40	40	35	0	0	5	0	15	–	210	1	8			L,R
+427	Pink Rathian	❹	Tail		20	25	20	0	5	10	5	20	–	200				400	
+428	Pink Rathian	❹	Tail Tip		50	45	40	0	5	10	5	20	–						
+429	Pukei-Pukei	❶	Head		75	80	70	15	0	30	20	10	100	180	^	12	360		
+430	Pukei-Pukei	❶	Tongue		80	80	75	15	0	25	15	10	100						
+431	Pukei-Pukei	❶	Neck		40	35	30	5	0	20	10	5	–						
+432	Pukei-Pukei	❸	Body		35	35	30	0	5	5	15	0	–	300			300		
+433	Pukei-Pukei	❷	Wings		50	45	40	10	0	25	15	5	–	210	^	12	210		L,R
+434	Pukei-Pukei	❸	Legs		45	45	40	0	0	15	5	0	–	240	1	8			L,R
+435	Pukei-Pukei	❹	Tail		55	50	45	10	0	25	15	5	–	220				280	
+436	Radobaan	❶	Head		80	90	50	20	20	20	20	30	100	300					
+437	Radobaan	❶	Head Bone		24	25	15	0	0	0	0	0	100	50			100		
+438	Radobaan	❶	Neck		30	30	25	10	10	10	15	20	–						
+439	Radobaan	❸	Body		45	50	30	10	10	10	15	20	–	350					
+440	Radobaan	❸	Back Bone		20	25	15	0	0	0	0	0	–	40			80		
+441	Radobaan	❷	Hindlegs		55	45	40	10	10	10	10	15	–	150	2	3			L,R
+442	Radobaan	❷	Leg Bone		20	25	15	0	0	0	0	0	–	20			40		L,R
+443	Radobaan	❸	Tail		45	30	30	15	15	15	15	15	–	175				350	
+444	Raging Brachydios	❶	Horn		60	65	45	0	10	10	25	5	100	250	B	6	500		
+445	Raging Brachydios	❶	Horn	Red Slime	75	75	10	0	20	0	5	0	100						
+446	Raging Brachydios	❸	Head		60	65	50	0	5	10	15	5	100	350					
+447	Raging Brachydios	❸	Neck		32	32	30	0	5	5	10	5	–						
+448	Raging Brachydios	❸	Body		32	32	30	0	10	5	15	0	–	350					
+449	Raging Brachydios	❶	Forearms		55	50	45	0	10	5	25	0	–	300	B	6	600		L,R
+450	Raging Brachydios	❶	Forearms	Red Slime	75	75	10	0	20	0	5	0	–						
+451	Raging Brachydios	❷	Hind Legs		32	32	30	0	5	5	10	0	–	100	2	6			L,R
+452	Raging Brachydios	❸	Tail		50	45	55	0	10	10	15	5	–	200					
+453	Raging Brachydios	❶	Tail Tip		18	30	10	0	10	5	25	10	–					600	
+454	Raging Brachydios	❶	Tail Tip	Red Slime	75	75	10	0	20	0	5	0	–						
+455	Rajang	❶	Head		60	62	45	0	5	0	30	0	100	400	1	10	400	600	x2 Break
+456	Rajang	❶	Forelegs		43	43	35	0	5	0	15	0	–	250	1	10	250		
+457	Rajang	❶	Forelegs	Rampage	10	10	5	0	5	0	15	0	–						
+458	Rajang	❷	Hindlegs		25	25	15	0	5	0	15	0	–	240					
+459	Rajang	❸	Body		30	35	20	0	5	0	15	0	–	350					
+460	Rajang	❸	Tail		35	32	25	0	5	0	15	0	–	250			800		
+461	Rajang	❸	Tail	Rampage	47	45	35	0	5	0	15	0	–						
+462	Rathalos	❶	Head		65	70	60	0	15	20	15	30	100	240	^	12	480		
+463	Rathalos	❶	Neck		35	40	30	0	5	10	5	20	–						
+464	Rathalos	❸	Body		25	25	20	0	5	10	5	20	–	300			300		
+465	Rathalos	❸	Back		25	25	20	0	5	10	5	20	–						
+466	Rathalos	❷	Wings		50	45	40	0	10	15	10	25	–	220			220		L,R
+467	Rathalos	❸	Legs		35	35	30	0	0	5	0	15	–	190	1	8			L,R
+468	Rathalos	❹	Tail		45	40	35	0	5	10	5	20	–	200				200	
+469	Rathian	❶	Head		70	75	65	0	15	20	15	30	100	240	^	12	480		
+470	Rathian	❶	Neck		40	45	35	0	0	5	0	15	–						
+471	Rathian	❸	Body		35	30	25	0	5	10	5	20	–	300			300		
+472	Rathian	❸	Back		35	30	25	0	5	10	5	20	–						
+473	Rathian	❷	Wings		55	50	45	0	10	15	10	25	–	180			180		L,R
+474	Rathian	❸	Legs		40	40	35	0	0	5	0	15	–	210	1	8			L,R
+475	Rathian	❹	Tail		45	40	35	0	5	10	5	20	–	200				300	
+476	Ruiner Nergigante	❸	Horn		20	25	35	5	15	15	0	20	100	200			300		x2 Break
+477	Ruiner Nergigante	❸	Horn 	Broken	35	40	45	5	15	15	0	20	100						
+478	Ruiner Nergigante	❶	Head		45	60	45	5	10	10	15	15	100	400			100	400	
+479	Ruiner Nergigante	❶	Head 	White	75	90	60	5	10	15	15	15	100		B	6	140		60s
+480	Ruiner Nergigante	❶	Head 	Black	20	25	15	5	10	20	15	20	100		B	6	140		
+481	Ruiner Nergigante	❸	Body		35	30	35	0	0	10	5	10	–	850					
+482	Ruiner Nergigante	❸	Back		30	35	30	0	0	10	5	10	–						
+483	Ruiner Nergigante	❶	Forearms		50	45	40	5	5	15	0	15	–	320			100	400	L,R
+484	Ruiner Nergigante	❶	Forearms 	White	70	60	55	5	5	15	0	15	–		B	6	110		L,R 90s
+485	Ruiner Nergigante	❶	Forearms 	Black	20	25	15	15	5	15	5	20	–		B	6	150		L,R
+486	Ruiner Nergigante	❸	Hindlegs		35	30	35	0	0	10	5	10	–	700					L,R
+487	Ruiner Nergigante	❷	Wings		40	30	30	10	5	10	5	10	–	320			60	200	L,R
+488	Ruiner Nergigante	❷	Wings 	White	55	45	45	10	5	10	5	15	–		B	6	170		L,R 60s
+489	Ruiner Nergigante	❷	Wings 	Black	28	25	25	10	5	15	5	20	–		B	6	190		L,R
+490	Ruiner Nergigante	❹	Tail		45	35	25	10	5	10	5	10	–	220					
+491	Ruiner Nergigante	❹	Tail Tip		45	35	25	15	5	15	5	15	–				100	450	
+492	Ruiner Nergigante	❹	Tail Tip 	White	65	55	45	15	5	15	5	15	–		B	6	150		60s
+493	Ruiner Nergigante	❹	Tail Tip 	Black	10	15	15	5	5	15	0	20	–		B	6	200		
+494	Safi·jiiva	❶	Head		24	34	25	25	25	25	25	25	100	750			3750		x2 Break
+495	Safi·jiiva	❶	Head	Broken	45	51	35	25	25	25	25	25	100				7500		
+496	Safi·jiiva	❶	Head	S. Critical	63	58	38	30	30	30	30	30	100						
+497	Safi·jiiva	❶	Head	B.S. Critical	68	64	48	30	30	30	30	30	100						
+498	Safi·jiiva	❶	Snout	White	24	34	3	15	15	15	15	15	100						
+499	Safi·jiiva	❶	Snout	Broken	45	51	3	15	15	15	15	15	100						
+500	Safi·jiiva	❶	Snout	S. Critical	63	58	10	20	20	20	20	20	100						
+501	Safi·jiiva	❶	Snout	B.S. Critical	68	64	10	20	20	20	20	20	100						
+502	Safi·jiiva	❶	Neck		25	25	3	3	3	3	3	3	–	1500					
+503	Safi·jiiva	❶	Neck	S. Critical	33	33	7	3	3	3	3	3	–						
+504	Safi·jiiva	❸	Body		18	18	3	3	3	3	3	3	–	2500					
+505	Safi·jiiva	❸	Body	S. Critical	30	30	7	3	3	3	3	3	–						
+506	Safi·jiiva	❸	Back		45	45	3	15	15	15	15	15	–	150			150		
+507	Safi·jiiva	❸	Back	S. Critical	50	50	7	20	20	20	20	20	–						
+508	Safi·jiiva	❶	Chest		20	20	3	3	3	3	3	3	–						
+509	Safi·jiiva	❶	Chest	Broken	38	38	15	10	10	10	10	10	–						
+510	Safi·jiiva	❶	Chest	S. Critical	75	75	45	30	30	30	30	30	–	1000	1	12	2000		
+511	Safi·jiiva	❷	Forelegs		34	23	18	20	20	20	20	20	–	750			5250		L,R
+512	Safi·jiiva	❷	Forelegs	S. Critical	45	65	27	25	25	25	25	25	–						
+513	Safi·jiiva	❷	Forefeet		34	23	18	10	10	10	10	10	–						
+514	Safi·jiiva	❷	Forefeet	S. Critical	45	65	27	20	20	20	20	20	–						
+515	Safi·jiiva	❷	Foreleg+Feet	Broken	38	35	25	20	20	20	20	20	–						
+516	Safi·jiiva	❸	Hindlegs		18	34	18	20	20	20	20	20	–	500			2500		L,R
+517	Safi·jiiva	❸	Hindlegs	S. Critical	60	46	30	25	25	25	25	25	–						
+518	Safi·jiiva	❸	Hindfeet		18	34	18	15	15	15	15	15	–						
+519	Safi·jiiva	❸	Hindfeet	S. Critical	60	46	30	20	20	20	20	20	–						
+520	Safi·jiiva	❸	Hindleg+Feet	Broken	33	40	25	20	20	20	20	20	–						
+521	Safi·jiiva	❷	Wings		20	30	45	15	15	15	15	15	–	400			1200		L,R
+522	Safi·jiiva	❷	Wings	Broken	25	35	45	15	15	15	15	15	–						
+523	Safi·jiiva	❷	Wings	S. Critical	50	65	46	20	20	20	20	20	–						
+524	Safi·jiiva	❷	Wing Tips		20	20	10	15	15	15	15	15	–						
+525	Safi·jiiva	❷	Wing Tips	Broken	25	25	12	15	15	15	15	15	–						
+526	Safi·jiiva	❷	Wing Tips	S. Critical	50	65	15	20	20	20	20	20	–						
+527	Safi·jiiva	❷	Webbing		20	20	10	5	5	5	5	5	–						
+528	Safi·jiiva	❷	Webbing	Broken	25	25	12	5	5	5	5	5	–						
+529	Safi·jiiva	❷	Webbing	S. Critical	50	65	15	10	10	10	10	10	–						
+530	Safi·jiiva	❹	Tail		21	34	15	20	20	20	20	20	–	400				5500	
+531	Safi·jiiva	❹	Tail	Broken	46	40	20	20	20	20	20	20	–						
+532	Safi·jiiva	❹	Tail	S. Critical	65	55	35	25	25	25	25	25	–						
+533	Safi·jiiva	❹	Upper Tail		18	34	3	1	1	1	1	1	–						
+534	Safi·jiiva	❹	Upper Tail	Broken	20	40	7	1	1	1	1	1	–						
+535	Safi·jiiva	❹	Upper Tail	S. Critical	24	55	10	3	3	3	3	3	–						
+536	Savage Deviljho	❶	Head		40	45	25	20	25	25	10	30	100	300	Chrg	12	600		
+537	Savage Deviljho	❶	Head	Broken	55	60	40	20	25	25	15	30	100						
+538	Savage Deviljho	❶	Neck		22	22	15	10	10	15	10	15	–	450					
+539	Savage Deviljho	❸	Chest		45	40	25	25	20	30	10	25	–	300			600		
+540	Savage Deviljho	❸	Chest	Broken	60	55	45	25	20	30	15	25	–						
+541	Savage Deviljho	❸	Torso		20	25	15	5	15	10	10	20	–	450			900		
+542	Savage Deviljho	❷	Forelegs		20	25	45	5	15	10	10	20	–	300					
+543	Savage Deviljho	❷	Hindlegs		33	36	20	15	5	20	10	10	–	300					L,R
+544	Savage Deviljho	❹	Tail		36	33	20	15	5	20	10	10	–	200				400	
+545	Savage Deviljho	❹	Tail	Broken	40	40	25	15	5	20	15	10	–						
+546	Scarred Yian Garuga	❶	Ears		60	65	45	0	30	0	10	15	100				215		
+547	Scarred Yian Garuga	❶	Head		60	65	45	0	30	0	10	15	100	215	^	12	430		
+548	Scarred Yian Garuga	❶	Neck		34	40	30	0	15	0	5	10	–						
+549	Scarred Yian Garuga	❸	Back		18	18	15	0	10	0	5	10	–						
+550	Scarred Yian Garuga	❸	Belly		34	34	30	0	25	0	5	10	–	260			260		
+551	Scarred Yian Garuga	❷	Wings		18	18	40	0	20	0	5	10	–	200			200		L,R
+552	Scarred Yian Garuga	❷	Wings	Broken	24	24	40	0	20	0	5	10	–						
+553	Scarred Yian Garuga	❷	Legs		30	30	25	0	15	0	5	10	–	200	1	8			L,R
+554	Scarred Yian Garuga	❸	Tail		40	35	30	0	20	0	5	10	–	260	^	12			
+555	Scarred Yian Garuga	❸	Tail Tip		46	40	35	0	25	0	5	10	–					600	
+556	Seething Bazelgeuse	❶	Head		45	45	35	0	5	20	25	5	100	400			800		
+557	Seething Bazelgeuse	❸	Body		45	45	35	0	5	15	20	5	–	350			350		
+558	Seething Bazelgeuse	❸	Back		30	30	15	0	5	10	15	5	–						
+559	Seething Bazelgeuse	❷	Legs		35	35	25	0	5	10	15	5	–	350	2	10			
+560	Seething Bazelgeuse	❷	Wings		35	35	45	0	5	10	15	5	–	200			200		L,R
+561	Seething Bazelgeuse	❶	Tail		65	65	55	0	5	20	25	5	–	400				1100	
+562	Shara Ishvalda	❶	Head		50	55	45	5	15	0	20	5	100						
+563	Shara Ishvalda	❶	Head Casing	Bottom	50	50	30	5	15	0	20	5	–	230			1380		
+564	Shara Ishvalda	❶	Head Casing	Top	55	60	35	5	15	0	20	5	–	190			190		4L,4R
+565	Shara Ishvalda	❶	Wings		19	20	20	5	10	0	15	5	–	350			350		L,R
+566	Shara Ishvalda	❶	Wings	Broken	10	10	10	5	5	0	10	5	–						L,R
+567	Shara Ishvalda	❷	Forelegs		19	20	20	5	10	0	15	5	–	180	B,2	10	360		L,R
+568	Shara Ishvalda	❷	Forelegs	Broken	10	10	10	5	5	0	10	5	–						
+569	Shara Ishvalda	❷	Hindlegs		10	10	35	5	5	0	10	5	–	450					
+570	Shara Ishvalda	❸	Tail		10	10	10	5	5	0	10	5	–						
+571	Shara Ishvalda	❶	Head	Released	70	75	35	10	20	0	25	5	100	580			580	1300	x2 Break
+572	Shara Ishvalda	❸	Body	Released	48	44	20	5	15	0	20	5	–	710					
+573	Shara Ishvalda	❶	Wings	Released	48	48	45	5	15	0	20	5	–	450					L,R
+574	Shara Ishvalda	❷	Forelegs	Released	44	48	25	5	15	0	20	5	–	360	B,2	10	360		L,R
+575	Shara Ishvalda	❷	Hindlegs	Released	25	25	10	5	5	0	15	5	–						
+576	Shara Ishvalda	❸	Tail	Released	25	25	10	5	5	0	15	5	–	500					
+577	Shrieking Legiana	❶	Head		65	70	45	15	10	15	0	10	100	210	^	14	420		
+578	Shrieking Legiana	❶	Neck		35	40	30	15	5	10	0	5	–						
+579	Shrieking Legiana	❸	Body		25	25	50	25	5	10	0	5	–						
+580	Shrieking Legiana	❸	Back		25	25	45	15	5	10	0	5	–	300			300		
+581	Shrieking Legiana	❷	Wings		50	45	40	15	10	15	0	5	–	210			210		L,R
+582	Shrieking Legiana	❸	Legs		35	35	20	20	0	5	0	0	–	240					
+583	Shrieking Legiana	❹	Tail		45	40	35	20	5	10	0	5	–	270	^	14	270		
+584	Silver Rathalos	❶	Head		20	20	15	0	10	5	5	0	100	250	^	12	500		
+585	Silver Rathalos	❶	Head	Broken	55	60	50	0	30	20	10	0	100						
+586	Silver Rathalos	❶	Neck		20	20	15	0	10	5	5	0	–						
+587	Silver Rathalos	❶	Neck	Broken	30	35	25	0	25	20	10	0	–						
+588	Silver Rathalos	❸	Body		22	22	20	0	15	10	10	0	–						
+589	Silver Rathalos	❸	Back		22	22	20	0	20	15	5	0	–	400			400		
+590	Silver Rathalos	❷	Wings		50	45	40	0	25	15	10	0	–	280	3^	12	280		L,R
+591	Silver Rathalos	❸	Legs		38	38	32	0	10	10	5	0	–	240	2	8			L,R
+592	Silver Rathalos	❹	Tail		18	18	16	0	10	5	5	0	–						
+593	Silver Rathalos	❹	Tail Tip		55	50	45	0	10	10	5	0	–	300				600	
+594	Stygian Zinogre	❶	Head		55	55	50	10	13	15	10	0	100	300			650		
+595	Stygian Zinogre	❶	Neck		50	50	45	8	10	13	8	0	100						
+596	Stygian Zinogre	❸	Body		30	30	20	5	8	10	5	0	–	350					
+597	Stygian Zinogre	❸	Back		30	30	20	3	8	10	3	0	–	300			300		
+598	Stygian Zinogre	❶	Forelegs		50	50	45	10	13	15	10	0	–	300			700		
+599	Stygian Zinogre	❸	Hindlegs		30	30	20	5	8	10	5	0	–	350					
+600	Stygian Zinogre	❷	Tail		40	40	35	8	10	13	8	0	–	280				500	
+601	Stygian Zinogre	❶	Head	Charged	45	45	45	20	25	30	20	0	100						
+602	Stygian Zinogre	❶	Neck	Charged	38	38	33	15	20	25	15	0	100						
+603	Stygian Zinogre	❸	Body	Charged	25	25	15	10	15	20	10	0	–						
+604	Stygian Zinogre	❸	Back	Charged	50	50	50	0	0	0	0	0	–						
+605	Stygian Zinogre	❶	Forelegs	Charged	38	38	33	20	25	30	20	0	–						
+606	Stygian Zinogre	❸	Hindlegs	Charged	25	25	15	10	15	20	10	0	–						
+607	Stygian Zinogre	❷	Tail	Charged	35	35	25	15	20	25	15	0	–						
+608	Teostra	❶	Head		55	60	50	0	30	10	25	10	100	200	2	8	200		≤16% HP
+609	Teostra	❶	Neck		33	38	33	0	20	5	15	5	–						
+610	Teostra	❸	Body		20	20	20	0	15	0	10	0	–	400					
+611	Teostra	❸	Back		20	20	20	0	15	0	10	0	–						
+612	Teostra	❷	Forelegs		38	38	33	0	20	5	15	5	–	280					
+613	Teostra	❷	Hindlegs		30	25	20	0	15	5	10	5	–	340					
+614	Teostra	❷	Wings		40	35	30	0	25	10	20	10	–	280			280		
+615	Teostra	❸	Tail		38	33	28	0	20	5	15	5	–	330				330	
+616	Tigrex	❶	Head		65	70	55	0	10	25	5	15	100	220			220		
+617	Tigrex	❶	Neck		30	30	20	10	10	15	5	15	–						
+618	Tigrex	❸	Belly		30	30	20	10	10	15	5	15	–	400					
+619	Tigrex	❸	Back		25	25	20	0	5	15	5	15	–						
+620	Tigrex	❷	Forelegs		50	45	35	0	15	20	10	5	–	180	2	8	360		L,R
+621	Tigrex	❸	Hindlegs		30	30	25	0	5	15	0	10	–	200	2	8			L,R
+622	Tigrex	❹	Tail		40	35	30	0	5	10	0	5	–						
+623	Tigrex	❹	Tail Tip		45	35	30	0	5	10	0	15	–	240				350	
+624	Tobi-Kadachi	❶	Head		60	60	50	10	20	0	10	5	100	200			400		
+625	Tobi-Kadachi	❶	Neck		60	60	50	10	20	0	10	5	50						
+626	Tobi-Kadachi	❸	Body		45	45	35	5	15	0	5	0	–	350					
+627	Tobi-Kadachi	❶	Mane		45	45	60	5	15	0	5	0	–	100			100		
+628	Tobi-Kadachi	❷	Forelegs		35	35	15	5	15	0	5	0	–	200	1	10	200		
+629	Tobi-Kadachi	❷	Hindlegs		30	30	10	5	15	0	5	0	–	200	1	10			
+630	Tobi-Kadachi	❶	Tail		80	80	70	20	30	0	20	15	–	160			640		
+631	Training Area	❶	Pole		80	80	80	30	30	30	30	30	–						
+632	Training Area	❸	Light Barrel		43	43	80	20	20	20	20	20	–				100		
+633	Training Area	❷	Med. Barrel		38	38	60	20	20	20	20	20	–				300		
+634	Training Area	❷	Heavy Barrel		20	20	40	5	5	5	5	5	–				300		
+635	Training Area	❶❷❸	Wagon		80	80	80	30	30	30	30	30	–						
+636	Tzitzi-Ya-Ku	❶	Antennae		75	65	70	15	15	20	20	15	100	280	B	10	560		
+637	Tzitzi-Ya-Ku	❸	Head		65	55	55	15	15	20	20	15	100	160					
+638	Tzitzi-Ya-Ku	❶	Forearms		45	60	35	15	15	20	20	15	–	100					
+639	Tzitzi-Ya-Ku	❷	Body/Legs		45	60	35	15	15	20	20	20	–	220	3	10			
+640	Tzitzi-Ya-Ku	❸	Tail		40	40	35	15	15	20	20	15	–	100					
+641	Uragaan	❶	Head		70	80	50	0	20	15	15	20	100	200					
+642	Uragaan	❶	Jaw		19	20	10	0	40	5	20	30	100	250			250		
+643	Uragaan	❶	Jaw 	Broken	55	60	40	0	20	5	15	20	100						
+644	Uragaan	❶	Upper Neck		22	24	10	0	15	0	10	15	–						
+645	Uragaan	❶	Lower Neck		25	30	25	0	20	0	10	15	–						
+646	Uragaan	❸	Body		50	45	45	0	30	5	15	30	–	500			500		
+647	Uragaan	❸	Back		22	24	10	0	15	0	10	15	–						
+648	Uragaan	❸	Forearms		25	30	20	0	15	0	10	15	–	200					
+649	Uragaan	❷	Hindlegs		45	40	20	0	15	0	10	15	–	260	2	7			L,R
+650	Uragaan	❹	Tail 	Top	25	25	15	0	15	0	10	15	–	120			120		
+651	Uragaan	❹	Tail 	Bottom	35	30	25	0	25	5	10	20	–						
+652	Uragaan	❹	Tail Tip		25	25	15	0	35	0	15	25	–					120	
+653	Vaal Hazak	❶	Head		50	40	50	25	5	10	15	0	100	300			900		
+654	Vaal Hazak	❶	Head 	Broken	70	80	60	25	5	10	15	25	100						
+655	Vaal Hazak	❶	Neck		70	80	60	25	5	10	15	25	–						
+656	Vaal Hazak	❸	Chest		50	45	45	15	5	10	10	15	–	150					
+657	Vaal Hazak	❸	Stomach		50	40	45	20	5	10	15	0	–	600			600		Shared
+658	Vaal Hazak	❸	Stomach 	Broken	60	70	40	25	5	10	15	25	–						
+659	Vaal Hazak	❸	Back		45	35	35	20	5	10	15	0	–	600			600		Shared
+660	Vaal Hazak	❸	Back 	Broken	55	65	40	25	5	10	15	25	–						
+661	Vaal Hazak	❸	Hindlegs		25	25	20	5	0	0	0	5	–	350					L,R
+662	Vaal Hazak	❷	Forelegs		45	40	35	20	5	5	10	5	–	130	B	8	130		L,R
+663	Vaal Hazak	❷	Forelegs 	Broken	55	50	45	20	5	5	10	20	–						
+664	Vaal Hazak	❷	Wings		24	23	30	15	5	10	10	15	–	150					
+665	Vaal Hazak	❹	Tail		35	30	30	20	5	10	15	0	–	200					
+666	Vaal Hazak	❹	Tail Tip		60	30	50	20	5	10	15	0	–					400	
+667	Velkhana	❶	Head		55	55	45	20	0	15	0	20	100	200	2	8	400	40	Ice Break
+668	Velkhana	❶	Head	Broken	65	65	55	20	0	15	0	20	100						
+669	Velkhana	❶	Neck		35	45	30	25	5	10	0	15	–						
+670	Velkhana	❶	Neck	Broken	45	55	40	25	5	10	0	15	–						
+671	Velkhana	❸	Body		30	30	25	30	10	5	0	10	–	280				40	Ice Break
+672	Velkhana	❷	Forelegs		45	40	30	30	10	5	0	10	–	240				40	Ice Break
+673	Velkhana	❸	Hindlegs		35	30	20	30	10	5	0	10	–	200				40	Ice Break
+674	Velkhana	❷	Wings		40	40	20	25	5	10	0	15	–	160			320	40	Ice Break
+675	Velkhana	❷	Wings	Broken	50	50	30	25	5	10	0	15	–						
+676	Velkhana	❶	Tail		40	35	35	25	5	10	0	15	–	240				360	
+677	Velkhana	❶	Tail	Broken	50	45	45	25	5	10	0	15	–					40	Ice Break
+678	Viper Tobi-Kadachi	❶	Head		65	65	50	10	0	25	20	10	100	250			500		
+679	Viper Tobi-Kadachi	❶	Neck		60	60	45	10	0	25	20	10	50						
+680	Viper Tobi-Kadachi	❹	Body		35	35	25	0	0	10	5	0	–	350					
+681	Viper Tobi-Kadachi	❹	Mane		35	35	35	0	0	10	5	0	–	200			200		
+682	Viper Tobi-Kadachi	❷	Forelegs		55	55	45	5	0	20	15	5	–	300	2	10	300		
+683	Viper Tobi-Kadachi	❷	Hindlegs		30	30	15	0	0	10	5	0	–	270					
+684	Viper Tobi-Kadachi	❸	Tail		45	45	35	5	0	15	10	5	–	400	^	10	400		
+685	Xeno·jiiva	❶	Head		70	70	55	20	10	10	10	20	100	400			800		
+686	Xeno·jiiva	❶	Head 	Broken	80	80	60	20	10	10	10	20	100						
+687	Xeno·jiiva	❶	Head 	Critical	80	100	60	15	30	30	30	15	100						
+688	Xeno·jiiva	❸	Neck		30	30	25	15	10	10	10	15	–	400					
+689	Xeno·jiiva	❸	Neck 	Critical	50	50	30	15	30	30	30	15	–						
+690	Xeno·jiiva	❸	Body		25	25	25	15	10	10	10	15	–	800					
+691	Xeno·jiiva	❸	Body 	Critical	60	60	40	15	30	30	30	15	–						
+692	Xeno·jiiva	❶	Chest		60	60	30	20	10	10	10	20	–	150					
+693	Xeno·jiiva	❶	Chest 	Critical	100	80	70	15	30	30	30	15	–	150	1	10			
+694	Xeno·jiiva	❷	Forelegs		50	50	45	20	10	10	10	20	–	300	1	6	600		L,R
+695	Xeno·jiiva	❷	Forelegs 	Broken	60	60	50	20	10	10	10	20	–						
+696	Xeno·jiiva	❷	Forelegs 	Critical	70	90	60	15	30	30	30	15	–						
+697	Xeno·jiiva	❸	Hindlegs		22	22	15	10	5	5	5	10	–	150	2	10			L,R
+698	Xeno·jiiva	❸	Hindlegs 	Critical	50	50	40	10	20	20	20	10	–						
+699	Xeno·jiiva	❷	Wings		50	50	30	15	10	10	10	15	–	300			600		
+700	Xeno·jiiva	❷	Wings 	Broken	60	60	40	15	10	10	10	15	–						
+701	Xeno·jiiva	❷	Wings 	Critical	100	80	50	15	30	30	30	15	–						
+702	Xeno·jiiva	❹	Tail		25	25	15	10	5	5	5	10	–	350					
+703	Xeno·jiiva	❹	Tail 	Critical	50	50	30	10	20	20	20	10	–						
+704	Xeno·jiiva	❹	Tail Tip		70	70	45	20	10	10	10	20	–					500	Area 3
+705	Xeno·jiiva	❹	Tail Tip 	Critical	90	90	60	15	30	30	30	15	–						
+706	Yian Garuga	❶	Ears		60	65	45	0	30	0	10	15	100				215		
+707	Yian Garuga	❶	Head		60	65	45	0	30	0	10	15	100	215	^	12	430		
+708	Yian Garuga	❶	Neck		34	40	30	0	15	0	5	10	–						
+709	Yian Garuga	❸	Back		18	18	15	0	10	0	5	10	–						
+710	Yian Garuga	❸	Belly		34	34	30	0	25	0	5	10	–	260			260		
+711	Yian Garuga	❷	Wings		18	18	40	0	20	0	5	10	–	200			200		L,R
+712	Yian Garuga	❷	Wings	Broken	24	24	40	0	20	0	5	10	–						
+713	Yian Garuga	❷	Legs		30	30	25	0	15	0	5	10	–	200	1	8			L,R
+714	Yian Garuga	❸	Tail		40	35	30	0	20	0	5	10	–	260	^	12			
+715	Yian Garuga	❸	Tail Tip		46	40	35	0	25	0	5	10	–					600	
+716	Zinogre	❶	Head		45	45	50	5	10	0	15	5	100	350			700		
+717	Zinogre	❶	Neck		40	40	45	5	10	0	15	5	100						
+718	Zinogre	❸	Body		30	30	20	0	5	0	5	0	–	400					
+719	Zinogre	❸	Back		30	30	20	0	5	0	10	0	–	300			300		
+720	Zinogre	❶	Forelegs		40	40	35	5	10	0	15	5	–	350	2	8	700		
+721	Zinogre	❸	Hindlegs		30	30	20	0	5	0	5	0	–	400					
+722	Zinogre	❷	Tail		30	30	20	0	5	0	10	0	–	350				550	
+723	Zinogre	❶	Head	Charged	65	65	55	10	20	0	25	10	100						
+724	Zinogre	❶	Neck	Charged	60	30	50	5	15	0	20	5	100						
+725	Zinogre	❸	Body	Charged	25	25	15	0	5	0	10	0	–						
+726	Zinogre	❸	Back	Charged	40	40	45	5	10	0	15	5	–						
+727	Zinogre	❶	Forelegs	Charged	45	45	45	5	15	0	20	5	–						
+728	Zinogre	❸	Hindlegs	Charged	25	25	15	0	5	0	10	0	–						
+729	Zinogre	❷	Tail	Charged	45	45	45	5	10	0	15	5	–						
+730	Zorah Magdaros	❶	Head		40	40	40	0	20	10	15	20	–	400			400		
+731	Zorah Magdaros	❸	Body		30	30	25	0	10	5	5	10	–	800					
+732	Zorah Magdaros	❶	Chest		50	50	30	0	25	10	20	25	–	500			1000		
+733	Zorah Magdaros	❶	Chest 	Broken	80	80	80	0	30	15	25	30	–						
+734	Zorah Magdaros	❶	Forelegs		30	30	25	0	10	5	5	10	–	1000					L,R
+735	Zorah Magdaros	❷	Hindlegs		25	25	20	0	10	5	5	10	–	1000					L,R
+736	Zorah Magdaros	❷	Tail		25	25	20	0	10	5	5	10	–	1000					
+737	Zorah Magdaros	❸	Shell		1	1	1	0	0	0	0	0	–	1500					
+738	Zorah Magdaros	❷	Magma Core	Crater	95	95	90	0	20	0	15	20	–	1500			1500		
+739	Zorah Magdaros	❷	Magma Core	Head	95	95	90	0	20	0	15	20	–	1200			1200		
+740	Zorah Magdaros	❷	Magma Core	Central	95	95	90	0	20	0	15	20	–	1500			1500		
+741	Zorah Magdaros	❷	Magma Core	Rear	95	95	90	0	20	0	15	20	–	1500			1500		
+742	Zorah Magdaros	❶	Weak Shells		60	60	50	0	20	10	15	20	–	100			100		L,R

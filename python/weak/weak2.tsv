@@ -1,0 +1,414 @@
+1	Acidic Glavenus	5|0|0	2,990		★★	★★	★★	★★	★★	500									
+2	Acidic Glavenus	Cap	Duration		20	40	10	–	7	50	–	–							
+3	Acidic Glavenus	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+4	Acidic Glavenus	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+5	Acidic Glavenus	20%	Max Tolerance		550	550	570	670	630	900	550	–							
+6	Acidic Glavenus	299	Damage		320	–	–	300	–	150	–	–							
+7	Alatreon	5|0|0	5,000		★	★	★	★	★	–									
+8	Alatreon	Cap	Duration		15	40	7	–	7	–	–	–							
+9	Alatreon	–	Initial Tolerance		300	300	300	150	200	–	100	–							
+10	Alatreon	Limp	Tolerance Increase		300	300	300	200	400	–	250	–							
+11	Alatreon	0.2	Max Tolerance		900	900	900	2150	1000	–	850	–							
+12	Alatreon	750	Damage		160	–	–	300	–	–	–	–							
+13	Ancient Leshen	3|0|0	13,500		★★	✖	★	★	★	–									
+14	Ancient Leshen	Cap	Duration		20	–	7	–	7	–	–	–							
+15	Ancient Leshen	–	Initial Tolerance		150	–	300	120	250	–	250	–							
+16	Ancient Leshen	Limp	Tolerance Increase		100	–	100	90	300	–	200	–							
+17	Ancient Leshen	–	Max Tolerance		550	–	700	1920	5000	–	1200	–							
+18	Ancient Leshen	1350	Damage		160	–	–	120	–	–	–	–							
+19	Anjanath	3|3|1	2,990		★★	★★	★★	★	★★	500									
+20	Anjanath	Cap	Duration		20	40	10	–	7	50	–	–							
+21	Anjanath	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+22	Anjanath	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+23	Anjanath	25%	Max Tolerance		550	550	570	1920	630	900	550	–							
+24	Anjanath	299	Damage		160	–	–	120	–	150	–	–							
+25	Azure Rathalos	5|5|0	3,250		★	★★	★★	★	★★	750									
+26	Azure Rathalos	Cap	Duration		15	40	10	–	7	50	–	–							
+27	Azure Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+28	Azure Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+29	Azure Rathalos	25%	Max Tolerance		700	550	570	720	630	900	460	–							
+30	Azure Rathalos	325	Damage		80	–	–	120	–	200	–	–							
+31	Banbaro	3|0|3	2,800		★★	★★	★★	★★★	★★★	500									
+32	Banbaro	Cap	Duration		20	40	10	–	7	50	–	–							
+33	Banbaro	30%	Initial Tolerance		150	150	180	40	100	225	50	–							
+34	Banbaro	Limp	Tolerance Increase		100	100	130	20	75	75	100	–							
+35	Banbaro	25%	Max Tolerance		550	550	570	440	550	900	550	–							
+36	Banbaro	280	Damage		320	–	–	300	–	150	–	–							
+37	Barioth	5|5|1	3,000		★★	★★	★★	★★	★★	500									
+38	Barioth	Cap	Duration		20	40	10	–	10	60	–	–							
+39	Barioth	20%	Initial Tolerance		150	150	180	70	150	225	50	–							
+40	Barioth	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+41	Barioth	20%	Max Tolerance		550	550	570	670	630	900	550	–							
+42	Barioth	300	Damage		320	–	–	300	–	200	–	–							
+43	Barroth	3|0|0	2,450		★★★	★★	★★★	★★★	★	800									
+44	Barroth	Cap	Duration		25	40	12	–	7	60	–	–							
+45	Barroth	30%	Initial Tolerance		100	150	130	40	200	225	30	–							
+46	Barroth	Limp	Tolerance Increase		90	100	75	20	150	75	50	–							
+47	Barroth	32%	Max Tolerance		370	550	430	440	800	900	330	–							
+48	Barroth	245	Damage		260	–	–	120	–	150	–	–							
+49	Bazelgeuse	5|5|1	4,550		★★	★★	★★	★	★	800									
+50	Bazelgeuse	Cap	Duration		20	40	10	–	7	40	–	–							
+51	Bazelgeuse	30%	Initial Tolerance		150	150	180	120	200	225	50	–							
+52	Bazelgeuse	Limp	Tolerance Increase		100	100	130	90	150	75	100	–							
+53	Bazelgeuse	28%	Max Tolerance		550	550	570	1920	800	900	550	–							
+54	Bazelgeuse	455	Damage		160	–	–	120	–	250	–	–							
+55	Behemoth	5|3|3	35,000		★★	★★	★★	★★	★★	–									
+56	Behemoth	Cap	Duration		30	40	10	–	7	–	–	–							
+57	Behemoth	–	Initial Tolerance		150	180	180	70	150	–	100	–							
+58	Behemoth	Limp	Tolerance Increase		200	430	430	100	350	–	150	–							
+59	Behemoth	–	Max Tolerance		2150	2330	2330	3000	5350	–	1000	–							
+60	Behemoth	3500	Damage		300	–	–	120	–	–	–	–							
+61	Beotodus	3|0|0	2,520		★★	★★	★★	★★★	★★	800									
+62	Beotodus	Cap	Duration		20	40	10	–	7	60	–	–							
+63	Beotodus	30%	Initial Tolerance		150	150	180	40	150	150	50	–							
+64	Beotodus	Limp	Tolerance Increase		100	100	130	20	120	45	100	–							
+65	Beotodus	20%	Max Tolerance		550	550	570	440	630	585	550	–							
+66	Beotodus	252	Damage		320	–	–	300	–	300	–	–							
+67	Black Diablos	5|3|1	3,450		★★	★★	★★★	★★	★	500									
+68	Black Diablos	Cap	Duration		20	40	7	–	7	60	–	–							
+69	Black Diablos	30%	Initial Tolerance		150	150	100	70	200	225	65	–							
+70	Black Diablos	Limp	Tolerance Increase		100	100	50	30	150	75	110	–							
+71	Black Diablos	25%	Max Tolerance		550	550	300	670	800	900	725	–							
+72	Black Diablos	345	Damage		160	–	–	120	–	250	–	–							
+73	Blackveil Vaal Hazak	5|3|0	4,300		★	★	★	★★	★	–									
+74	Blackveil Vaal Hazak	Cap	Duration		15	40	7	–	7	–	–	–							
+75	Blackveil Vaal Hazak	–	Initial Tolerance		250	250	300	70	200	–	50	200							
+76	Blackveil Vaal Hazak	Limp	Tolerance Increase		150	150	100	30	250	–	100	100							
+77	Blackveil Vaal Hazak	15%	Max Tolerance		700	700	700	670	800	–	550	1000							
+78	Blackveil Vaal Hazak	430	Damage		160	–	–	300	–	–	–	–							
+79	Brachydios	5|0|0	2,990		★★	★★	★★	★	★★	500									
+80	Brachydios	Cap	Duration		20	40	10	–	7	50	–	–							
+81	Brachydios	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+82	Brachydios	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+83	Brachydios	16%	Max Tolerance		550	550	570	1920	630	900	550	–							
+84	Brachydios	299	Damage		320	–	–	300	–	150	–	–							
+85	Brute Tigrex	5|5|0	3,000		★★	★★	★★	★★	★★	600									
+86	Brute Tigrex	Cap	Duration		20	40	10	–	7	60	–	–							
+87	Brute Tigrex	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+88	Brute Tigrex	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+89	Brute Tigrex	12%	Max Tolerance		550	550	570	670	630	900	550	–							
+90	Brute Tigrex	300	Damage		320	–	–	300	–	150	–	–							
+91	Coral Pukei-Pukei	3|3|0	3,000		★★★	★★	★★	★★	★★	800									
+92	Coral Pukei-Pukei	Cap	Duration		25	40	10	–	7	50	–	–							
+93	Coral Pukei-Pukei	30%	Initial Tolerance		100	150	180	70	150	225	40	–							
+94	Coral Pukei-Pukei	Limp	Tolerance Increase		90	100	130	30	120	75	70	–							
+95	Coral Pukei-Pukei	20%	Max Tolerance		370	550	570	670	630	900	460	–							
+96	Coral Pukei-Pukei	300	Damage		520	–	–	300	–	250	–	–							
+97	Deviljho	5|0|3	5,000		★★	★★	★★	★★	★★	500									
+98	Deviljho	Cap	Duration		20	40	8	–	7	40	–	–							
+99	Deviljho	20%	Initial Tolerance		100	100	100	70	150	225	50	–							
+100	Deviljho	Limp	Tolerance Increase		100	100	150	30	120	75	100	–							
+101	Deviljho	–	Max Tolerance		550	550	900	670	630	900	550	–							
+102	Deviljho	500	Damage		160	–	–	120	–	300	–	–							
+103	Diablos	5|3|1	3,250		★★	★★	★★★	★★	★	500									
+104	Diablos	Cap	Duration		20	40	7	–	7	45	–	–							
+105	Diablos	30%	Initial Tolerance		150	150	100	70	200	225	65	–							
+106	Diablos	Limp	Tolerance Increase		100	100	50	30	150	75	110	–							
+107	Diablos	25%	Max Tolerance		550	550	300	670	800	900	725	–							
+108	Diablos	325	Damage		160	–	–	120	–	250	–	–							
+109	Dodogama	3|0|0	3,000		★★★	★★	★★	★	★★	900									
+110	Dodogama	Cap	Duration		25	40	10	–	7	60	–	–							
+111	Dodogama	30%	Initial Tolerance		100	150	180	120	150	225	50	–							
+112	Dodogama	Limp	Tolerance Increase		90	100	130	90	120	75	100	–							
+113	Dodogama	25%	Max Tolerance		370	550	570	1920	630	900	550	–							
+114	Dodogama	300	Damage		260	–	–	120	–	150	–	–							
+115	Ebony Odogaron	3|0|0	3,000		★★★	★★	★★★	★★	★★	1000									
+116	Ebony Odogaron	Cap	Duration		25	40	7	–	7	75	–	–							
+117	Ebony Odogaron	15%	Initial Tolerance		100	150	100	70	150	225	50	–							
+118	Ebony Odogaron	Limp	Tolerance Increase		90	100	50	30	120	75	100	–							
+119	Ebony Odogaron	15%	Max Tolerance		370	550	300	670	630	900	550	–							
+120	Ebony Odogaron	300	Damage		520	–	–	300	–	200	–	–							
+121	Fatalis	5|5|0	5,500		★	★	★	★	✖	–									
+122	Fatalis	Cap	Duration		30	120	13	–	–	–	–	–							
+123	Fatalis	–	Initial Tolerance		300	300	300	150	–	–	150	–							
+124	Fatalis	Limp	Tolerance Increase		300	300	300	200	–	–	250	–							
+125	Fatalis	5%	Max Tolerance		3000	3000	3000	3000	–	–	1000	–							
+126	Fatalis	–	Damage		600	–	–	300	–	–	–	–																
+133	Fulgur Anjanath	3|3|3	2,990		★★	★★	★★	★	★★	500									
+134	Fulgur Anjanath	Cap	Duration		20	40	10	–	7	50	–	–							
+135	Fulgur Anjanath	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+136	Fulgur Anjanath	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+137	Fulgur Anjanath	12%	Max Tolerance		550	550	570	1920	630	900	550	–							
+138	Fulgur Anjanath	299	Damage		320	–	–	300	–	150	–	–							
+139	Furious Rajang	5|0|1			★	★	★	★★	★	–									
+140	Furious Rajang	Cap	Duration		15	40	7	–	7	–	–	–							
+141	Furious Rajang	?	Initial Tolerance		250	250	300	70	200	–	65	–							
+142	Furious Rajang	Limp	Tolerance Increase		150	150	100	30	150	–	110	–							
+143	Furious Rajang	?	Max Tolerance		700	700	700	670	800	–	725	–							
+144	Furious Rajang	270	Damage		160	–	–	300	–	–	–	–							
+145	Glavenus	5|0|0	3,000		★★	★★	★★	★★	★★	900									
+146	Glavenus	Cap	Duration		20	40	10	–	7	40	–	–							
+147	Glavenus	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+148	Glavenus	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+149	Glavenus	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+150	Glavenus	300	Damage		320	–	–	300	–	150	–	–							
+151	Gold Rathian	5|5|0	3,000		★	★★	★★	★	★★	1000									
+152	Gold Rathian	Cap	Duration		15	40	10	–	7	40	–	–							
+153	Gold Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+154	Gold Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+155	Gold Rathian	8%	Max Tolerance		700	550	570	720	620	900	460	–							
+156	Gold Rathian	300	Damage		160	–	–	300	–	200	–	–							
+157	Great Girros	0|0|0	2,400		★★	★★★	★	★★	★★	550									
+158	Great Girros	Cap	Duration		20	40	3	–	7	70	–	–							
+159	Great Girros	30%	Initial Tolerance		150	100	300	70	120	225	50	–							
+160	Great Girros	Limp	Tolerance Increase		100	90	100	30	100	75	100	–							
+161	Great Girros	25%	Max Tolerance		550	370	700	670	620	900	550	–							
+162	Great Girros	240	Damage		160	–	–	120	–	150	–	–							
+163	Great Jagras	0|0|0	2,200		★★★	★★★	★★★	★★★	★★★	300									
+164	Great Jagras	Cap	Duration		25	40	12	–	7	40	–	–							
+165	Great Jagras	30%	Initial Tolerance		100	100	130	40	100	150	30	–							
+166	Great Jagras	Limp	Tolerance Increase		90	90	75	20	75	45	50	–							
+167	Great Jagras	30%	Max Tolerance		370	370	430	440	550	585	330	–							
+168	Great Jagras	220	Damage		260	–	–	120	–	150	–	–							
+169	Jyuratodus	0|0|0	2,800		★★	★	★★	★	★★★	500									
+170	Jyuratodus	Cap	Duration		20	40	10	–	7	60	–	–							
+171	Jyuratodus	30%	Initial Tolerance		150	250	180	120	100	150	30	–							
+172	Jyuratodus	Limp	Tolerance Increase		100	150	130	90	75	45	50	–							
+173	Jyuratodus	25%	Max Tolerance		550	700	570	1920	550	585	330	–							
+174	Jyuratodus	280	Damage		160	–	–	120	–	100	–	–							
+175	Kirin	0|0|0	3,350		★	★★	✖	★★	★	–									
+176	Kirin	Cap	Duration		15	40	–	–	7	–	–	–							
+177	Kirin	–	Initial Tolerance		250	150	–	70	200	–	65	200							
+178	Kirin	Limp	Tolerance Increase		150	100	–	30	150	–	110	20							
+179	Kirin	32%	Max Tolerance		700	550	–	670	800	–	725	750							
+180	Kirin	335	Damage		80	–	–	120	–	–	–	–							
+181	Kulu-Ya-Ku	0|0|0	2,650		★★	★★	★★	★★	★★	600									
+182	Kulu-Ya-Ku	Cap	Duration		20	40	10	–	7	60	–	–							
+183	Kulu-Ya-Ku	35%	Initial Tolerance		150	150	180	70	120	225	50	–							
+184	Kulu-Ya-Ku	Limp	Tolerance Increase		100	100	130	30	100	75	100	–							
+185	Kulu-Ya-Ku	35%	Max Tolerance		550	550	570	670	620	900	550	–							
+186	Kulu-Ya-Ku	265	Damage		160	–	–	120	–	150	–	–							
+187	Kulve Taroth	5|0|0	30,000		★	★	★	★	★	–									
+188	Kulve Taroth	Cap	Duration		35	40	12	–	12	–	–	–							
+189	Kulve Taroth	–	Initial Tolerance		150	150	150	120	200	–	50	–							
+190	Kulve Taroth	Limp	Tolerance Increase		250	880	880	120	300	–	100	–							
+191	Kulve Taroth	–	Max Tolerance		900	1910	1910	1920	1100	–	1550	–							
+192	Kulve Taroth	3000	Damage		720	–	–	240	–	–	–	–							
+193	Kushala Daora	5|D|0	3,980		★★★	★	★	★★★	★★	–									
+194	Kushala Daora	Cap	Duration		25	40	7	–	7	–	–	–							
+195	Kushala Daora	–	Initial Tolerance		100	250	300	40	150	–	50	200							
+196	Kushala Daora	Limp	Tolerance Increase		90	150	100	20	120	–	100	20							
+197	Kushala Daora	20%	Max Tolerance		370	700	700	440	630	–	550	750							
+198	Kushala Daora	398	Damage		260	–	–	120	–	–	–	–							
+199	Lavasioth	0|0|1	4,000		★★★	★	★★	★	★★	800									
+200	Lavasioth	Cap	Duration		25	40	10	–	7	60	–	–							
+201	Lavasioth	30%	Initial Tolerance		100	150	180	120	150	150	50	–							
+202	Lavasioth	Limp	Tolerance Increase		90	100	130	90	120	45	100	–							
+203	Lavasioth	25%	Max Tolerance		370	550	570	1920	630	585	550	–							
+204	Lavasioth	400	Damage		260	–	–	120	–	100	–	–							
+205	Legiana	5|5|0	3,000		★★★	★★	★★	★★	★★	750									
+206	Legiana	Cap	Duration		15	40	10	–	7	50	–	–							
+207	Legiana	30%	Initial Tolerance		80	150	180	70	150	225	40	–							
+208	Legiana	Limp	Tolerance Increase		70	100	130	30	120	75	70	–							
+209	Legiana	25%	Max Tolerance		290	550	570	670	630	900	460	–							
+210	Legiana	300	Damage		160	–	–	120	–	200	–	–							
+211	Leshen	5|0|0	9,000		★★★	✖	★★	★★	★	–									
+212	Leshen	Cap	Duration		25	–	10	–	7	–	–	–							
+213	Leshen	–	Initial Tolerance		100	–	180	70	200	–	65	–							
+214	Leshen	Limp	Tolerance Increase		90	–	130	30	250	–	110	–							
+215	Leshen	–	Max Tolerance		370	–	570	670	800	–	725	–							
+216	Leshen	900	Damage		260	–	–	120	–	–	–	–							
+217	Lunastra	5|D|0	4,300		★	★	★	★★	★★	–									
+218	Lunastra	Cap	Duration		15	40	7	–	7	–	–	–							
+219	Lunastra	–	Initial Tolerance		250	250	300	70	150	–	50	200							
+220	Lunastra	Limp	Tolerance Increase		150	150	100	30	120	–	100	20							
+221	Lunastra	20%	Max Tolerance		700	700	700	670	630	–	550	750							
+222	Lunastra	430	Damage		80	–	–	120	–	–	–	–							
+223	Namielle	5|0|0	4,000		★★★	★	★	★★★	★★	–									
+224	Namielle	Cap	Duration		25	40	7	–	7	–	–	–							
+225	Namielle	–	Initial Tolerance		100	250	300	40	150	–	50	200							
+226	Namielle	Limp	Tolerance Increase		90	150	100	20	120	–	100	40							
+227	Namielle	15%	Max Tolerance		370	700	700	440	630	–	550	600							
+228	Namielle	400	Damage		520	–	–	300	–	–	–	–							
+229	Nargacuga	5|0|0	3,150		★★	★★	★★	★★	★★	800									
+230	Nargacuga	Cap	Duration		20	40	10	–	7	60	–	–							
+231	Nargacuga	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+232	Nargacuga	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+233	Nargacuga	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+234	Nargacuga	315	Damage		320	–	–	300	–	250	–	–							
+235	Nergigante	5|3|0	3,250		★★	★★	★★	★★	★★	800									
+236	Nergigante	Cap	Duration		20	40	10	–	7	30	–	–							
+237	Nergigante	–	Initial Tolerance		150	150	180	70	200	–	50	200							
+238	Nergigante	Limp	Tolerance Increase		100	100	130	30	150	–	100	20							
+239	Nergigante	27%	Max Tolerance		550	550	570	670	800	–	550	750							
+240	Nergigante	325	Damage		160	–	–	120	–	–	–	–							
+241	Nightshade Paolumu	3|5|0	2,950		★★	★	★★	★★	★★	800									
+242	Nightshade Paolumu	Cap	Duration		20	40	10	–	7	30	–	–							
+243	Nightshade Paolumu	30%	Initial Tolerance		150	250	180	70	150	225	40	–							
+244	Nightshade Paolumu	Limp	Tolerance Increase		100	150	130	30	120	75	70	–							
+245	Nightshade Paolumu	20%	Max Tolerance		550	700	570	670	630	900	460	–							
+246	Nightshade Paolumu	295	Damage		320	–	–	300	–	250	–	–							
+247	Odogaron	3|0|0	3,000		★	★★	★★★	★★	★★	750									
+248	Odogaron	Cap	Duration		15	40	7	–	7	50	–	–							
+249	Odogaron	30%	Initial Tolerance		250	150	100	70	150	225	50	–							
+250	Odogaron	Limp	Tolerance Increase		150	100	50	30	120	75	100	–							
+251	Odogaron	25%	Max Tolerance		700	550	300	670	630	900	550	–							
+252	Odogaron	300	Damage		80	–	–	120	–	200	–	–							
+253	Paolumu	3|5|0	2,950		★★	★★	★★	★★★	★★★	800									
+254	Paolumu	Cap	Duration		20	40	10	–	7	30	–	–							
+255	Paolumu	30%	Initial Tolerance		150	150	180	40	100	225	40	–							
+256	Paolumu	Limp	Tolerance Increase		100	100	130	20	75	75	70	–							
+257	Paolumu	28%	Max Tolerance		550	550	570	440	550	900	460	–							
+258	Paolumu	295	Damage		160	–	–	120	–	150	–	–							
+259	Pink Rathian	3|3|0	3,000		★	★★	★★	★	★★★	750									
+260	Pink Rathian	Cap	Duration		15	40	10	–	7	50	–	–							
+261	Pink Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+262	Pink Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+263	Pink Rathian	25%	Max Tolerance		700	550	570	720	620	900	460	–							
+264	Pink Rathian	300	Damage		80	–	–	120	–	200	–	–							
+265	Pukei-Pukei	3|3|0	2,800		★★	★★	★★	★★	★★	650									
+266	Pukei-Pukei	Cap	Duration		15	40	12	–	7	60	–	–							
+267	Pukei-Pukei	30%	Initial Tolerance		250	100	130	70	120	225	40	–							
+268	Pukei-Pukei	Limp	Tolerance Increase		150	90	75	30	100	75	70	–							
+269	Pukei-Pukei	30%	Max Tolerance		700	370	430	670	620	900	460	–							
+270	Pukei-Pukei	280	Damage		80	–	–	120	–	150	–	–							
+271	Radobaan	3|0|1	3,000		★★	★	★★	★★★	★★	500									
+272	Radobaan	Cap	Duration		35	40	12	–	7	60	–	–							
+273	Radobaan	30%	Initial Tolerance		180	250	130	40	150	225	50	–							
+274	Radobaan	Limp	Tolerance Increase		130	150	75	20	120	75	100	–							
+275	Radobaan	30%	Max Tolerance		570	700	430	440	630	900	550	–							
+276	Radobaan	300	Damage		360	–	–	120	–	200	–	–							
+277	Raging Brachydios	5|0|0			★★	★★	★★	★	★★	?									
+278	Raging Brachydios	Cap	Duration		20	40	10	–	7	?	–	–							
+279	Raging Brachydios	?	Initial Tolerance		150	150	180	120	150	225	50	–							
+280	Raging Brachydios	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+281	Raging Brachydios	?	Max Tolerance		550	550	570	1920	630	900	550	–							
+282	Raging Brachydios	299	Damage		320	–	–	300	–	150	–	–							
+283	Rajang	5|0|1	2,700		★	★	★	★★	★	1000									
+284	Rajang	Cap	Duration		15	40	7	–	7	40	–	–							
+285	Rajang	15%	Initial Tolerance		250	250	300	70	200	375	65	–							
+286	Rajang	Limp	Tolerance Increase		150	150	100	30	150	150	110	–							
+287	Rajang	14%	Max Tolerance		700	700	700	670	800	1575	725	–							
+288	Rajang	270	Damage		160	–	–	300	–	250	–	–							
+289	Rathalos	5|5|0	3,250		★	★★	★★	★	★★	750									
+290	Rathalos	Cap	Duration		15	40	10	–	7	50	–	–							
+291	Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+292	Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+293	Rathalos	25%	Max Tolerance		700	550	570	720	630	900	460	–							
+294	Rathalos	325	Damage		80	–	–	120	–	200	–	–							
+295	Rathian	3|3|0	3,000		★	★★	★★	★	★★★	650									
+296	Rathian	Cap	Duration		15	40	10	–	7	60	–	–							
+297	Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+298	Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+299	Rathian	25%	Max Tolerance		700	550	570	720	620	900	460	–							
+300	Rathian	300	Damage		80	–	–	120	–	150	–	–							
+301	Ruiner Nergigante	5|5|0	3,700		★★	★★	★★	★★★	★	1000									
+302	Ruiner Nergigante	Cap	Duration		20	40	10	–	7	20	–	–							
+303	Ruiner Nergigante	–	Initial Tolerance		150	150	180	40	200	–	50	200							
+304	Ruiner Nergigante	Limp	Tolerance Increase		100	100	130	20	150	–	100	20							
+305	Ruiner Nergigante	15%	Max Tolerance		550	550	570	440	800	–	550	750							
+306	Ruiner Nergigante	370	Damage		320	–	–	300	–	–	–	–							
+307	Safi·jiiva	5|D|1	80,000		★★★	★	★★	★★★	★★	–									
+308	Safi·jiiva	Cap	Duration		60	40	10	–	10	–	–	–							
+309	Safi·jiiva	–	Initial Tolerance		250	500	400	250	1000	–	175								
+310	Safi·jiiva	Limp	Tolerance Increase		400	1800	1150	150	1500	–	375								
+311	Safi·jiiva	–	Max Tolerance		3050	7700	6550	2000	7000	–									
+312	Safi·jiiva	8000	Damage		2000	–	–	600	–	–	–	–							
+313	Savage Deviljho	5|0|5	3,600		★★★	★★★	★★★	★★	★★	–									
+314	Savage Deviljho	Cap	Duration		20	40	8	–	7	–	–	–							
+315	Savage Deviljho	20%	Initial Tolerance		100	100	100	70	150	–	50	–							
+316	Savage Deviljho	Limp	Tolerance Increase		100	100	150	30	120	–	100	–							
+317	Savage Deviljho	8%	Max Tolerance		550	550	900	670	630	–	550	–							
+318	Savage Deviljho	360	Damage		320	–	–	300	–	–	–	–							
+319	Scarred Yian Garuga	5|3|0	3,300		★	★	★★	★★★	★★	600									
+320	Scarred Yian Garuga	Cap	Duration		15	40	10	–	7	45	–	–							
+321	Scarred Yian Garuga	30%	Initial Tolerance		250	250	180	40	150	225	50	–							
+322	Scarred Yian Garuga	Limp	Tolerance Increase		150	150	130	20	120	75	100	–							
+323	Scarred Yian Garuga	12%	Max Tolerance		700	700	570	440	630	900	550	–							
+324	Scarred Yian Garuga	330	Damage		160	–	–	300	–	250	–	–							
+325	Seething Bazelgeuse	5|5|0	4,000		★★	★★★	★★	★	★★	1000									
+326	Seething Bazelgeuse	Cap	Duration		20	40	10	–	7	50	–	–							
+327	Seething Bazelgeuse	30%	Initial Tolerance		150	100	180	120	150	225	50	–							
+328	Seething Bazelgeuse	Limp	Tolerance Increase		100	90	130	90	120	75	100	–							
+329	Seething Bazelgeuse	8%	Max Tolerance		550	370	570	1920	630	900	550	–							
+330	Seething Bazelgeuse	400	Damage		320	–	–	69	–	250	–	–							
+331	Shara Ishvalda	5|0|3	5,300		★★	✖	★	★★★	★	500									
+332	Shara Ishvalda	Cap	Duration		60	–	10	–	11	–	–	–							
+333	Shara Ishvalda	–	Initial Tolerance		250	–	300	70	200	–	60	–							
+334	Shara Ishvalda	Limp	Tolerance Increase		250	–	300	30	150	–	160	–							
+335	Shara Ishvalda	–	Max Tolerance		1000	–	1500	670	2000	–	1500	–							
+336	Shara Ishvalda	530	Damage		2400	–	–	600	–	–	–	–							
+337	Shrieking Legiana	5|5|0	3,000		★★★	★★	★★	★★	★★	900									
+338	Shrieking Legiana	Cap	Duration		45	40	10	–	7	50	–	–							
+339	Shrieking Legiana	30%	Initial Tolerance		80	150	180	70	150	225	40	–							
+340	Shrieking Legiana	Limp	Tolerance Increase		50	100	130	30	120	75	70	–							
+341	Shrieking Legiana	12%	Max Tolerance		280	550	570	670	630	900	460	–							
+342	Shrieking Legiana	300	Damage		360	–	–	300	–	200	–	–							
+343	Silver Rathalos	5|5|0	3,000		★	★★	★★	★	★★	900									
+344	Silver Rathalos	Cap	Duration		15	40	10	–	7	40	–	–							
+345	Silver Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+346	Silver Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+347	Silver Rathalos	8%	Max Tolerance		700	550	570	720	630	900	460	–							
+348	Silver Rathalos	300	Damage		160	–	–	300	–	200	–	–							
+349	Stygian Zinogre	3|5|0	3,000		★★	★★	★★	★★★	★★	Low									
+350	Stygian Zinogre	Cap	Duration		20	40	10	–	7	50	–	–							
+351	Stygian Zinogre	30%	Initial Tolerance		150	150	180	40	150	225	50	–							
+352	Stygian Zinogre	Limp	Tolerance Increase		100	100	130	20	120	75	100	–							
+353	Stygian Zinogre	16%	Max Tolerance		550	550	570	440	630	900	550	–							
+354	Stygian Zinogre	300	Damage		320	–	–	300	–	Low	–	–							
+355	Teostra	5|5|0	4,300		★★	★	★	★	★★	–									
+356	Teostra	Cap	Duration		20	40	7	–	7	–	–	–							
+357	Teostra	–	Initial Tolerance		150	250	300	120	150	–	50	200							
+358	Teostra	Limp	Tolerance Increase		100	150	100	90	120	–	100	20							
+359	Teostra	20%	Max Tolerance		550	700	700	1920	630	–	550	750							
+360	Teostra	430	Damage		160	–	–	120	–	–	–	–							
+361	Tigrex	5|0|0	3,000		★★	★★	★★	★★	★★	500									
+362	Tigrex	Cap	Duration		20	40	10	–	7	120	–	–							
+363	Tigrex	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+364	Tigrex	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+365	Tigrex	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+366	Tigrex	300	Damage		320	–	–	300	–	150	–	–							
+367	Tobi-Kadachi	3|0|0	2,900		★★★	★★	★★	★★	★★	500									
+368	Tobi-Kadachi	Cap	Duration		25	40	10	–	7	60	–	–							
+369	Tobi-Kadachi	30%	Initial Tolerance		100	150	180	70	150	225	50	–							
+370	Tobi-Kadachi	Limp	Tolerance Increase		90	100	130	30	120	75	100	–							
+371	Tobi-Kadachi	32%	Max Tolerance		370	550	570	670	630	900	550	–							
+372	Tobi-Kadachi	290	Damage		260	–	–	120	–	150	–	–							
+373	Tzitzi-Ya-Ku	0|0|0	2,650		★★	★★	★★	★★	★★	600									
+374	Tzitzi-Ya-Ku	Cap	Duration		20	40	10	–	7	60	–	–							
+375	Tzitzi-Ya-Ku	35%	Initial Tolerance		150	150	180	70	120	225	50	–							
+376	Tzitzi-Ya-Ku	Limp	Tolerance Increase		100	100	130	30	100	75	100	–							
+377	Tzitzi-Ya-Ku	35%	Max Tolerance		550	550	570	670	620	900	550	–							
+378	Tzitzi-Ya-Ku	265	Damage		160	–	–	120	–	150	–	–							
+379	Uragaan	3|0|3	4,300		★★★	★	★★	★★	★★★	500									
+380	Uragaan	Cap	Duration		35	40	10	–	7	60	–	–							
+381	Uragaan	30%	Initial Tolerance		180	250	180	40	120	225	50	–							
+382	Uragaan	Limp	Tolerance Increase		130	150	130	20	100	75	100	–							
+383	Uragaan	30%	Max Tolerance		570	700	570	440	620	900	550	–							
+384	Uragaan	430	Damage		360	–	–	120	–	200	–	–							
+385	Vaal Hazak	5|3|0	4,700		★	★	★	★★	★★	–									
+386	Vaal Hazak	Cap	Duration		15	40	7	–	7	–	–	–							
+387	Vaal Hazak	–	Initial Tolerance		250	250	300	120	200	–	50	200							
+388	Vaal Hazak	Limp	Tolerance Increase		150	150	100	90	250	–	100	20							
+389	Vaal Hazak	20%	Max Tolerance		700	700	700	1920	800	–	550	750							
+390	Vaal Hazak	470	Damage		80	–	–	120	–	–	–	–							
+391	Velkhana	5|5|0	3,600		★★	★	★	★★★	★	–									
+392	Velkhana	Cap	Duration		20	40	7	–	7	–	–	–							
+393	Velkhana	–	Initial Tolerance		150	250	300	40	200	–	65	200							
+394	Velkhana	Limp	Tolerance Increase		100	150	100	20	150	–	110	400							
+395	Velkhana	20%	Max Tolerance		550	700	700	440	800	–	725	2200							
+396	Velkhana	360	Damage		320	–	–	300	–	–	–	–							
+397	Viper Tobi-Kadachi	3|0|0	2,900		★	★★	★	★★	★★	500									
+398	Viper Tobi-Kadachi	Cap	Duration		7	40	3	–	7	80	–	–							
+399	Viper Tobi-Kadachi	30%	Initial Tolerance		250	150	300	70	150	150	65	–							
+400	Viper Tobi-Kadachi	Limp	Tolerance Increase		150	100	100	30	120	45	110	–							
+401	Viper Tobi-Kadachi	20%	Max Tolerance		700	550	700	670	630	585	725	–							
+402	Viper Tobi-Kadachi	290	Damage		80	–	–	300	–	150	–	–							
+403	Xeno·jiiva	5|D|3	7,500		★★★	✖	★	★★	★	–									
+404	Xeno·jiiva	Cap	Duration		120	–	7	–	7	–	–	–							
+405	Xeno·jiiva	–	Initial Tolerance		300	–	300	120	200	–	–	300							
+406	Xeno·jiiva	Limp	Tolerance Increase		50	–	100	90	250	–	–	–							
+407	Xeno·jiiva	–	Max Tolerance		600	–	700	1920	800	–	–	–							
+408	Xeno·jiiva	750	Damage		800	–	–	120	–	–	–	–							
+409	Yian Garuga	5|3|0	3,150		★	★	★★	★★★	★★	600									
+410	Yian Garuga	Cap	Duration		15	40	10	–	7	45	–	–							
+411	Yian Garuga	30%	Initial Tolerance		250	250	180	40	150	225	50	–							
+412	Yian Garuga	Limp	Tolerance Increase		150	150	130	20	120	75	100	–							
+413	Yian Garuga	16%	Max Tolerance		700	700	570	440	630	900	550	–							
+414	Yian Garuga	315	Damage		160	–	–	300	–	250	–	–							
+415	Zinogre	3|5|0	3,350		★★	★★	★	★★	★★	500									
+416	Zinogre	Cap	Duration		20	40	5	–	7	50	–	–							
+417	Zinogre	30%	Initial Tolerance		150	150	300	70	150	225	50	–							
+418	Zinogre	Limp	Tolerance Increase		100	100	250	30	120	75	100	–							
+419	Zinogre	16%	Max Tolerance		550	550	1200	670	630	900	550	–							
+420	Zinogre	335	Damage		320	–	–	300	–	150	–	–										

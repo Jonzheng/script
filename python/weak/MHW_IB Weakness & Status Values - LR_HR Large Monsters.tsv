@@ -1,0 +1,1528 @@
+Monster Hunter: World Hitzone Data																			
+#	Large Monster	KE	Body Part	State										Flinch	Trip		Break	Sever	Notes
+1	Acidic Glavenus	❶	Head		43	55	45	20	10	15	5	15	100	350			700		
+2	Acidic Glavenus	❶	Neck		37	37	25	15	10	10	10	10	–						
+3	Acidic Glavenus	❶	Throat		65	45	45	25	10	15	10	10	–						
+4	Acidic Glavenus	❸	Back		45	45	35	20	5	10	10	10	–	180			180		
+5	Acidic Glavenus	❸	Body		23	23	18	15	5	10	10	10	–	220					
+6	Acidic Glavenus	❹	Forelegs		23	23	18	15	5	5	5	5	–	180			180		
+7	Acidic Glavenus	❷	Hind Legs		30	30	25	15	5	10	5	5	–	180	2	6			L,R
+8	Acidic Glavenus	❶	Tail Base		37	32	25	20	10	15	10	10	–						
+9	Acidic Glavenus	❶	Tail		37	32	25	25	10	15	10	10	–	280				320	
+10	Acidic Glavenus	❶	Tail	Hvy Crystal	18	24	15	35	5	20	5	5	–						
+11	Acidic Glavenus	❶	Tail	Sharpened	65	60	50	20	10	10	10	15	–						
+12	Alatreon	❶	Head		85	85	30	13	10	10	13	13	100	555			150		x2 Break
+13	Alatreon	❶	Neck		85	85	30	13	10	10	13	13	–						
+14	Alatreon	❸	Body		20	25	45	7	5	5	7	7	–	600					
+15	Alatreon	❷	Wings		35	35	25	17	13	13	17	17	–	375			750		
+16	Alatreon	❷	Arms		60	60	20	20	16	16	20	20	–	480					
+17	Alatreon	❸	Legs		40	40	25	17	13	13	17	17	–	400					
+18	Alatreon	❸	Tail		40	35	40	10	8	8	10	10	–	375				365	
+19	Alatreon	❶	Head	Fire	85	85	30	0	10	3	14	1	100		1	12		75	Element
+20	Alatreon	❶	Neck	Fire	85	85	30	0	10	3	14	1	–						
+21	Alatreon	❸	Body	Fire	20	25	45	0	5	1	7	0	–						
+22	Alatreon	❷	Wings	Fire	35	35	25	0	13	4	18	1	–						
+23	Alatreon	❷	Arms	Fire	60	60	20	0	16	5	22	2	–						
+24	Alatreon	❸	Legs	Fire	40	40	25	0	13	4	18	1	–						
+25	Alatreon	❸	Tail	Fire	40	35	40	0	8	2	11	1	–						
+26	Alatreon	❶	Head	Ice	85	85	30	14	3	10	0	1	100		1	12		75	Element
+27	Alatreon	❶	Neck	Ice	85	85	30	14	3	10	0	1	–						
+28	Alatreon	❸	Body	Ice	20	25	45	7	1	5	0	0	–						
+29	Alatreon	❷	Wings	Ice	35	35	25	18	4	13	0	1	–						
+30	Alatreon	❷	Arms	Ice	60	60	20	22	5	16	0	2	–						
+31	Alatreon	❸	Legs	Ice	40	40	25	18	4	13	0	1	–						
+32	Alatreon	❸	Tail	Ice	40	35	40	11	2	8	0	1	–						
+33	Alatreon	❶	Head	Dragon	85	85	30	6	5	5	6	9	100		1	12		75	Element
+34	Alatreon	❶	Neck	Dragon	85	85	30	6	5	5	6	9	–						
+35	Alatreon	❸	Body	Dragon	20	25	45	3	2	2	3	4	–						
+36	Alatreon	❷	Wings	Dragon	35	35	25	8	6	6	8	11	–						
+37	Alatreon	❷	Arms	Dragon	60	60	20	10	8	8	10	14	–						
+38	Alatreon	❸	Legs	Dragon	40	40	25	8	6	6	8	11	–						
+39	Alatreon	❸	Tail	Dragon	40	35	40	5	4	4	5	7	–						
+40	Ancient Leshen	❶	Head		65	65	50	25	0	15	10	15	100	15000	B	5	15000		L,R
+41	Ancient Leshen	❸	Body		45	45	25	20	0	10	5	10	–	9000	B	5	9000		
+42	Ancient Leshen	❷	Arms		45	45	30	20	0	10	5	10	–	7500					
+43	Ancient Leshen	❷	Legs		45	45	30	20	0	10	5	10	–	9000	B	5	9000		
+44	Anjanath	❶	Nose		80	75	90	0	30	15	20	10	100						
+45	Anjanath	❶	Head		70	70	65	0	25	10	15	5	100	150			750		
+46	Anjanath	❶	Neck		30	30	10	0	20	5	15	5	–						
+47	Anjanath	❸	Wings		80	45	90	0	30	15	20	10	–						
+48	Anjanath	❸	Body		30	30	45	0	15	5	10	0	–	350					
+49	Anjanath	❷	Legs		30	30	10	0	15	5	10	0	–	80	3	3	240		L,R
+50	Anjanath	❷	Legs 	Broken	45	45	50	0	15	5	10	0	–						L,R
+51	Anjanath	❸	Tail		60	60	75	0	20	10	15	5	–	100				350	
+52	Azure Rathalos	❶	Head		60	65	55	0	15	15	20	30	100	240	^	12	480		
+53	Azure Rathalos	❶	Neck		30	35	25	0	5	5	10	20	–						
+54	Azure Rathalos	❸	Body		22	22	20	0	5	5	10	20	–	300			300		
+55	Azure Rathalos	❸	Back		22	22	20	0	5	5	10	20	–						
+56	Azure Rathalos	❷	Wings		50	45	40	0	10	10	15	25	–	220			220		L,R
+57	Azure Rathalos	❸	Legs		35	35	30	0	0	0	5	15	–	190	1	8			L,R
+58	Azure Rathalos	❹	Tail		25	25	20	0	5	5	10	20	–	200				200	
+59	Azure Rathalos	❹	Tail Tip		55	50	45	0	10	10	15	25	–						
+60	Banbaro	❶	Horns		30	45	35	10	0	5	0	15	100	250			300		x2 Break
+61	Banbaro	❶	Horns	Broken	65	65	55	20	0	10	0	25	100		3	13			
+62	Banbaro	❶	Head		65	65	55	20	0	10	0	25	100						
+63	Banbaro	❶	Neck		45	45	35	5	0	0	0	10	–						
+64	Banbaro	❹	Body		30	30	25	0	0	0	0	5	–	300					
+65	Banbaro	❷	Forearms		30	30	25	0	0	0	0	5	–						
+66	Banbaro	❷	Hind Legs		45	45	45	0	0	0	0	5	–	300	1	10	300		L,R
+67	Banbaro	❷	Hind Legs	Broken	55	55	50	5	0	0	0	10	–						
+68	Banbaro	❸	Tail		35	35	25	0	0	0	0	5	–	250				400	
+69	Barioth	❶	Head		65	70	55	20	10	15	0	15	100	260	B	9	780		
+70	Barioth	❶	Neck/Back		30	30	25	5	5	5	0	5	–						
+71	Barioth	❸	Belly		38	38	25	10	0	5	0	5	–	400					
+72	Barioth	❷	Claws		21	45	25	35	5	25	0	10	–	200	B	9	200		L,R
+73	Barioth	❷	Claws	Broken	25	45	30	20	5	15	0	10	–		2	5			
+74	Barioth	❷	Wings		30	45	20	10	0	5	0	5	–						
+75	Barioth	❷	Front Legs		40	45	35	15	0	10	0	5	–						
+76	Barioth	❸	Hind Legs		25	24	25	5	5	5	0	5	–	220					L,R
+77	Barioth	❹	Tail		45	23	45	10	0	5	0	5	–	200					
+78	Barioth	❹	Tail Tip		60	40	40	15	0	10	0	5	–	200				400	
+79	Barroth	❶	Head		22	25	10	20	0	0	15	10	100	150				200	
+80	Barroth	❶	Head 	Mud	20	24	9	0	80	0	15	10	100	25			25		
+81	Barroth	❸	Body		46	46	50	20	0	0	10	5	–	200					
+82	Barroth	❸	Body 	Mud	24	24	20	0	80	0	15	10	–	25			25		
+83	Barroth	❸	Forearms		80	85	75	30	0	0	10	5	–	180			180		
+84	Barroth	❸	Forearms 	Mud	35	38	30	0	80	0	15	10	–	25			25		
+85	Barroth	❷	Hindlegs		40	35	25	20	0	0	10	5	–	120	1*	12	120		L,R
+86	Barroth	❷	Hindlegs 	Mud	24	24	20	0	80	0	15	10	–	25			25		L,R
+87	Barroth	❹	Tail		55	50	40	25	0	0	15	10	–	200				450	
+88	Barroth	❹	Tail 	Mud	25	25	22	0	80	0	15	10	–	25			25		
+89	Bazelgeuse	❶	Head		80	85	60	0	15	25	20	20	100	300			600		
+90	Bazelgeuse	❸	Body		45	45	35	0	5	15	10	10	–	320			320		
+91	Bazelgeuse	❸	Back		30	30	25	0	5	15	10	10	–						
+92	Bazelgeuse	❷	Legs		36	34	30	0	5	15	10	10	–	240	1	8			
+93	Bazelgeuse	❷	Wings		25	25	65	0	5	15	10	10	–	180			180		L,R
+94	Bazelgeuse	❶	Tail		75	70	55	0	10	20	15	15	–	280				500	
+95	Behemoth	❸	Horn		20	30	5	15	50	35	40	85	100	500			750		
+96	Behemoth	❸	Horn 	Broken	10	15	5	5	10	5	5	25	100	500					
+97	Behemoth	❸	Head		60	55	50	0	25	10	10	5	100	2500					
+98	Behemoth	❶	Shoulder		20	10	15	5	10	5	5	15	–						
+99	Behemoth	❶	Forearms		50	40	45	5	10	5	5	15	–	2250	2,B	3	6750		L,R
+100	Behemoth	❹	Back		15	22	8	0	5	5	5	0	–	2250					
+101	Behemoth	❹	Belly		22	15	5	0	0	0	0	0	–	4500					
+102	Behemoth	❷	Hindlegs		30	55	10	0	10	10	25	5	–	1650					L,R
+103	Behemoth	❸	Tail		45	25	15	25	5	15	5	5	–	1200					
+104	Behemoth	❸	Tail Tip		50	25	35	25	20	20	20	10	–					2000	
+105	Beotodus	❶	Head		46	50	45	25	10	15	0	0	100	140	^	12	420		
+106	Beotodus	❶	Head	Snow	30	34	25	25	0	5	0	0	–	80			80		
+107	Beotodus	❸	Body/Back		35	35	35	20	5	10	0	0	–	180	^	6	180		
+108	Beotodus	❸	Body/Back	Snow	30	30	25	20	0	5	0	0	–	100			100		
+109	Beotodus	❸	Legs		70	65	50	30	10	15	0	0	–	320			640		
+110	Beotodus	❷	Tail		40	35	35	20	5	10	0	0	–	160	^	6	160		
+111	Beotodus	❷	Tail	Snow	34	30	25	20	0	5	0	0	–	80			80		
+112	Black Diablos	❶	Horn		19	37	15	0	20	10	25	0	100	200			200		x2 Break
+113	Black Diablos	❶	Head		43	55	30	0	25	10	30	0	100	200					
+114	Black Diablos	❶	Neck		40	40	25	0	15	5	20	0	–						
+115	Black Diablos	❸	Stomach		63	68	35	0	30	10	35	0	–						
+116	Black Diablos	❸	Back		24	42	30	0	20	10	25	0	–	300			300		*Body
+117	Black Diablos	❸	Wings		40	30	60	0	25	10	30	0	–	150					L,R
+118	Black Diablos	❷	Legs		35	35	35	0	10	5	15	0	–	200	1	6			L,R
+119	Black Diablos	❶	Tail		45	24	45	0	20	10	15	0	–	300				500	
+120	Black Diablos	❶	Tail Tip		20	24	10	0	20	10	25	0	–						
+121	Blackveil Vaal Hazak	❶	Head		65	75	50	15	5	10	15	0	100	300	2	5	900		
+122	Blackveil Vaal Hazak	❶	Head 	Broken	75	85	60	20	5	10	15	25	100						
+123	Blackveil Vaal Hazak	❶	Neck		30	30	25	10	5	5	10	15	–						
+124	Blackveil Vaal Hazak	❸	Chest		30	30	25	10	5	5	10	15	–	150					
+125	Blackveil Vaal Hazak	❸	Chest	Spore Sac	60	65	45	15	10	10	10	20	–	200					
+126	Blackveil Vaal Hazak	❸	Stomach		35	40	25	15	5	5	10	0	–	300			300		
+127	Blackveil Vaal Hazak	❸	Stomach 	Broken	45	50	35	20	5	10	15	25	–						
+128	Blackveil Vaal Hazak	❸	Back		25	24	20	15	5	5	10	0	–						
+129	Blackveil Vaal Hazak	❸	Back 	Broken	45	45	30	20	5	10	15	25	–						
+130	Blackveil Vaal Hazak	❸	Hindlegs		23	23	20	5	0	0	0	5	–	250					L,R
+131	Blackveil Vaal Hazak	❷	Forelegs		45	40	20	10	0	0	5	5	–	130			130		L,R
+132	Blackveil Vaal Hazak	❷	Forelegs 	Broken	50	45	30	15	5	5	10	20	–						
+133	Blackveil Vaal Hazak	❷	Wings		23	23	25	15	5	10	10	15	–	150					
+134	Blackveil Vaal Hazak	❹	Tail		30	24	30	15	5	10	10	15	–	120					
+135	Blackveil Vaal Hazak	❹	Tail	Spore Sac	60	55	45	15	10	10	10	20	–	200					
+136	Blackveil Vaal Hazak	❹	Tail Tip		50	25	40	15	5	10	10	15	–	120				240	
+137	Brachydios	❶	Head		55	60	45	0	15	10	20	5	100	250	2	8	1000		
+138	Brachydios	❶	Neck		30	30	25	0	15	5	20	5	–						
+139	Brachydios	❸	Body		30	30	25	0	10	5	15	0	–	350					
+140	Brachydios	❶	Forearms 		40	40	35	0	15	5	30	0	–	200			400		L,R
+141	Brachydios	❷	Hind Legs		30	30	20	0	10	5	15	0	–	150					L,R
+142	Brachydios	❸	Tail		50	45	50	0	15	10	15	5	–	200					
+143	Brachydios	❸	Tail Tip		20	20	15	0	5	5	10	10	–	200				350	
+144	Brute Tigrex	❶	Head		55	60	45	0	25	15	10	15	100	300			300		
+145	Brute Tigrex	❶	Neck		25	25	15	5	15	15	12	15	–						
+146	Brute Tigrex	❸	Belly		25	25	15	5	15	15	12	15	–	450					
+147	Brute Tigrex	❸	Back		25	25	15	0	15	15	10	15	–						
+148	Brute Tigrex	❷	Forelegs		45	40	30	0	20	18	12	5	–	300	2	8	600		L,R
+149	Brute Tigrex	❸	Hindlegs		30	30	20	0	15	10	12	10	–	250					L,R
+150	Brute Tigrex	❹	Tail		35	30	25	0	10	5	0	5	–						
+151	Brute Tigrex	❹	Tail Tip		35	30	25	0	10	10	0	10	–	350				350	
+152	Coral Pukei-Pukei	❶	Head		60	65	45	10	0	15	30	10	100	500			1000		
+153	Coral Pukei-Pukei	❸	Body		30	30	25	5	0	5	15	5	–	350			350		
+154	Coral Pukei-Pukei	❷	Wings		34	34	40	5	0	10	25	5	–	260			260		L,R
+155	Coral Pukei-Pukei	❸	Legs		30	30	25	5	0	10	20	5	–	290	1	8			L,R
+156	Coral Pukei-Pukei	❹	Tail		40	35	30	5	0	10	25	5	–	500				350	
+157	Deviljho	❶	Head		60	70	60	10	10	15	5	15	100	350					
+158	Deviljho	❸	Chest		37	37	35	15	15	20	10	20	–	100					
+159	Deviljho	❸	Torso		25	25	25	5	5	20	5	20	–	400					
+160	Deviljho	❷	Forelegs		30	30	30	5	5	20	5	20	–	150					
+161	Deviljho	❷	Hindlegs		45	38	35	5	5	10	5	10	–	200	1,2	3			L,R
+162	Deviljho	❹	Tail		40	35	25	5	5	20	5	20	–	180				540	
+163	Deviljho	❶	Head 	Enraged	45	50	45	15	15	20	10	20	100	350	Chrg	12			
+164	Deviljho	❸	Chest 	Enraged	75	75	70	20	20	25	15	25	–	100					
+165	Deviljho	❸	Torso 	Enraged	22	22	20	10	10	25	10	25	–	400					
+166	Deviljho	❷	Forelegs 	Enraged	25	25	25	10	10	25	10	25	–	150					
+167	Deviljho	❷	Hindlegs 	Enraged	25	25	25	10	10	15	5	15	–	200	2	3			L,R
+168	Deviljho	❹	Tail 	Enraged	25	25	20	5	5	20	5	20	–	180				540	
+169	Diablos	❶	Horn		21	42	20	0	20	10	25	20	100	200			200		x2 Break
+170	Diablos	❶	Head		45	63	40	0	25	10	30	25	100	200					
+171	Diablos	❶	Neck		40	40	25	0	15	5	20	15	–						
+172	Diablos	❸	Stomach		73	78	40	0	30	10	35	30	–						
+173	Diablos	❸	Back		24	42	35	0	20	10	25	20	–	300			600		*Body
+174	Diablos	❸	Wings		40	30	60	0	25	10	30	25	–	150			150		L,R
+175	Diablos	❷	Legs		35	35	35	0	10	5	15	10	–	200	1	6			L,R
+176	Diablos	❶	Tail		50	24	45	0	20	10	15	20	–	300				500	
+177	Diablos	❶	Tail Tip		23	33	10	0	20	10	25	20	–						
+178	Dodogama	❶	Head		35	35	25	0	20	30	20	10	100	150			750		
+179	Dodogama	❶	Head 	Rock 1	75	75	65	0	20	30	20	10	100						
+180	Dodogama	❶	Head 	Rock 2	100	100	90	0	20	30	20	10	100						
+181	Dodogama	❶	Neck		30	30	20	0	10	25	10	5	100						
+182	Dodogama	❶	Neck 	Rock 1	65	65	55	0	10	25	10	5	100						
+183	Dodogama	❶	Neck 	Rock 2	90	90	80	0	10	25	10	5	100						
+184	Dodogama	❸	Body		45	45	40	0	5	10	5	5	–	300					
+185	Dodogama	❸	Back		45	45	40	0	5	10	5	5	–						
+186	Dodogama	❷	Forelegs		45	45	40	0	5	10	5	5	–	210	2	8	210		
+187	Dodogama	❷	Hindlegs		45	45	40	0	5	10	5	5	–	240	1	8			
+188	Dodogama	❹	Tail		60	60	50	0	10	15	10	5	–	100				270	
+189	Ebony Odogaron	❶	Head		43	45	45	25	35	25	25	5	100	200			400		
+190	Ebony Odogaron	❶	Head	Broken	65	75	55	20	25	20	20	5	100						
+191	Ebony Odogaron	❶	Neck		25	30	25	15	20	15	15	5	100						
+192	Ebony Odogaron	❸	Body		25	25	20	10	15	10	10	5	–	450					
+193	Ebony Odogaron	❸	Back		25	25	20	10	15	10	10	5	–						
+194	Ebony Odogaron	❶	Forelegs		34	38	30	20	30	20	20	5	–	220	B	6	220		
+195	Ebony Odogaron	❶	Forelegs	Broken	45	45	40	10	20	10	10	5	–						
+196	Ebony Odogaron	❷	Hindlegs		30	30	25	20	30	20	20	5	–	200	B	6	200		
+197	Ebony Odogaron	❷	Hindlegs	Broken	50	50	40	10	20	10	10	5	–						
+198	Ebony Odogaron	❸	Tail		25	22	25	20	30	20	20	5	–	250	^	4	250		
+199	Ebony Odogaron	❸	Tail	Broken	50	45	45	10	15	10	10	5	–						
+200	Ebony Odogaron	❸	Tail Tip		45	30	40	15	20	15	15	5	–					500	
+201	Fatalis	❶	Head		75	75	33	17	5	5	12	25	–	450	B	12	1350	2700	x2 Break
+202	Fatalis	❶	Neck		40	40	7	10	5	5	5	13	–	500					
+203	Fatalis	❸	Chest		45	45	45	13	5	5	10	15	–	675			1350		
+204	Fatalis	❸	Chest	Critical	70	70	48	5	5	5	10	15	–						
+205	Fatalis	❸	Back		25	25	5	7	5	5	5	10	–	500					
+206	Fatalis	❷	Wings		25	30	35	10	5	5	5	13	–	200			200		L,R
+207	Fatalis	❸	Front Legs		45	45	45	15	5	5	12	17	–	500					L,R*
+208	Fatalis	❷	Hind Legs		25	25	5	10	5	5	5	13	–	500					L,R
+209	Fatalis	❹	Tail		25	20	5	10	5	5	5	13	–	400					
+210	Frostfang Barioth	❶	Head		65	70	55	20	10	15	0	15	100	420			420	840	x2 Break
+211	Frostfang Barioth	❶	Neck/Back		30	30	25	5	5	5	0	5	–						
+212	Frostfang Barioth	❸	Belly		38	38	25	10	0	5	0	5	–	400					
+213	Frostfang Barioth	❷	Claws		21	45	25	35	5	25	0	10	–	200	B	9	400		L,R
+214	Frostfang Barioth	❷	Claws	Broken	25	45	30	20	5	15	0	10	–		2	5			
+215	Frostfang Barioth	❷	Wings		30	45	20	10	0	5	0	5	–						
+216	Frostfang Barioth	❷	Forelegs		40	45	35	15	0	10	0	5	–						
+217	Frostfang Barioth	❸	Hindlegs		25	24	25	5	5	5	0	5	–	220					L,R
+218	Frostfang Barioth	❹	Tail		45	23	45	10	0	5	0	5	–	200					
+219	Frostfang Barioth	❹	Tail Tip		60	40	40	15	0	10	0	5	–	200				400	
+220	Fulgur Anjanath	❶	Nose		65	60	55	15	20	0	30	10	100						
+221	Fulgur Anjanath	❶	Nose	Charged	65	60	55	15	35	0	20	10	100						
+222	Fulgur Anjanath	❶	Head		60	60	45	10	15	0	25	5	100	150			750		
+223	Fulgur Anjanath	❶	Head	Charged	55	55	45	10	25	0	15	5	100						
+224	Fulgur Anjanath	❶	Neck		30	30	10	5	15	0	20	5	–						
+225	Fulgur Anjanath	❶	Neck	Charged	23	23	10	5	20	0	15	5	–						
+226	Fulgur Anjanath	❸	Wings		65	45	55	15	20	0	30	10	–						
+227	Fulgur Anjanath	❸	Wings	Charged	55	40	50	15	35	0	20	10	–						
+228	Fulgur Anjanath	❸	Body		30	30	45	5	10	0	15	0	–	350					
+229	Fulgur Anjanath	❸	Body	Charged	23	23	40	5	15	0	10	0	–						
+230	Fulgur Anjanath	❷	Legs		30	30	10	5	10	0	15	0	–	80	3	3	240		L,R
+231	Fulgur Anjanath	❷	Legs	Charged	35	35	15	5	15	0	10	0	–						
+232	Fulgur Anjanath	❷	Legs 	Broken	45	45	50	5	15	0	15	0	–						
+233	Fulgur Anjanath	❸	Tail		60	60	75	10	15	0	20	5	–	100				350	
+234	Fulgur Anjanath	❸	Tail	Charged	55	55	70	10	20	0	15	5	–						
+235	Fulgur Anjanath	❸	Tail	Broken	60	60	75	10	15	0	15	5	–						
+236	Furious Rajang	❶	Head		55	57	45	0	5	0	20	0	100	600	1	10	600	1200	x2 Break
+237	Furious Rajang	❶	Head	Rampage	60	62	50	0	5	0	20	0	100						
+238	Furious Rajang	❸	Forelegs		38	38	30	0	5	0	10	0	–	250	1	10	250		L,R
+239	Furious Rajang	❸	Forelegs	Rampage	5	5	5	0	5	0	10	0	–						
+240	Furious Rajang	❷	Hindlegs		21	21	15	0	5	0	10	0	–	240					
+241	Furious Rajang	❸	Body		30	35	20	0	5	0	10	0	–	350					
+242	Glavenus	❶	Head		50	55	30	0	25	10	15	15	100	350	^	3	700		x2 Break
+243	Glavenus	❶	Neck		37	37	25	0	20	10	13	10	–						
+244	Glavenus	❶	Throat		65	65	45	0	30	10	15	10	–						
+245	Glavenus	❸	Back		45	45	35	0	20	5	10	10	–	250			250		
+246	Glavenus	❸	Body		20	20	30	0	15	5	10	10	–	200					
+247	Glavenus	❹	Forearms		20	20	18	0	15	5	5	5	–	200			200		
+248	Glavenus	❷	Hind Legs		37	35	25	0	15	5	5	5	–	180	2	6			L,R
+249	Glavenus	❶	Tail Base		37	35	25	0	20	10	15	15	–						
+250	Glavenus	❶	Tail		37	35	25	0	20	5	10	10	–	200			200		
+251	Glavenus	❶	Tail	Rusted	20	20	15	0	15	5	5	5	–						
+252	Glavenus	❶	Tail	Heating	65	60	45	0	25	10	15	15	–					270	
+253	Gold Rathian	❶	Head		20	20	20	0	5	10	5	0	100	240	^	12	480		
+254	Gold Rathian	❶	Head	Broken	55	60	50	0	20	30	10	0	100						
+255	Gold Rathian	❶	Neck		20	20	20	0	5	10	5	0	–						
+256	Gold Rathian	❶	Neck	Broken	30	35	30	0	20	30	10	0	–						
+257	Gold Rathian	❸	Body		25	30	30	5	10	15	10	0	–						
+258	Gold Rathian	❸	Back		20	20	15	0	5	10	5	0	–	350			350		
+259	Gold Rathian	❷	Wings	 	44	44	45	0	15	20	10	0	–	230	3^	12	230		L,R
+260	Gold Rathian	❸	Legs		38	35	28	0	10	10	5	0	–	240	2	8			L,R
+261	Gold Rathian	❹	Tail		20	20	15	0	5	10	5	0	–						
+262	Gold Rathian	❹	Tail Tip		45	45	35	0	10	10	5	0	–	300				1100	
+263	Great Girros	❶	Head		80	85	75	15	30	0	20	10	100	210			420		
+264	Great Girros	❶	Neck		40	45	35	5	20	0	10	5	100						
+265	Great Girros	❸	Body		35	35	30	0	15	0	5	0	–	360					
+266	Great Girros	❸	Back		35	35	30	0	15	0	5	0	–						
+267	Great Girros	❷	Forelegs		55	50	45	10	25	0	15	5	–	240	1	8	240		
+268	Great Girros	❷	Hindlegs		40	40	35	0	15	0	5	0	–	270	1	8			
+269	Great Girros	❹	Tail		50	45	40	5	20	0	10	5	–	300				270	
+270	Great Jagras	❶	Head		80	85	75	30	0	20	15	10	100	150			300		
+271	Great Jagras	❶	Neck		65	70	60	20	0	10	5	5	100						
+272	Great Jagras	❸	Body		50	45	40	20	0	10	5	0	–	300					
+273	Great Jagras	❸	Stomach 	Inflated	90	95	85	30	0	20	15	10	–	120			360		
+274	Great Jagras	❸	Back		45	40	35	15	0	5	5	0	–						
+275	Great Jagras	❷	Forelegs		65	60	55	25	0	15	10	5	–	210	2	8	210		
+276	Great Jagras	❷	Hindlegs		45	40	35	15	0	5	0	0	–	240	1	8			
+277	Great Jagras	❹	Tail		45	45	40	15	0	5	0	0	–	270					
+278	Jyuratodus	❶	Head		63	63	63	5	0	10	5	5	100	100	^	5	400		
+279	Jyuratodus	❶	Head 	Mud	50	50	40	0	25	0	5	5	100	100			100		
+280	Jyuratodus	❶	Neck		43	43	43	5	0	10	5	5	–						
+281	Jyuratodus	❷	Body		35	35	35	10	0	25	5	5	–	300	^	5	300		
+282	Jyuratodus	❷	Body 	Mud	30	30	25	0	25	0	5	5	–	100			300		
+283	Jyuratodus	❷	Back		25	25	25	5	0	15	5	5	–						
+284	Jyuratodus	❷	Fins		25	25	25	10	0	20	5	5	–						
+285	Jyuratodus	❷	Legs		30	30	25	15	0	30	5	5	–	240	1	10	480		L,R
+286	Jyuratodus	❷	Legs 	Mud	35	35	30	0	25	0	5	5	–	100			200		L,R
+287	Jyuratodus	❸	Tail		55	50	45	5	0	10	5	5	–	100			300		
+288	Jyuratodus	❸	Tail 	Mud	50	50	40	0	25	0	5	5	–	100			100		
+289	Kirin	❶	Head		55	55	45	25	20	0	20	5	100	200	2	6	200		≤15% HP
+290	Kirin	❸	Body		31	31	22	20	15	0	15	5	–	240					
+291	Kirin	❸	Body 	Electric	20	20	10	15	10	0	10	5	–						
+292	Kirin	❷	Lower Body		29	29	20	20	15	0	15	5	–	260					
+293	Kirin	❷	Lower Body 	Electric	20	20	10	15	10	0	10	5	–						
+294	Kulu-Ya-Ku	❶	Head		85	85	75	15	20	15	15	15	100	180			180		
+295	Kulu-Ya-Ku	❶	Forearms		65	70	55	15	20	15	15	15	–	160			160		
+296	Kulu-Ya-Ku	❷	Body		45	45	40	15	20	15	15	15	–	200	3	10			
+297	Kulu-Ya-Ku	❶	Tail		55	50	35	15	20	15	15	15	–	160					
+298	Kulu-Ya-Ku	❸	Rock		5	5	5	5	20	5	5	5	–	15					
+299	Kulve Taroth	❶	Head		25	30	10	5	10	25	0	5	100	540			540		
+300	Kulve Taroth	❸	Chest		50	45	45	0	20	0	40	25	–				100		L,R
+301	Kulve Taroth	❷	Exp. Foreleg		50	40	30	0	20	0	40	25	–						
+302	Kulve Taroth	❷	Forelegs		25	30	10	5	10	25	0	5	–				120		L,R
+303	Kulve Taroth	❷	Hindlegs		40	35	15	0	10	0	30	15	–						
+304	Kulve Taroth	❸	Body		25	30	10	5	10	25	0	5	–	720					
+305	Kulve Taroth	❸	Tail		25	30	10	5	10	25	0	5	–				120		2L,2R
+306	Kulve Taroth	❶	Head 	Molten	60	75	30	25	30	50	0	25	100						
+307	Kulve Taroth	❷	Forelegs	Molten	60	75	30	25	30	50	0	25	–				120		L,R
+308	Kulve Taroth	❸	Body 	Molten	60	75	30	25	30	50	0	25	–	720					
+309	Kulve Taroth	❸	Tail 	Molten	60	75	30	25	30	50	0	25	–				120		2L,2R
+310	Kulve Taroth	❶	Head 	Released	80	85	25	0	30	0	50	35	100	540			540		
+311	Kulve Taroth	❸	Chest 	Released	50	45	45	0	20	0	40	25	–	720					
+312	Kulve Taroth	❷	Forelegs 	Released	50	40	30	0	20	0	40	25	–	400	2				
+313	Kulve Taroth	❷	Hindlegs 	Released	40	35	15	0	10	0	30	15	–	400	4				
+314	Kulve Taroth	❸	Body 	Released	35	35	20	0	10	0	30	15	–	720					
+315	Kulve Taroth	❸	Tail 	Released	40	45	20	0	10	0	30	15	–				540		
+316	Kushala Daora	❶	Head		55	50	45	10	5	20	0	10	100	300	1	8	1500		≤15% HP
+317	Kushala Daora	❶	Neck		40	35	25	10	5	15	0	5	–						
+318	Kushala Daora	❸	Body		35	50	25	10	5	15	0	10	–	100					
+319	Kushala Daora	❷	Wings		20	15	20	10	5	20	0	15	–	100			200		
+320	Kushala Daora	❸	Back		20	25	30	10	5	15	0	10	–						
+321	Kushala Daora	❸	Forelegs		45	50	30	10	5	20	0	10	–	120	^	5			
+322	Kushala Daora	❸	Hindlegs		30	30	25	10	5	15	0	5	–	120	^	5			
+323	Kushala Daora	❹	Tail		35	30	55	10	5	20	0	15	–	140				400	
+324	Lavasioth	❶	Head 	Hardened	15	20	15	50	15	0	0	5	100						
+325	Lavasioth	❶	Head 	Broken	35	40	35	5	35	15	15	5	100						
+326	Lavasioth	❶	Head 	Heated	55	60	55	0	45	10	10	5	100	100			600		
+327	Lavasioth	❶	Neck		15	15	15	10	10	0	0	5	–						
+328	Lavasioth	❸	Abdomen		35	35	35	10	10	0	0	5	–	100					
+329	Lavasioth	❸	Body	Hardened	20	20	20	10	15	0	0	5	–						
+330	Lavasioth	❸	Body	Broken	35	35	35	5	30	20	20	5	–						
+331	Lavasioth	❸	Body	Heated	50	45	50	0	35	15	15	5	–	300			600		
+332	Lavasioth	❸	Fins		30	30	30	10	10	0	0	5	–						
+333	Lavasioth	❷	Legs 	Hardened	15	15	15	10	5	0	0	5	–						
+334	Lavasioth	❷	Legs 	Broken	30	30	30	5	25	5	5	5	–						
+335	Lavasioth	❷	Legs 	Heated	40	40	40	0	30	5	5	5	–	120	B	10	480		L,R
+336	Lavasioth	❶	Tail 	Hardened	20	15	20	10	10	0	0	5	–						
+337	Lavasioth	❶	Tail 	Broken	35	30	35	5	30	15	15	5	–						
+338	Lavasioth	❶	Tail 	Heated	45	40	45	0	35	10	10	5	–	100			400		
+339	Legiana	❶	Head		65	70	60	20	15	25	0	10	100	210	^	12	420		
+340	Legiana	❶	Neck		35	40	30	10	5	15	0	5	–						
+341	Legiana	❸	Body		25	25	20	10	5	15	0	5	–	300			300		
+342	Legiana	❸	Back		25	25	20	10	5	15	0	5	–						
+343	Legiana	❷	Wings		50	45	40	15	10	20	0	5	–	210			210		L,R
+344	Legiana	❸	Legs		35	35	30	5	0	10	0	0	–	240	1	8			L,R
+345	Legiana	❹	Tail		45	40	35	10	5	15	0	5	–	270	^	12	270		
+346	Leshen	❶	Head		65	65	60	25	0	15	10	15	100	600	B	5	600		L,R
+347	Leshen	❸	Body		45	45	45	20	0	10	5	10	–	500	B	5	500		
+348	Leshen	❷	Arms		45	45	50	20	0	10	5	10	–	400					
+349	Leshen	❷	Legs		45	45	50	20	0	10	5	10	–	500	B	5	500		
+350	Lunastra	❶	Head		40	60	45	0	7	7	30	25	100	200	B	8	200		≤15% HP
+351	Lunastra	❶	Neck		33	38	33	0	3	3	20	15	–						
+352	Lunastra	❸	Body		20	20	20	0	0	0	15	10	–	400					
+353	Lunastra	❸	Back		20	25	20	0	0	0	15	10	–						
+354	Lunastra	❷	Forelegs		25	30	20	0	3	3	15	10	–	300	2	8			Shared
+355	Lunastra	❷	Hindlegs		30	25	20	0	3	3	15	10	–	300	2	8			Shared
+356	Lunastra	❷	Wings		55	35	40	0	7	7	25	20	–	280			280		L,R
+357	Lunastra	❸	Tail		45	38	55	0	3	3	20	15	–	250				500	
+358	Namielle	❶	Head		40	40	25	40	0	0	15	30	100	300	2	8	1500		≤15% HP
+359	Namielle	❶	Head	Dehydrated	60	65	50	5	0	0	5	10	100						
+360	Namielle	❶	Neck		25	25	40	25	0	0	10	15	–						
+361	Namielle	❶	Neck	Dehydrated	45	40	45	10	0	0	5	5	–						
+362	Namielle	❸	Back		25	25	30	30	0	0	10	20	–						
+363	Namielle	❸	Back	Dehydrated	30	30	45	10	0	0	5	10	–						
+364	Namielle	❸	Stomach		30	45	45	20	0	0	15	15	–	300					
+365	Namielle	❸	Stomach	Dehydrated	40	60	50	10	0	0	5	10	–						
+366	Namielle	❸	Forelegs		45	35	20	10	0	0	15	10	–	360			720		
+367	Namielle	❸	Forelegs	Dehydrated	65	55	30	5	0	0	5	10	–						
+368	Namielle	❸	Hindlegs		20	20	20	10	0	0	5	5	–	150					
+369	Namielle	❸	Hindlegs	Dehydrated	25	25	25	5	0	0	5	5	–						
+370	Namielle	❷	Wings		25	25	20	30	5	0	20	20	–	200			400		
+371	Namielle	❷	Wings	Dehydrated	35	35	30	10	0	0	5	15	–						
+372	Namielle	❹	Tail		25	25	25	25	0	0	10	15	–	140				400	
+373	Namielle	❹	Tail	Dehydrated	40	35	30	10	0	0	5	15	–						
+374	Nargacuga	❶	Head		65	70	40	20	0	30	10	10	100	250	5	8	1000		
+375	Nargacuga	❶	Neck/Back		30	30	35	10	0	15	5	5	–						
+376	Nargacuga	❸	Belly		40	40	30	10	0	20	5	5	–	300					
+377	Nargacuga	❷	Front Legs		21	21	15	10	0	15	5	5	–	200	B,2	8	200		L,R
+378	Nargacuga	❷	Front Legs	Broken	43	23	35	10	0	20	5	5	–						
+379	Nargacuga	❷	Hind Legs		30	30	25	10	0	15	5	5	–	230					L,R
+380	Nargacuga	❸	Tail		46	40	45	10	0	25	5	5	–	200					
+381	Nargacuga	❸	Tail Tip		40	35	40	10	0	20	5	5	–					850	
+382	Nergigante	❸	Horn		20	25	35	5	15	20	0	10	100	130			280		x2 Break
+383	Nergigante	❸	Horn 	Broken	35	40	45	5	15	20	0	5	100						
+384	Nergigante	❶	Head		45	60	40	5	10	15	15	5	100	190			100		
+385	Nergigante	❶	Head 	White	75	90	70	5	10	15	15	5	100		B	6	150		60s
+386	Nergigante	❶	Head 	Black	20	25	15	5	10	20	15	10	100		B	6	300		
+387	Nergigante	❸	Body		35	30	35	0	0	10	5	5	–	450					
+388	Nergigante	❸	Back		30	35	30	0	0	10	5	5	–						
+389	Nergigante	❶	Forearms		50	45	40	5	5	15	0	5	–	280			100		L,R
+390	Nergigante	❶	Forearms 	White	70	60	55	5	5	15	0	5	–		B	6	120		L,R 60s
+391	Nergigante	❶	Forearms 	Black	10	15	10	5	5	20	0	10	–		B	6	150		L,R
+392	Nergigante	❸	Hindlegs		35	30	35	0	0	10	5	5	–	350					L,R
+393	Nergigante	❷	Wings		40	30	30	10	5	10	5	10	–	180			60		L,R
+394	Nergigante	❷	Wings 	White	55	45	45	10	5	10	5	15	–		B	6	150		L,R 60s
+395	Nergigante	❷	Wings 	Black	28	25	25	10	5	15	5	20	–		B	6	120		L,R
+396	Nergigante	❹	Tail		60	45	25	10	5	10	5	5	–	220					
+397	Nergigante	❹	Tail Tip		45	35	25	15	5	15	5	10	–				100	450	
+398	Nergigante	❹	Tail Tip 	White	65	55	40	15	5	15	5	10	–		B	6	120		60s
+399	Nergigante	❹	Tail Tip 	Black	25	20	10	15	5	20	5	15	–		B	6	120		
+400	Nightshade Paolumu	❶	Head		55	60	45	15	25	10	10	0	100	180	^	8			
+401	Nightshade Paolumu	❶	Neck		35	40	30	10	15	5	5	0	100						
+402	Nightshade Paolumu	❶	Neck Pouch		70	75	50	15	30	10	10	0	100	300	^	8	500		
+403	Nightshade Paolumu	❸	Body		46	46	35	10	15	5	5	0	–	300			300		
+404	Nightshade Paolumu	❷	Legs		30	30	25	10	15	5	5	0	–	200	2	8			L,R
+405	Nightshade Paolumu	❷	Wings		30	30	40	10	15	5	5	0	–	150	^	8	150		L,R
+406	Nightshade Paolumu	❸	Tail		25	25	15	10	15	5	5	0	–	250	^	8	250		
+407	Odogaron	❶	Head		70	75	65	10	15	20	30	0	100	300	 		600		
+408	Odogaron	❶	Neck		40	45	35	0	5	10	20	0	100						
+409	Odogaron	❸	Body		30	30	25	0	0	5	15	0	–	450					
+410	Odogaron	❸	Back		30	30	25	0	0	5	15	0	–						
+411	Odogaron	❶	Forelegs		55	50	45	5	10	15	25	0	–	240	1	8	240		
+412	Odogaron	❷	Hindlegs		45	40	35	5	10	15	25	0	–	270	1	8	270		
+413	Odogaron	❸	Tail		45	40	35	5	5	10	20	0	–	270			270	540	
+414	Paolumu	❶	Head		55	55	45	25	0	15	10	10	100	180					
+415	Paolumu	❶	Neck		40	40	30	20	0	15	10	10	100						
+416	Paolumu	❶	Neck Pouch		75	75	60	25	0	15	10	10	100	300			500		
+417	Paolumu	❸	Body		46	46	42	15	0	10	5	5	–	300			300		
+418	Paolumu	❷	Legs		40	35	25	15	0	10	5	5	–	200	2	10			L,R
+419	Paolumu	❷	Wings		35	35	45	15	0	10	5	5	–	150			150		L,R
+420	Paolumu	❸	Tail		25	25	15	20	0	15	10	10	–	250			250		
+421	Pink Rathian	❶	Head		60	65	55	0	15	20	15	30	100	240	^	12	480		
+422	Pink Rathian	❶	Neck		30	35	25	0	0	5	0	15	–						
+423	Pink Rathian	❸	Body		22	22	20	0	5	10	5	20	–	300			300		
+424	Pink Rathian	❸	Back		22	22	20	0	5	10	5	20	–						
+425	Pink Rathian	❷	Wings		50	45	40	0	10	15	10	25	–	180			180		L,R
+426	Pink Rathian	❸	Legs		40	40	35	0	0	5	0	15	–	210	1	8			L,R
+427	Pink Rathian	❹	Tail		20	25	20	0	5	10	5	20	–	200				400	
+428	Pink Rathian	❹	Tail Tip		50	45	40	0	5	10	5	20	–						
+429	Pukei-Pukei	❶	Head		75	80	70	15	0	30	20	10	100	180	^	12	360		
+430	Pukei-Pukei	❶	Tongue		80	80	75	15	0	25	15	10	100						
+431	Pukei-Pukei	❶	Neck		40	35	30	5	0	20	10	5	–						
+432	Pukei-Pukei	❸	Body		35	35	30	0	5	5	15	0	–	300			300		
+433	Pukei-Pukei	❷	Wings		50	45	40	10	0	25	15	5	–	210	^	12	210		L,R
+434	Pukei-Pukei	❸	Legs		45	45	40	0	0	15	5	0	–	240	1	8			L,R
+435	Pukei-Pukei	❹	Tail		55	50	45	10	0	25	15	5	–	220				280	
+436	Radobaan	❶	Head		80	90	50	20	20	20	20	30	100	300					
+437	Radobaan	❶	Head Bone		24	25	15	0	0	0	0	0	100	50			100		
+438	Radobaan	❶	Neck		30	30	25	10	10	10	15	20	–						
+439	Radobaan	❸	Body		45	50	30	10	10	10	15	20	–	350					
+440	Radobaan	❸	Back Bone		20	25	15	0	0	0	0	0	–	40			80		
+441	Radobaan	❷	Hindlegs		55	45	40	10	10	10	10	15	–	150	2	3			L,R
+442	Radobaan	❷	Leg Bone		20	25	15	0	0	0	0	0	–	20			40		L,R
+443	Radobaan	❸	Tail		45	30	30	15	15	15	15	15	–	175				350	
+444	Raging Brachydios	❶	Horn		60	65	45	0	10	10	25	5	100	250	B	6	500		
+445	Raging Brachydios	❶	Horn	Red Slime	75	75	10	0	20	0	5	0	100						
+446	Raging Brachydios	❸	Head		60	65	50	0	5	10	15	5	100	350					
+447	Raging Brachydios	❸	Neck		32	32	30	0	5	5	10	5	–						
+448	Raging Brachydios	❸	Body		32	32	30	0	10	5	15	0	–	350					
+449	Raging Brachydios	❶	Forearms		55	50	45	0	10	5	25	0	–	300	B	6	600		L,R
+450	Raging Brachydios	❶	Forearms	Red Slime	75	75	10	0	20	0	5	0	–						
+451	Raging Brachydios	❷	Hind Legs		32	32	30	0	5	5	10	0	–	100	2	6			L,R
+452	Raging Brachydios	❸	Tail		50	45	55	0	10	10	15	5	–	200					
+453	Raging Brachydios	❶	Tail Tip		18	30	10	0	10	5	25	10	–					600	
+454	Raging Brachydios	❶	Tail Tip	Red Slime	75	75	10	0	20	0	5	0	–						
+455	Rajang	❶	Head		60	62	45	0	5	0	30	0	100	400	1	10	400	600	x2 Break
+456	Rajang	❶	Forelegs		43	43	35	0	5	0	15	0	–	250	1	10	250		
+457	Rajang	❶	Forelegs	Rampage	10	10	5	0	5	0	15	0	–						
+458	Rajang	❷	Hindlegs		25	25	15	0	5	0	15	0	–	240					
+459	Rajang	❸	Body		30	35	20	0	5	0	15	0	–	350					
+460	Rajang	❸	Tail		35	32	25	0	5	0	15	0	–	250			800		
+461	Rajang	❸	Tail	Rampage	47	45	35	0	5	0	15	0	–						
+462	Rathalos	❶	Head		65	70	60	0	15	20	15	30	100	240	^	12	480		
+463	Rathalos	❶	Neck		35	40	30	0	5	10	5	20	–						
+464	Rathalos	❸	Body		25	25	20	0	5	10	5	20	–	300			300		
+465	Rathalos	❸	Back		25	25	20	0	5	10	5	20	–						
+466	Rathalos	❷	Wings		50	45	40	0	10	15	10	25	–	220			220		L,R
+467	Rathalos	❸	Legs		35	35	30	0	0	5	0	15	–	190	1	8			L,R
+468	Rathalos	❹	Tail		45	40	35	0	5	10	5	20	–	200				200	
+469	Rathian	❶	Head		70	75	65	0	15	20	15	30	100	240	^	12	480		
+470	Rathian	❶	Neck		40	45	35	0	0	5	0	15	–						
+471	Rathian	❸	Body		35	30	25	0	5	10	5	20	–	300			300		
+472	Rathian	❸	Back		35	30	25	0	5	10	5	20	–						
+473	Rathian	❷	Wings		55	50	45	0	10	15	10	25	–	180			180		L,R
+474	Rathian	❸	Legs		40	40	35	0	0	5	0	15	–	210	1	8			L,R
+475	Rathian	❹	Tail		45	40	35	0	5	10	5	20	–	200				300	
+476	Ruiner Nergigante	❸	Horn		20	25	35	5	15	15	0	20	100	200			300		x2 Break
+477	Ruiner Nergigante	❸	Horn 	Broken	35	40	45	5	15	15	0	20	100						
+478	Ruiner Nergigante	❶	Head		45	60	45	5	10	10	15	15	100	400			100	400	
+479	Ruiner Nergigante	❶	Head 	White	75	90	60	5	10	15	15	15	100		B	6	140		60s
+480	Ruiner Nergigante	❶	Head 	Black	20	25	15	5	10	20	15	20	100		B	6	140		
+481	Ruiner Nergigante	❸	Body		35	30	35	0	0	10	5	10	–	850					
+482	Ruiner Nergigante	❸	Back		30	35	30	0	0	10	5	10	–						
+483	Ruiner Nergigante	❶	Forearms		50	45	40	5	5	15	0	15	–	320			100	400	L,R
+484	Ruiner Nergigante	❶	Forearms 	White	70	60	55	5	5	15	0	15	–		B	6	110		L,R 90s
+485	Ruiner Nergigante	❶	Forearms 	Black	20	25	15	15	5	15	5	20	–		B	6	150		L,R
+486	Ruiner Nergigante	❸	Hindlegs		35	30	35	0	0	10	5	10	–	700					L,R
+487	Ruiner Nergigante	❷	Wings		40	30	30	10	5	10	5	10	–	320			60	200	L,R
+488	Ruiner Nergigante	❷	Wings 	White	55	45	45	10	5	10	5	15	–		B	6	170		L,R 60s
+489	Ruiner Nergigante	❷	Wings 	Black	28	25	25	10	5	15	5	20	–		B	6	190		L,R
+490	Ruiner Nergigante	❹	Tail		45	35	25	10	5	10	5	10	–	220					
+491	Ruiner Nergigante	❹	Tail Tip		45	35	25	15	5	15	5	15	–				100	450	
+492	Ruiner Nergigante	❹	Tail Tip 	White	65	55	45	15	5	15	5	15	–		B	6	150		60s
+493	Ruiner Nergigante	❹	Tail Tip 	Black	10	15	15	5	5	15	0	20	–		B	6	200		
+494	Safi·jiiva	❶	Head		24	34	25	25	25	25	25	25	100	750			3750		x2 Break
+495	Safi·jiiva	❶	Head	Broken	45	51	35	25	25	25	25	25	100				7500		
+496	Safi·jiiva	❶	Head	S. Critical	63	58	38	30	30	30	30	30	100						
+497	Safi·jiiva	❶	Head	B.S. Critical	68	64	48	30	30	30	30	30	100						
+498	Safi·jiiva	❶	Snout	White	24	34	3	15	15	15	15	15	100						
+499	Safi·jiiva	❶	Snout	Broken	45	51	3	15	15	15	15	15	100						
+500	Safi·jiiva	❶	Snout	S. Critical	63	58	10	20	20	20	20	20	100						
+501	Safi·jiiva	❶	Snout	B.S. Critical	68	64	10	20	20	20	20	20	100						
+502	Safi·jiiva	❶	Neck		25	25	3	3	3	3	3	3	–	1500					
+503	Safi·jiiva	❶	Neck	S. Critical	33	33	7	3	3	3	3	3	–						
+504	Safi·jiiva	❸	Body		18	18	3	3	3	3	3	3	–	2500					
+505	Safi·jiiva	❸	Body	S. Critical	30	30	7	3	3	3	3	3	–						
+506	Safi·jiiva	❸	Back		45	45	3	15	15	15	15	15	–	150			150		
+507	Safi·jiiva	❸	Back	S. Critical	50	50	7	20	20	20	20	20	–						
+508	Safi·jiiva	❶	Chest		20	20	3	3	3	3	3	3	–						
+509	Safi·jiiva	❶	Chest	Broken	38	38	15	10	10	10	10	10	–						
+510	Safi·jiiva	❶	Chest	S. Critical	75	75	45	30	30	30	30	30	–	1000	1	12	2000		
+511	Safi·jiiva	❷	Forelegs		34	23	18	20	20	20	20	20	–	750			5250		L,R
+512	Safi·jiiva	❷	Forelegs	S. Critical	45	65	27	25	25	25	25	25	–						
+513	Safi·jiiva	❷	Forefeet		34	23	18	10	10	10	10	10	–						
+514	Safi·jiiva	❷	Forefeet	S. Critical	45	65	27	20	20	20	20	20	–						
+515	Safi·jiiva	❷	Foreleg+Feet	Broken	38	35	25	20	20	20	20	20	–						
+516	Safi·jiiva	❸	Hindlegs		18	34	18	20	20	20	20	20	–	500			2500		L,R
+517	Safi·jiiva	❸	Hindlegs	S. Critical	60	46	30	25	25	25	25	25	–						
+518	Safi·jiiva	❸	Hindfeet		18	34	18	15	15	15	15	15	–						
+519	Safi·jiiva	❸	Hindfeet	S. Critical	60	46	30	20	20	20	20	20	–						
+520	Safi·jiiva	❸	Hindleg+Feet	Broken	33	40	25	20	20	20	20	20	–						
+521	Safi·jiiva	❷	Wings		20	30	45	15	15	15	15	15	–	400			1200		L,R
+522	Safi·jiiva	❷	Wings	Broken	25	35	45	15	15	15	15	15	–						
+523	Safi·jiiva	❷	Wings	S. Critical	50	65	46	20	20	20	20	20	–						
+524	Safi·jiiva	❷	Wing Tips		20	20	10	15	15	15	15	15	–						
+525	Safi·jiiva	❷	Wing Tips	Broken	25	25	12	15	15	15	15	15	–						
+526	Safi·jiiva	❷	Wing Tips	S. Critical	50	65	15	20	20	20	20	20	–						
+527	Safi·jiiva	❷	Webbing		20	20	10	5	5	5	5	5	–						
+528	Safi·jiiva	❷	Webbing	Broken	25	25	12	5	5	5	5	5	–						
+529	Safi·jiiva	❷	Webbing	S. Critical	50	65	15	10	10	10	10	10	–						
+530	Safi·jiiva	❹	Tail		21	34	15	20	20	20	20	20	–	400				5500	
+531	Safi·jiiva	❹	Tail	Broken	46	40	20	20	20	20	20	20	–						
+532	Safi·jiiva	❹	Tail	S. Critical	65	55	35	25	25	25	25	25	–						
+533	Safi·jiiva	❹	Upper Tail		18	34	3	1	1	1	1	1	–						
+534	Safi·jiiva	❹	Upper Tail	Broken	20	40	7	1	1	1	1	1	–						
+535	Safi·jiiva	❹	Upper Tail	S. Critical	24	55	10	3	3	3	3	3	–						
+536	Savage Deviljho	❶	Head		40	45	25	20	25	25	10	30	100	300	Chrg	12	600		
+537	Savage Deviljho	❶	Head	Broken	55	60	40	20	25	25	15	30	100						
+538	Savage Deviljho	❶	Neck		22	22	15	10	10	15	10	15	–	450					
+539	Savage Deviljho	❸	Chest		45	40	25	25	20	30	10	25	–	300			600		
+540	Savage Deviljho	❸	Chest	Broken	60	55	45	25	20	30	15	25	–						
+541	Savage Deviljho	❸	Torso		20	25	15	5	15	10	10	20	–	450			900		
+542	Savage Deviljho	❷	Forelegs		20	25	45	5	15	10	10	20	–	300					
+543	Savage Deviljho	❷	Hindlegs		33	36	20	15	5	20	10	10	–	300					L,R
+544	Savage Deviljho	❹	Tail		36	33	20	15	5	20	10	10	–	200				400	
+545	Savage Deviljho	❹	Tail	Broken	40	40	25	15	5	20	15	10	–						
+546	Scarred Yian Garuga	❶	Ears		60	65	45	0	30	0	10	15	100				215		
+547	Scarred Yian Garuga	❶	Head		60	65	45	0	30	0	10	15	100	215	^	12	430		
+548	Scarred Yian Garuga	❶	Neck		34	40	30	0	15	0	5	10	–						
+549	Scarred Yian Garuga	❸	Back		18	18	15	0	10	0	5	10	–						
+550	Scarred Yian Garuga	❸	Belly		34	34	30	0	25	0	5	10	–	260			260		
+551	Scarred Yian Garuga	❷	Wings		18	18	40	0	20	0	5	10	–	200			200		L,R
+552	Scarred Yian Garuga	❷	Wings	Broken	24	24	40	0	20	0	5	10	–						
+553	Scarred Yian Garuga	❷	Legs		30	30	25	0	15	0	5	10	–	200	1	8			L,R
+554	Scarred Yian Garuga	❸	Tail		40	35	30	0	20	0	5	10	–	260	^	12			
+555	Scarred Yian Garuga	❸	Tail Tip		46	40	35	0	25	0	5	10	–					600	
+556	Seething Bazelgeuse	❶	Head		45	45	35	0	5	20	25	5	100	400			800		
+557	Seething Bazelgeuse	❸	Body		45	45	35	0	5	15	20	5	–	350			350		
+558	Seething Bazelgeuse	❸	Back		30	30	15	0	5	10	15	5	–						
+559	Seething Bazelgeuse	❷	Legs		35	35	25	0	5	10	15	5	–	350	2	10			
+560	Seething Bazelgeuse	❷	Wings		35	35	45	0	5	10	15	5	–	200			200		L,R
+561	Seething Bazelgeuse	❶	Tail		65	65	55	0	5	20	25	5	–	400				1100	
+562	Shara Ishvalda	❶	Head		50	55	45	5	15	0	20	5	100						
+563	Shara Ishvalda	❶	Head Casing	Bottom	50	50	30	5	15	0	20	5	–	230			1380		
+564	Shara Ishvalda	❶	Head Casing	Top	55	60	35	5	15	0	20	5	–	190			190		4L,4R
+565	Shara Ishvalda	❶	Wings		19	20	20	5	10	0	15	5	–	350			350		L,R
+566	Shara Ishvalda	❶	Wings	Broken	10	10	10	5	5	0	10	5	–						L,R
+567	Shara Ishvalda	❷	Forelegs		19	20	20	5	10	0	15	5	–	180	B,2	10	360		L,R
+568	Shara Ishvalda	❷	Forelegs	Broken	10	10	10	5	5	0	10	5	–						
+569	Shara Ishvalda	❷	Hindlegs		10	10	35	5	5	0	10	5	–	450					
+570	Shara Ishvalda	❸	Tail		10	10	10	5	5	0	10	5	–						
+571	Shara Ishvalda	❶	Head	Released	70	75	35	10	20	0	25	5	100	580			580	1300	x2 Break
+572	Shara Ishvalda	❸	Body	Released	48	44	20	5	15	0	20	5	–	710					
+573	Shara Ishvalda	❶	Wings	Released	48	48	45	5	15	0	20	5	–	450					L,R
+574	Shara Ishvalda	❷	Forelegs	Released	44	48	25	5	15	0	20	5	–	360	B,2	10	360		L,R
+575	Shara Ishvalda	❷	Hindlegs	Released	25	25	10	5	5	0	15	5	–						
+576	Shara Ishvalda	❸	Tail	Released	25	25	10	5	5	0	15	5	–	500					
+577	Shrieking Legiana	❶	Head		65	70	45	15	10	15	0	10	100	210	^	14	420		
+578	Shrieking Legiana	❶	Neck		35	40	30	15	5	10	0	5	–						
+579	Shrieking Legiana	❸	Body		25	25	50	25	5	10	0	5	–						
+580	Shrieking Legiana	❸	Back		25	25	45	15	5	10	0	5	–	300			300		
+581	Shrieking Legiana	❷	Wings		50	45	40	15	10	15	0	5	–	210			210		L,R
+582	Shrieking Legiana	❸	Legs		35	35	20	20	0	5	0	0	–	240					
+583	Shrieking Legiana	❹	Tail		45	40	35	20	5	10	0	5	–	270	^	14	270		
+584	Silver Rathalos	❶	Head		20	20	15	0	10	5	5	0	100	250	^	12	500		
+585	Silver Rathalos	❶	Head	Broken	55	60	50	0	30	20	10	0	100						
+586	Silver Rathalos	❶	Neck		20	20	15	0	10	5	5	0	–						
+587	Silver Rathalos	❶	Neck	Broken	30	35	25	0	25	20	10	0	–						
+588	Silver Rathalos	❸	Body		22	22	20	0	15	10	10	0	–						
+589	Silver Rathalos	❸	Back		22	22	20	0	20	15	5	0	–	400			400		
+590	Silver Rathalos	❷	Wings		50	45	40	0	25	15	10	0	–	280	3^	12	280		L,R
+591	Silver Rathalos	❸	Legs		38	38	32	0	10	10	5	0	–	240	2	8			L,R
+592	Silver Rathalos	❹	Tail		18	18	16	0	10	5	5	0	–						
+593	Silver Rathalos	❹	Tail Tip		55	50	45	0	10	10	5	0	–	300				600	
+594	Stygian Zinogre	❶	Head		55	55	50	10	13	15	10	0	100	300			650		
+595	Stygian Zinogre	❶	Neck		50	50	45	8	10	13	8	0	100						
+596	Stygian Zinogre	❸	Body		30	30	20	5	8	10	5	0	–	350					
+597	Stygian Zinogre	❸	Back		30	30	20	3	8	10	3	0	–	300			300		
+598	Stygian Zinogre	❶	Forelegs		50	50	45	10	13	15	10	0	–	300			700		
+599	Stygian Zinogre	❸	Hindlegs		30	30	20	5	8	10	5	0	–	350					
+600	Stygian Zinogre	❷	Tail		40	40	35	8	10	13	8	0	–	280				500	
+601	Stygian Zinogre	❶	Head	Charged	45	45	45	20	25	30	20	0	100						
+602	Stygian Zinogre	❶	Neck	Charged	38	38	33	15	20	25	15	0	100						
+603	Stygian Zinogre	❸	Body	Charged	25	25	15	10	15	20	10	0	–						
+604	Stygian Zinogre	❸	Back	Charged	50	50	50	0	0	0	0	0	–						
+605	Stygian Zinogre	❶	Forelegs	Charged	38	38	33	20	25	30	20	0	–						
+606	Stygian Zinogre	❸	Hindlegs	Charged	25	25	15	10	15	20	10	0	–						
+607	Stygian Zinogre	❷	Tail	Charged	35	35	25	15	20	25	15	0	–						
+608	Teostra	❶	Head		55	60	50	0	30	10	25	10	100	200	2	8	200		≤16% HP
+609	Teostra	❶	Neck		33	38	33	0	20	5	15	5	–						
+610	Teostra	❸	Body		20	20	20	0	15	0	10	0	–	400					
+611	Teostra	❸	Back		20	20	20	0	15	0	10	0	–						
+612	Teostra	❷	Forelegs		38	38	33	0	20	5	15	5	–	280					
+613	Teostra	❷	Hindlegs		30	25	20	0	15	5	10	5	–	340					
+614	Teostra	❷	Wings		40	35	30	0	25	10	20	10	–	280			280		
+615	Teostra	❸	Tail		38	33	28	0	20	5	15	5	–	330				330	
+616	Tigrex	❶	Head		65	70	55	0	10	25	5	15	100	220			220		
+617	Tigrex	❶	Neck		30	30	20	10	10	15	5	15	–						
+618	Tigrex	❸	Belly		30	30	20	10	10	15	5	15	–	400					
+619	Tigrex	❸	Back		25	25	20	0	5	15	5	15	–						
+620	Tigrex	❷	Forelegs		50	45	35	0	15	20	10	5	–	180	2	8	360		L,R
+621	Tigrex	❸	Hindlegs		30	30	25	0	5	15	0	10	–	200	2	8			L,R
+622	Tigrex	❹	Tail		40	35	30	0	5	10	0	5	–						
+623	Tigrex	❹	Tail Tip		45	35	30	0	5	10	0	15	–	240				350	
+624	Tobi-Kadachi	❶	Head		60	60	50	10	20	0	10	5	100	200			400		
+625	Tobi-Kadachi	❶	Neck		60	60	50	10	20	0	10	5	50						
+626	Tobi-Kadachi	❸	Body		45	45	35	5	15	0	5	0	–	350					
+627	Tobi-Kadachi	❶	Mane		45	45	60	5	15	0	5	0	–	100			100		
+628	Tobi-Kadachi	❷	Forelegs		35	35	15	5	15	0	5	0	–	200	1	10	200		
+629	Tobi-Kadachi	❷	Hindlegs		30	30	10	5	15	0	5	0	–	200	1	10			
+630	Tobi-Kadachi	❶	Tail		80	80	70	20	30	0	20	15	–	160			640		
+631	Training Area	❶	Pole		80	80	80	30	30	30	30	30	–						
+632	Training Area	❸	Light Barrel		43	43	80	20	20	20	20	20	–				100		
+633	Training Area	❷	Med. Barrel		38	38	60	20	20	20	20	20	–				300		
+634	Training Area	❷	Heavy Barrel		20	20	40	5	5	5	5	5	–				300		
+635	Training Area	❶❷❸	Wagon		80	80	80	30	30	30	30	30	–						
+636	Tzitzi-Ya-Ku	❶	Antennae		75	65	70	15	15	20	20	15	100	280	B	10	560		
+637	Tzitzi-Ya-Ku	❸	Head		65	55	55	15	15	20	20	15	100	160					
+638	Tzitzi-Ya-Ku	❶	Forearms		45	60	35	15	15	20	20	15	–	100					
+639	Tzitzi-Ya-Ku	❷	Body/Legs		45	60	35	15	15	20	20	20	–	220	3	10			
+640	Tzitzi-Ya-Ku	❸	Tail		40	40	35	15	15	20	20	15	–	100					
+641	Uragaan	❶	Head		70	80	50	0	20	15	15	20	100	200					
+642	Uragaan	❶	Jaw		19	20	10	0	40	5	20	30	100	250			250		
+643	Uragaan	❶	Jaw 	Broken	55	60	40	0	20	5	15	20	100						
+644	Uragaan	❶	Upper Neck		22	24	10	0	15	0	10	15	–						
+645	Uragaan	❶	Lower Neck		25	30	25	0	20	0	10	15	–						
+646	Uragaan	❸	Body		50	45	45	0	30	5	15	30	–	500			500		
+647	Uragaan	❸	Back		22	24	10	0	15	0	10	15	–						
+648	Uragaan	❸	Forearms		25	30	20	0	15	0	10	15	–	200					
+649	Uragaan	❷	Hindlegs		45	40	20	0	15	0	10	15	–	260	2	7			L,R
+650	Uragaan	❹	Tail 	Top	25	25	15	0	15	0	10	15	–	120			120		
+651	Uragaan	❹	Tail 	Bottom	35	30	25	0	25	5	10	20	–						
+652	Uragaan	❹	Tail Tip		25	25	15	0	35	0	15	25	–					120	
+653	Vaal Hazak	❶	Head		50	40	50	25	5	10	15	0	100	300			900		
+654	Vaal Hazak	❶	Head 	Broken	70	80	60	25	5	10	15	25	100						
+655	Vaal Hazak	❶	Neck		70	80	60	25	5	10	15	25	–						
+656	Vaal Hazak	❸	Chest		50	45	45	15	5	10	10	15	–	150					
+657	Vaal Hazak	❸	Stomach		50	40	45	20	5	10	15	0	–	600			600		Shared
+658	Vaal Hazak	❸	Stomach 	Broken	60	70	40	25	5	10	15	25	–						
+659	Vaal Hazak	❸	Back		45	35	35	20	5	10	15	0	–	600			600		Shared
+660	Vaal Hazak	❸	Back 	Broken	55	65	40	25	5	10	15	25	–						
+661	Vaal Hazak	❸	Hindlegs		25	25	20	5	0	0	0	5	–	350					L,R
+662	Vaal Hazak	❷	Forelegs		45	40	35	20	5	5	10	5	–	130	B	8	130		L,R
+663	Vaal Hazak	❷	Forelegs 	Broken	55	50	45	20	5	5	10	20	–						
+664	Vaal Hazak	❷	Wings		24	23	30	15	5	10	10	15	–	150					
+665	Vaal Hazak	❹	Tail		35	30	30	20	5	10	15	0	–	200					
+666	Vaal Hazak	❹	Tail Tip		60	30	50	20	5	10	15	0	–					400	
+667	Velkhana	❶	Head		55	55	45	20	0	15	0	20	100	200	2	8	400	40	Ice Break
+668	Velkhana	❶	Head	Broken	65	65	55	20	0	15	0	20	100						
+669	Velkhana	❶	Neck		35	45	30	25	5	10	0	15	–						
+670	Velkhana	❶	Neck	Broken	45	55	40	25	5	10	0	15	–						
+671	Velkhana	❸	Body		30	30	25	30	10	5	0	10	–	280				40	Ice Break
+672	Velkhana	❷	Forelegs		45	40	30	30	10	5	0	10	–	240				40	Ice Break
+673	Velkhana	❸	Hindlegs		35	30	20	30	10	5	0	10	–	200				40	Ice Break
+674	Velkhana	❷	Wings		40	40	20	25	5	10	0	15	–	160			320	40	Ice Break
+675	Velkhana	❷	Wings	Broken	50	50	30	25	5	10	0	15	–						
+676	Velkhana	❶	Tail		40	35	35	25	5	10	0	15	–	240				360	
+677	Velkhana	❶	Tail	Broken	50	45	45	25	5	10	0	15	–					40	Ice Break
+678	Viper Tobi-Kadachi	❶	Head		65	65	50	10	0	25	20	10	100	250			500		
+679	Viper Tobi-Kadachi	❶	Neck		60	60	45	10	0	25	20	10	50						
+680	Viper Tobi-Kadachi	❹	Body		35	35	25	0	0	10	5	0	–	350					
+681	Viper Tobi-Kadachi	❹	Mane		35	35	35	0	0	10	5	0	–	200			200		
+682	Viper Tobi-Kadachi	❷	Forelegs		55	55	45	5	0	20	15	5	–	300	2	10	300		
+683	Viper Tobi-Kadachi	❷	Hindlegs		30	30	15	0	0	10	5	0	–	270					
+684	Viper Tobi-Kadachi	❸	Tail		45	45	35	5	0	15	10	5	–	400	^	10	400		
+685	Xeno·jiiva	❶	Head		70	70	55	20	10	10	10	20	100	400			800		
+686	Xeno·jiiva	❶	Head 	Broken	80	80	60	20	10	10	10	20	100						
+687	Xeno·jiiva	❶	Head 	Critical	80	100	60	15	30	30	30	15	100						
+688	Xeno·jiiva	❸	Neck		30	30	25	15	10	10	10	15	–	400					
+689	Xeno·jiiva	❸	Neck 	Critical	50	50	30	15	30	30	30	15	–						
+690	Xeno·jiiva	❸	Body		25	25	25	15	10	10	10	15	–	800					
+691	Xeno·jiiva	❸	Body 	Critical	60	60	40	15	30	30	30	15	–						
+692	Xeno·jiiva	❶	Chest		60	60	30	20	10	10	10	20	–	150					
+693	Xeno·jiiva	❶	Chest 	Critical	100	80	70	15	30	30	30	15	–	150	1	10			
+694	Xeno·jiiva	❷	Forelegs		50	50	45	20	10	10	10	20	–	300	1	6	600		L,R
+695	Xeno·jiiva	❷	Forelegs 	Broken	60	60	50	20	10	10	10	20	–						
+696	Xeno·jiiva	❷	Forelegs 	Critical	70	90	60	15	30	30	30	15	–						
+697	Xeno·jiiva	❸	Hindlegs		22	22	15	10	5	5	5	10	–	150	2	10			L,R
+698	Xeno·jiiva	❸	Hindlegs 	Critical	50	50	40	10	20	20	20	10	–						
+699	Xeno·jiiva	❷	Wings		50	50	30	15	10	10	10	15	–	300			600		
+700	Xeno·jiiva	❷	Wings 	Broken	60	60	40	15	10	10	10	15	–						
+701	Xeno·jiiva	❷	Wings 	Critical	100	80	50	15	30	30	30	15	–						
+702	Xeno·jiiva	❹	Tail		25	25	15	10	5	5	5	10	–	350					
+703	Xeno·jiiva	❹	Tail 	Critical	50	50	30	10	20	20	20	10	–						
+704	Xeno·jiiva	❹	Tail Tip		70	70	45	20	10	10	10	20	–					500	Area 3
+705	Xeno·jiiva	❹	Tail Tip 	Critical	90	90	60	15	30	30	30	15	–						
+706	Yian Garuga	❶	Ears		60	65	45	0	30	0	10	15	100				215		
+707	Yian Garuga	❶	Head		60	65	45	0	30	0	10	15	100	215	^	12	430		
+708	Yian Garuga	❶	Neck		34	40	30	0	15	0	5	10	–						
+709	Yian Garuga	❸	Back		18	18	15	0	10	0	5	10	–						
+710	Yian Garuga	❸	Belly		34	34	30	0	25	0	5	10	–	260			260		
+711	Yian Garuga	❷	Wings		18	18	40	0	20	0	5	10	–	200			200		L,R
+712	Yian Garuga	❷	Wings	Broken	24	24	40	0	20	0	5	10	–						
+713	Yian Garuga	❷	Legs		30	30	25	0	15	0	5	10	–	200	1	8			L,R
+714	Yian Garuga	❸	Tail		40	35	30	0	20	0	5	10	–	260	^	12			
+715	Yian Garuga	❸	Tail Tip		46	40	35	0	25	0	5	10	–					600	
+716	Zinogre	❶	Head		45	45	50	5	10	0	15	5	100	350			700		
+717	Zinogre	❶	Neck		40	40	45	5	10	0	15	5	100						
+718	Zinogre	❸	Body		30	30	20	0	5	0	5	0	–	400					
+719	Zinogre	❸	Back		30	30	20	0	5	0	10	0	–	300			300		
+720	Zinogre	❶	Forelegs		40	40	35	5	10	0	15	5	–	350	2	8	700		
+721	Zinogre	❸	Hindlegs		30	30	20	0	5	0	5	0	–	400					
+722	Zinogre	❷	Tail		30	30	20	0	5	0	10	0	–	350				550	
+723	Zinogre	❶	Head	Charged	65	65	55	10	20	0	25	10	100						
+724	Zinogre	❶	Neck	Charged	60	30	50	5	15	0	20	5	100						
+725	Zinogre	❸	Body	Charged	25	25	15	0	5	0	10	0	–						
+726	Zinogre	❸	Back	Charged	40	40	45	5	10	0	15	5	–						
+727	Zinogre	❶	Forelegs	Charged	45	45	45	5	15	0	20	5	–						
+728	Zinogre	❸	Hindlegs	Charged	25	25	15	0	5	0	10	0	–						
+729	Zinogre	❷	Tail	Charged	45	45	45	5	10	0	15	5	–						
+730	Zorah Magdaros	❶	Head		40	40	40	0	20	10	15	20	–	400			400		
+731	Zorah Magdaros	❸	Body		30	30	25	0	10	5	5	10	–	800					
+732	Zorah Magdaros	❶	Chest		50	50	30	0	25	10	20	25	–	500			1000		
+733	Zorah Magdaros	❶	Chest 	Broken	80	80	80	0	30	15	25	30	–						
+734	Zorah Magdaros	❶	Forelegs		30	30	25	0	10	5	5	10	–	1000					L,R
+735	Zorah Magdaros	❷	Hindlegs		25	25	20	0	10	5	5	10	–	1000					L,R
+736	Zorah Magdaros	❷	Tail		25	25	20	0	10	5	5	10	–	1000					
+737	Zorah Magdaros	❸	Shell		1	1	1	0	0	0	0	0	–	1500					
+738	Zorah Magdaros	❷	Magma Core	Crater	95	95	90	0	20	0	15	20	–	1500			1500		
+739	Zorah Magdaros	❷	Magma Core	Head	95	95	90	0	20	0	15	20	–	1200			1200		
+740	Zorah Magdaros	❷	Magma Core	Central	95	95	90	0	20	0	15	20	–	1500			1500		
+741	Zorah Magdaros	❷	Magma Core	Rear	95	95	90	0	20	0	15	20	–	1500			1500		
+742	Zorah Magdaros	❶	Weak Shells		60	60	50	0	20	10	15	20	–	100			100		L,R
+#	Large Monster	R|W|T	Stats                        bHP								Mount								
+1	Acidic Glavenus	5|0|0	2,990		★★	★★	★★	★★	★★	500									
+2	Acidic Glavenus	Cap	Duration		20	40	10	–	7	50	–	–							
+3	Acidic Glavenus	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+4	Acidic Glavenus	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+5	Acidic Glavenus	20%	Max Tolerance		550	550	570	670	630	900	550	–							
+6	Acidic Glavenus	299	Damage		320	–	–	300	–	150	–	–							
+7	Alatreon	5|0|0	5,000		★	★	★	★	★	–									
+8	Alatreon	Cap	Duration		15	40	7	–	7	–	–	–							
+9	Alatreon	–	Initial Tolerance		300	300	300	150	200	–	100	–							
+10	Alatreon	Limp	Tolerance Increase		300	300	300	200	400	–	250	–							
+11	Alatreon	0.2	Max Tolerance		900	900	900	2150	1000	–	850	–							
+12	Alatreon	750	Damage		160	–	–	300	–	–	–	–							
+13	Ancient Leshen	3|0|0	13,500		★★	✖	★	★	★	–									
+14	Ancient Leshen	Cap	Duration		20	–	7	–	7	–	–	–							
+15	Ancient Leshen	–	Initial Tolerance		150	–	300	120	250	–	250	–							
+16	Ancient Leshen	Limp	Tolerance Increase		100	–	100	90	300	–	200	–							
+17	Ancient Leshen	–	Max Tolerance		550	–	700	1920	5000	–	1200	–							
+18	Ancient Leshen	1350	Damage		160	–	–	120	–	–	–	–							
+19	Anjanath	3|3|1	2,990		★★	★★	★★	★	★★	500									
+20	Anjanath	Cap	Duration		20	40	10	–	7	50	–	–							
+21	Anjanath	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+22	Anjanath	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+23	Anjanath	25%	Max Tolerance		550	550	570	1920	630	900	550	–							
+24	Anjanath	299	Damage		160	–	–	120	–	150	–	–							
+25	Azure Rathalos	5|5|0	3,250		★	★★	★★	★	★★	750									
+26	Azure Rathalos	Cap	Duration		15	40	10	–	7	50	–	–							
+27	Azure Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+28	Azure Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+29	Azure Rathalos	25%	Max Tolerance		700	550	570	720	630	900	460	–							
+30	Azure Rathalos	325	Damage		80	–	–	120	–	200	–	–							
+31	Banbaro	3|0|3	2,800		★★	★★	★★	★★★	★★★	500									
+32	Banbaro	Cap	Duration		20	40	10	–	7	50	–	–							
+33	Banbaro	30%	Initial Tolerance		150	150	180	40	100	225	50	–							
+34	Banbaro	Limp	Tolerance Increase		100	100	130	20	75	75	100	–							
+35	Banbaro	25%	Max Tolerance		550	550	570	440	550	900	550	–							
+36	Banbaro	280	Damage		320	–	–	300	–	150	–	–							
+37	Barioth	5|5|1	3,000		★★	★★	★★	★★	★★	500									
+38	Barioth	Cap	Duration		20	40	10	–	10	60	–	–							
+39	Barioth	20%	Initial Tolerance		150	150	180	70	150	225	50	–							
+40	Barioth	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+41	Barioth	20%	Max Tolerance		550	550	570	670	630	900	550	–							
+42	Barioth	300	Damage		320	–	–	300	–	200	–	–							
+43	Barroth	3|0|0	2,450		★★★	★★	★★★	★★★	★	800									
+44	Barroth	Cap	Duration		25	40	12	–	7	60	–	–							
+45	Barroth	30%	Initial Tolerance		100	150	130	40	200	225	30	–							
+46	Barroth	Limp	Tolerance Increase		90	100	75	20	150	75	50	–							
+47	Barroth	32%	Max Tolerance		370	550	430	440	800	900	330	–							
+48	Barroth	245	Damage		260	–	–	120	–	150	–	–							
+49	Bazelgeuse	5|5|1	4,550		★★	★★	★★	★	★	800									
+50	Bazelgeuse	Cap	Duration		20	40	10	–	7	40	–	–							
+51	Bazelgeuse	30%	Initial Tolerance		150	150	180	120	200	225	50	–							
+52	Bazelgeuse	Limp	Tolerance Increase		100	100	130	90	150	75	100	–							
+53	Bazelgeuse	28%	Max Tolerance		550	550	570	1920	800	900	550	–							
+54	Bazelgeuse	455	Damage		160	–	–	120	–	250	–	–							
+55	Behemoth	5|3|3	35,000		★★	★★	★★	★★	★★	–									
+56	Behemoth	Cap	Duration		30	40	10	–	7	–	–	–							
+57	Behemoth	–	Initial Tolerance		150	180	180	70	150	–	100	–							
+58	Behemoth	Limp	Tolerance Increase		200	430	430	100	350	–	150	–							
+59	Behemoth	–	Max Tolerance		2150	2330	2330	3000	5350	–	1000	–							
+60	Behemoth	3500	Damage		300	–	–	120	–	–	–	–							
+61	Beotodus	3|0|0	2,520		★★	★★	★★	★★★	★★	800									
+62	Beotodus	Cap	Duration		20	40	10	–	7	60	–	–							
+63	Beotodus	30%	Initial Tolerance		150	150	180	40	150	150	50	–							
+64	Beotodus	Limp	Tolerance Increase		100	100	130	20	120	45	100	–							
+65	Beotodus	20%	Max Tolerance		550	550	570	440	630	585	550	–							
+66	Beotodus	252	Damage		320	–	–	300	–	300	–	–							
+67	Black Diablos	5|3|1	3,450		★★	★★	★★★	★★	★	500									
+68	Black Diablos	Cap	Duration		20	40	7	–	7	60	–	–							
+69	Black Diablos	30%	Initial Tolerance		150	150	100	70	200	225	65	–							
+70	Black Diablos	Limp	Tolerance Increase		100	100	50	30	150	75	110	–							
+71	Black Diablos	25%	Max Tolerance		550	550	300	670	800	900	725	–							
+72	Black Diablos	345	Damage		160	–	–	120	–	250	–	–							
+73	Blackveil Vaal Hazak	5|3|0	4,300		★	★	★	★★	★	–									
+74	Blackveil Vaal Hazak	Cap	Duration		15	40	7	–	7	–	–	–							
+75	Blackveil Vaal Hazak	–	Initial Tolerance		250	250	300	70	200	–	50	200							
+76	Blackveil Vaal Hazak	Limp	Tolerance Increase		150	150	100	30	250	–	100	100							
+77	Blackveil Vaal Hazak	15%	Max Tolerance		700	700	700	670	800	–	550	1000							
+78	Blackveil Vaal Hazak	430	Damage		160	–	–	300	–	–	–	–							
+79	Brachydios	5|0|0	2,990		★★	★★	★★	★	★★	500									
+80	Brachydios	Cap	Duration		20	40	10	–	7	50	–	–							
+81	Brachydios	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+82	Brachydios	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+83	Brachydios	16%	Max Tolerance		550	550	570	1920	630	900	550	–							
+84	Brachydios	299	Damage		320	–	–	300	–	150	–	–							
+85	Brute Tigrex	5|5|0	3,000		★★	★★	★★	★★	★★	600									
+86	Brute Tigrex	Cap	Duration		20	40	10	–	7	60	–	–							
+87	Brute Tigrex	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+88	Brute Tigrex	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+89	Brute Tigrex	12%	Max Tolerance		550	550	570	670	630	900	550	–							
+90	Brute Tigrex	300	Damage		320	–	–	300	–	150	–	–							
+91	Coral Pukei-Pukei	3|3|0	3,000		★★★	★★	★★	★★	★★	800									
+92	Coral Pukei-Pukei	Cap	Duration		25	40	10	–	7	50	–	–							
+93	Coral Pukei-Pukei	30%	Initial Tolerance		100	150	180	70	150	225	40	–							
+94	Coral Pukei-Pukei	Limp	Tolerance Increase		90	100	130	30	120	75	70	–							
+95	Coral Pukei-Pukei	20%	Max Tolerance		370	550	570	670	630	900	460	–							
+96	Coral Pukei-Pukei	300	Damage		520	–	–	300	–	250	–	–							
+97	Deviljho	5|0|3	5,000		★★	★★	★★	★★	★★	500									
+98	Deviljho	Cap	Duration		20	40	8	–	7	40	–	–							
+99	Deviljho	20%	Initial Tolerance		100	100	100	70	150	225	50	–							
+100	Deviljho	Limp	Tolerance Increase		100	100	150	30	120	75	100	–							
+101	Deviljho	–	Max Tolerance		550	550	900	670	630	900	550	–							
+102	Deviljho	500	Damage		160	–	–	120	–	300	–	–							
+103	Diablos	5|3|1	3,250		★★	★★	★★★	★★	★	500									
+104	Diablos	Cap	Duration		20	40	7	–	7	45	–	–							
+105	Diablos	30%	Initial Tolerance		150	150	100	70	200	225	65	–							
+106	Diablos	Limp	Tolerance Increase		100	100	50	30	150	75	110	–							
+107	Diablos	25%	Max Tolerance		550	550	300	670	800	900	725	–							
+108	Diablos	325	Damage		160	–	–	120	–	250	–	–							
+109	Dodogama	3|0|0	3,000		★★★	★★	★★	★	★★	900									
+110	Dodogama	Cap	Duration		25	40	10	–	7	60	–	–							
+111	Dodogama	30%	Initial Tolerance		100	150	180	120	150	225	50	–							
+112	Dodogama	Limp	Tolerance Increase		90	100	130	90	120	75	100	–							
+113	Dodogama	25%	Max Tolerance		370	550	570	1920	630	900	550	–							
+114	Dodogama	300	Damage		260	–	–	120	–	150	–	–							
+115	Ebony Odogaron	3|0|0	3,000		★★★	★★	★★★	★★	★★	1000									
+116	Ebony Odogaron	Cap	Duration		25	40	7	–	7	75	–	–							
+117	Ebony Odogaron	15%	Initial Tolerance		100	150	100	70	150	225	50	–							
+118	Ebony Odogaron	Limp	Tolerance Increase		90	100	50	30	120	75	100	–							
+119	Ebony Odogaron	15%	Max Tolerance		370	550	300	670	630	900	550	–							
+120	Ebony Odogaron	300	Damage		520	–	–	300	–	200	–	–							
+121	Fatalis	5|5|0	5,500		★	★	★	★	✖	–									
+122	Fatalis	Cap	Duration		30	120	13	–	–	–	–	–							
+123	Fatalis	–	Initial Tolerance		300	300	300	150	–	–	150	–							
+124	Fatalis	Limp	Tolerance Increase		300	300	300	200	–	–	250	–							
+125	Fatalis	5%	Max Tolerance		3000	3000	3000	3000	–	–	1000	–							
+126	Fatalis	–	Damage		600	–	–	300	–	–	–	–							
+127																			
+128																			
+129																			
+130																			
+131																			
+132																			
+133	Fulgur Anjanath	3|3|3	2,990		★★	★★	★★	★	★★	500									
+134	Fulgur Anjanath	Cap	Duration		20	40	10	–	7	50	–	–							
+135	Fulgur Anjanath	30%	Initial Tolerance		150	150	180	120	150	225	50	–							
+136	Fulgur Anjanath	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+137	Fulgur Anjanath	12%	Max Tolerance		550	550	570	1920	630	900	550	–							
+138	Fulgur Anjanath	299	Damage		320	–	–	300	–	150	–	–							
+139	Furious Rajang	5|0|1			★	★	★	★★	★	–									
+140	Furious Rajang	Cap	Duration		15	40	7	–	7	–	–	–							
+141	Furious Rajang	?	Initial Tolerance		250	250	300	70	200	–	65	–							
+142	Furious Rajang	Limp	Tolerance Increase		150	150	100	30	150	–	110	–							
+143	Furious Rajang	?	Max Tolerance		700	700	700	670	800	–	725	–							
+144	Furious Rajang	270	Damage		160	–	–	300	–	–	–	–							
+145	Glavenus	5|0|0	3,000		★★	★★	★★	★★	★★	900									
+146	Glavenus	Cap	Duration		20	40	10	–	7	40	–	–							
+147	Glavenus	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+148	Glavenus	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+149	Glavenus	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+150	Glavenus	300	Damage		320	–	–	300	–	150	–	–							
+151	Gold Rathian	5|5|0	3,000		★	★★	★★	★	★★	1000									
+152	Gold Rathian	Cap	Duration		15	40	10	–	7	40	–	–							
+153	Gold Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+154	Gold Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+155	Gold Rathian	8%	Max Tolerance		700	550	570	720	620	900	460	–							
+156	Gold Rathian	300	Damage		160	–	–	300	–	200	–	–							
+157	Great Girros	0|0|0	2,400		★★	★★★	★	★★	★★	550									
+158	Great Girros	Cap	Duration		20	40	3	–	7	70	–	–							
+159	Great Girros	30%	Initial Tolerance		150	100	300	70	120	225	50	–							
+160	Great Girros	Limp	Tolerance Increase		100	90	100	30	100	75	100	–							
+161	Great Girros	25%	Max Tolerance		550	370	700	670	620	900	550	–							
+162	Great Girros	240	Damage		160	–	–	120	–	150	–	–							
+163	Great Jagras	0|0|0	2,200		★★★	★★★	★★★	★★★	★★★	300									
+164	Great Jagras	Cap	Duration		25	40	12	–	7	40	–	–							
+165	Great Jagras	30%	Initial Tolerance		100	100	130	40	100	150	30	–							
+166	Great Jagras	Limp	Tolerance Increase		90	90	75	20	75	45	50	–							
+167	Great Jagras	30%	Max Tolerance		370	370	430	440	550	585	330	–							
+168	Great Jagras	220	Damage		260	–	–	120	–	150	–	–							
+169	Jyuratodus	0|0|0	2,800		★★	★	★★	★	★★★	500									
+170	Jyuratodus	Cap	Duration		20	40	10	–	7	60	–	–							
+171	Jyuratodus	30%	Initial Tolerance		150	250	180	120	100	150	30	–							
+172	Jyuratodus	Limp	Tolerance Increase		100	150	130	90	75	45	50	–							
+173	Jyuratodus	25%	Max Tolerance		550	700	570	1920	550	585	330	–							
+174	Jyuratodus	280	Damage		160	–	–	120	–	100	–	–							
+175	Kirin	0|0|0	3,350		★	★★	✖	★★	★	–									
+176	Kirin	Cap	Duration		15	40	–	–	7	–	–	–							
+177	Kirin	–	Initial Tolerance		250	150	–	70	200	–	65	200							
+178	Kirin	Limp	Tolerance Increase		150	100	–	30	150	–	110	20							
+179	Kirin	32%	Max Tolerance		700	550	–	670	800	–	725	750							
+180	Kirin	335	Damage		80	–	–	120	–	–	–	–							
+181	Kulu-Ya-Ku	0|0|0	2,650		★★	★★	★★	★★	★★	600									
+182	Kulu-Ya-Ku	Cap	Duration		20	40	10	–	7	60	–	–							
+183	Kulu-Ya-Ku	35%	Initial Tolerance		150	150	180	70	120	225	50	–							
+184	Kulu-Ya-Ku	Limp	Tolerance Increase		100	100	130	30	100	75	100	–							
+185	Kulu-Ya-Ku	35%	Max Tolerance		550	550	570	670	620	900	550	–							
+186	Kulu-Ya-Ku	265	Damage		160	–	–	120	–	150	–	–							
+187	Kulve Taroth	5|0|0	30,000		★	★	★	★	★	–									
+188	Kulve Taroth	Cap	Duration		35	40	12	–	12	–	–	–							
+189	Kulve Taroth	–	Initial Tolerance		150	150	150	120	200	–	50	–							
+190	Kulve Taroth	Limp	Tolerance Increase		250	880	880	120	300	–	100	–							
+191	Kulve Taroth	–	Max Tolerance		900	1910	1910	1920	1100	–	1550	–							
+192	Kulve Taroth	3000	Damage		720	–	–	240	–	–	–	–							
+193	Kushala Daora	5|D|0	3,980		★★★	★	★	★★★	★★	–									
+194	Kushala Daora	Cap	Duration		25	40	7	–	7	–	–	–							
+195	Kushala Daora	–	Initial Tolerance		100	250	300	40	150	–	50	200							
+196	Kushala Daora	Limp	Tolerance Increase		90	150	100	20	120	–	100	20							
+197	Kushala Daora	20%	Max Tolerance		370	700	700	440	630	–	550	750							
+198	Kushala Daora	398	Damage		260	–	–	120	–	–	–	–							
+199	Lavasioth	0|0|1	4,000		★★★	★	★★	★	★★	800									
+200	Lavasioth	Cap	Duration		25	40	10	–	7	60	–	–							
+201	Lavasioth	30%	Initial Tolerance		100	150	180	120	150	150	50	–							
+202	Lavasioth	Limp	Tolerance Increase		90	100	130	90	120	45	100	–							
+203	Lavasioth	25%	Max Tolerance		370	550	570	1920	630	585	550	–							
+204	Lavasioth	400	Damage		260	–	–	120	–	100	–	–							
+205	Legiana	5|5|0	3,000		★★★	★★	★★	★★	★★	750									
+206	Legiana	Cap	Duration		15	40	10	–	7	50	–	–							
+207	Legiana	30%	Initial Tolerance		80	150	180	70	150	225	40	–							
+208	Legiana	Limp	Tolerance Increase		70	100	130	30	120	75	70	–							
+209	Legiana	25%	Max Tolerance		290	550	570	670	630	900	460	–							
+210	Legiana	300	Damage		160	–	–	120	–	200	–	–							
+211	Leshen	5|0|0	9,000		★★★	✖	★★	★★	★	–									
+212	Leshen	Cap	Duration		25	–	10	–	7	–	–	–							
+213	Leshen	–	Initial Tolerance		100	–	180	70	200	–	65	–							
+214	Leshen	Limp	Tolerance Increase		90	–	130	30	250	–	110	–							
+215	Leshen	–	Max Tolerance		370	–	570	670	800	–	725	–							
+216	Leshen	900	Damage		260	–	–	120	–	–	–	–							
+217	Lunastra	5|D|0	4,300		★	★	★	★★	★★	–									
+218	Lunastra	Cap	Duration		15	40	7	–	7	–	–	–							
+219	Lunastra	–	Initial Tolerance		250	250	300	70	150	–	50	200							
+220	Lunastra	Limp	Tolerance Increase		150	150	100	30	120	–	100	20							
+221	Lunastra	20%	Max Tolerance		700	700	700	670	630	–	550	750							
+222	Lunastra	430	Damage		80	–	–	120	–	–	–	–							
+223	Namielle	5|0|0	4,000		★★★	★	★	★★★	★★	–									
+224	Namielle	Cap	Duration		25	40	7	–	7	–	–	–							
+225	Namielle	–	Initial Tolerance		100	250	300	40	150	–	50	200							
+226	Namielle	Limp	Tolerance Increase		90	150	100	20	120	–	100	40							
+227	Namielle	15%	Max Tolerance		370	700	700	440	630	–	550	600							
+228	Namielle	400	Damage		520	–	–	300	–	–	–	–							
+229	Nargacuga	5|0|0	3,150		★★	★★	★★	★★	★★	800									
+230	Nargacuga	Cap	Duration		20	40	10	–	7	60	–	–							
+231	Nargacuga	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+232	Nargacuga	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+233	Nargacuga	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+234	Nargacuga	315	Damage		320	–	–	300	–	250	–	–							
+235	Nergigante	5|3|0	3,250		★★	★★	★★	★★	★★	800									
+236	Nergigante	Cap	Duration		20	40	10	–	7	30	–	–							
+237	Nergigante	–	Initial Tolerance		150	150	180	70	200	–	50	200							
+238	Nergigante	Limp	Tolerance Increase		100	100	130	30	150	–	100	20							
+239	Nergigante	27%	Max Tolerance		550	550	570	670	800	–	550	750							
+240	Nergigante	325	Damage		160	–	–	120	–	–	–	–							
+241	Nightshade Paolumu	3|5|0	2,950		★★	★	★★	★★	★★	800									
+242	Nightshade Paolumu	Cap	Duration		20	40	10	–	7	30	–	–							
+243	Nightshade Paolumu	30%	Initial Tolerance		150	250	180	70	150	225	40	–							
+244	Nightshade Paolumu	Limp	Tolerance Increase		100	150	130	30	120	75	70	–							
+245	Nightshade Paolumu	20%	Max Tolerance		550	700	570	670	630	900	460	–							
+246	Nightshade Paolumu	295	Damage		320	–	–	300	–	250	–	–							
+247	Odogaron	3|0|0	3,000		★	★★	★★★	★★	★★	750									
+248	Odogaron	Cap	Duration		15	40	7	–	7	50	–	–							
+249	Odogaron	30%	Initial Tolerance		250	150	100	70	150	225	50	–							
+250	Odogaron	Limp	Tolerance Increase		150	100	50	30	120	75	100	–							
+251	Odogaron	25%	Max Tolerance		700	550	300	670	630	900	550	–							
+252	Odogaron	300	Damage		80	–	–	120	–	200	–	–							
+253	Paolumu	3|5|0	2,950		★★	★★	★★	★★★	★★★	800									
+254	Paolumu	Cap	Duration		20	40	10	–	7	30	–	–							
+255	Paolumu	30%	Initial Tolerance		150	150	180	40	100	225	40	–							
+256	Paolumu	Limp	Tolerance Increase		100	100	130	20	75	75	70	–							
+257	Paolumu	28%	Max Tolerance		550	550	570	440	550	900	460	–							
+258	Paolumu	295	Damage		160	–	–	120	–	150	–	–							
+259	Pink Rathian	3|3|0	3,000		★	★★	★★	★	★★★	750									
+260	Pink Rathian	Cap	Duration		15	40	10	–	7	50	–	–							
+261	Pink Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+262	Pink Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+263	Pink Rathian	25%	Max Tolerance		700	550	570	720	620	900	460	–							
+264	Pink Rathian	300	Damage		80	–	–	120	–	200	–	–							
+265	Pukei-Pukei	3|3|0	2,800		★★	★★	★★	★★	★★	650									
+266	Pukei-Pukei	Cap	Duration		15	40	12	–	7	60	–	–							
+267	Pukei-Pukei	30%	Initial Tolerance		250	100	130	70	120	225	40	–							
+268	Pukei-Pukei	Limp	Tolerance Increase		150	90	75	30	100	75	70	–							
+269	Pukei-Pukei	30%	Max Tolerance		700	370	430	670	620	900	460	–							
+270	Pukei-Pukei	280	Damage		80	–	–	120	–	150	–	–							
+271	Radobaan	3|0|1	3,000		★★	★	★★	★★★	★★	500									
+272	Radobaan	Cap	Duration		35	40	12	–	7	60	–	–							
+273	Radobaan	30%	Initial Tolerance		180	250	130	40	150	225	50	–							
+274	Radobaan	Limp	Tolerance Increase		130	150	75	20	120	75	100	–							
+275	Radobaan	30%	Max Tolerance		570	700	430	440	630	900	550	–							
+276	Radobaan	300	Damage		360	–	–	120	–	200	–	–							
+277	Raging Brachydios	5|0|0			★★	★★	★★	★	★★	?									
+278	Raging Brachydios	Cap	Duration		20	40	10	–	7	?	–	–							
+279	Raging Brachydios	?	Initial Tolerance		150	150	180	120	150	225	50	–							
+280	Raging Brachydios	Limp	Tolerance Increase		100	100	130	90	120	75	100	–							
+281	Raging Brachydios	?	Max Tolerance		550	550	570	1920	630	900	550	–							
+282	Raging Brachydios	299	Damage		320	–	–	300	–	150	–	–							
+283	Rajang	5|0|1	2,700		★	★	★	★★	★	1000									
+284	Rajang	Cap	Duration		15	40	7	–	7	40	–	–							
+285	Rajang	15%	Initial Tolerance		250	250	300	70	200	375	65	–							
+286	Rajang	Limp	Tolerance Increase		150	150	100	30	150	150	110	–							
+287	Rajang	14%	Max Tolerance		700	700	700	670	800	1575	725	–							
+288	Rajang	270	Damage		160	–	–	300	–	250	–	–							
+289	Rathalos	5|5|0	3,250		★	★★	★★	★	★★	750									
+290	Rathalos	Cap	Duration		15	40	10	–	7	50	–	–							
+291	Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+292	Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+293	Rathalos	25%	Max Tolerance		700	550	570	720	630	900	460	–							
+294	Rathalos	325	Damage		80	–	–	120	–	200	–	–							
+295	Rathian	3|3|0	3,000		★	★★	★★	★	★★★	650									
+296	Rathian	Cap	Duration		15	40	10	–	7	60	–	–							
+297	Rathian	30%	Initial Tolerance		250	150	180	120	120	225	40	–							
+298	Rathian	Limp	Tolerance Increase		150	100	130	60	100	75	70	–							
+299	Rathian	25%	Max Tolerance		700	550	570	720	620	900	460	–							
+300	Rathian	300	Damage		80	–	–	120	–	150	–	–							
+301	Ruiner Nergigante	5|5|0	3,700		★★	★★	★★	★★★	★	1000									
+302	Ruiner Nergigante	Cap	Duration		20	40	10	–	7	20	–	–							
+303	Ruiner Nergigante	–	Initial Tolerance		150	150	180	40	200	–	50	200							
+304	Ruiner Nergigante	Limp	Tolerance Increase		100	100	130	20	150	–	100	20							
+305	Ruiner Nergigante	15%	Max Tolerance		550	550	570	440	800	–	550	750							
+306	Ruiner Nergigante	370	Damage		320	–	–	300	–	–	–	–							
+307	Safi·jiiva	5|D|1	80,000		★★★	★	★★	★★★	★★	–									
+308	Safi·jiiva	Cap	Duration		60	40	10	–	10	–	–	–							
+309	Safi·jiiva	–	Initial Tolerance		250	500	400	250	1000	–	175								
+310	Safi·jiiva	Limp	Tolerance Increase		400	1800	1150	150	1500	–	375								
+311	Safi·jiiva	–	Max Tolerance		3050	7700	6550	2000	7000	–									
+312	Safi·jiiva	8000	Damage		2000	–	–	600	–	–	–	–							
+313	Savage Deviljho	5|0|5	3,600		★★★	★★★	★★★	★★	★★	–									
+314	Savage Deviljho	Cap	Duration		20	40	8	–	7	–	–	–							
+315	Savage Deviljho	20%	Initial Tolerance		100	100	100	70	150	–	50	–							
+316	Savage Deviljho	Limp	Tolerance Increase		100	100	150	30	120	–	100	–							
+317	Savage Deviljho	8%	Max Tolerance		550	550	900	670	630	–	550	–							
+318	Savage Deviljho	360	Damage		320	–	–	300	–	–	–	–							
+319	Scarred Yian Garuga	5|3|0	3,300		★	★	★★	★★★	★★	600									
+320	Scarred Yian Garuga	Cap	Duration		15	40	10	–	7	45	–	–							
+321	Scarred Yian Garuga	30%	Initial Tolerance		250	250	180	40	150	225	50	–							
+322	Scarred Yian Garuga	Limp	Tolerance Increase		150	150	130	20	120	75	100	–							
+323	Scarred Yian Garuga	12%	Max Tolerance		700	700	570	440	630	900	550	–							
+324	Scarred Yian Garuga	330	Damage		160	–	–	300	–	250	–	–							
+325	Seething Bazelgeuse	5|5|0	4,000		★★	★★★	★★	★	★★	1000									
+326	Seething Bazelgeuse	Cap	Duration		20	40	10	–	7	50	–	–							
+327	Seething Bazelgeuse	30%	Initial Tolerance		150	100	180	120	150	225	50	–							
+328	Seething Bazelgeuse	Limp	Tolerance Increase		100	90	130	90	120	75	100	–							
+329	Seething Bazelgeuse	8%	Max Tolerance		550	370	570	1920	630	900	550	–							
+330	Seething Bazelgeuse	400	Damage		320	–	–	69	–	250	–	–							
+331	Shara Ishvalda	5|0|3	5,300		★★	✖	★	★★★	★	500									
+332	Shara Ishvalda	Cap	Duration		60	–	10	–	11	–	–	–							
+333	Shara Ishvalda	–	Initial Tolerance		250	–	300	70	200	–	60	–							
+334	Shara Ishvalda	Limp	Tolerance Increase		250	–	300	30	150	–	160	–							
+335	Shara Ishvalda	–	Max Tolerance		1000	–	1500	670	2000	–	1500	–							
+336	Shara Ishvalda	530	Damage		2400	–	–	600	–	–	–	–							
+337	Shrieking Legiana	5|5|0	3,000		★★★	★★	★★	★★	★★	900									
+338	Shrieking Legiana	Cap	Duration		45	40	10	–	7	50	–	–							
+339	Shrieking Legiana	30%	Initial Tolerance		80	150	180	70	150	225	40	–							
+340	Shrieking Legiana	Limp	Tolerance Increase		50	100	130	30	120	75	70	–							
+341	Shrieking Legiana	12%	Max Tolerance		280	550	570	670	630	900	460	–							
+342	Shrieking Legiana	300	Damage		360	–	–	300	–	200	–	–							
+343	Silver Rathalos	5|5|0	3,000		★	★★	★★	★	★★	900									
+344	Silver Rathalos	Cap	Duration		15	40	10	–	7	40	–	–							
+345	Silver Rathalos	30%	Initial Tolerance		250	150	180	120	150	225	40	–							
+346	Silver Rathalos	Limp	Tolerance Increase		150	100	130	60	120	75	70	–							
+347	Silver Rathalos	8%	Max Tolerance		700	550	570	720	630	900	460	–							
+348	Silver Rathalos	300	Damage		160	–	–	300	–	200	–	–							
+349	Stygian Zinogre	3|5|0	3,000		★★	★★	★★	★★★	★★	Low									
+350	Stygian Zinogre	Cap	Duration		20	40	10	–	7	50	–	–							
+351	Stygian Zinogre	30%	Initial Tolerance		150	150	180	40	150	225	50	–							
+352	Stygian Zinogre	Limp	Tolerance Increase		100	100	130	20	120	75	100	–							
+353	Stygian Zinogre	16%	Max Tolerance		550	550	570	440	630	900	550	–							
+354	Stygian Zinogre	300	Damage		320	–	–	300	–	Low	–	–							
+355	Teostra	5|5|0	4,300		★★	★	★	★	★★	–									
+356	Teostra	Cap	Duration		20	40	7	–	7	–	–	–							
+357	Teostra	–	Initial Tolerance		150	250	300	120	150	–	50	200							
+358	Teostra	Limp	Tolerance Increase		100	150	100	90	120	–	100	20							
+359	Teostra	20%	Max Tolerance		550	700	700	1920	630	–	550	750							
+360	Teostra	430	Damage		160	–	–	120	–	–	–	–							
+361	Tigrex	5|0|0	3,000		★★	★★	★★	★★	★★	500									
+362	Tigrex	Cap	Duration		20	40	10	–	7	120	–	–							
+363	Tigrex	30%	Initial Tolerance		150	150	180	70	150	225	50	–							
+364	Tigrex	Limp	Tolerance Increase		100	100	130	30	120	75	100	–							
+365	Tigrex	16%	Max Tolerance		550	550	570	670	630	900	550	–							
+366	Tigrex	300	Damage		320	–	–	300	–	150	–	–							
+367	Tobi-Kadachi	3|0|0	2,900		★★★	★★	★★	★★	★★	500									
+368	Tobi-Kadachi	Cap	Duration		25	40	10	–	7	60	–	–							
+369	Tobi-Kadachi	30%	Initial Tolerance		100	150	180	70	150	225	50	–							
+370	Tobi-Kadachi	Limp	Tolerance Increase		90	100	130	30	120	75	100	–							
+371	Tobi-Kadachi	32%	Max Tolerance		370	550	570	670	630	900	550	–							
+372	Tobi-Kadachi	290	Damage		260	–	–	120	–	150	–	–							
+373	Tzitzi-Ya-Ku	0|0|0	2,650		★★	★★	★★	★★	★★	600									
+374	Tzitzi-Ya-Ku	Cap	Duration		20	40	10	–	7	60	–	–							
+375	Tzitzi-Ya-Ku	35%	Initial Tolerance		150	150	180	70	120	225	50	–							
+376	Tzitzi-Ya-Ku	Limp	Tolerance Increase		100	100	130	30	100	75	100	–							
+377	Tzitzi-Ya-Ku	35%	Max Tolerance		550	550	570	670	620	900	550	–							
+378	Tzitzi-Ya-Ku	265	Damage		160	–	–	120	–	150	–	–							
+379	Uragaan	3|0|3	4,300		★★★	★	★★	★★	★★★	500									
+380	Uragaan	Cap	Duration		35	40	10	–	7	60	–	–							
+381	Uragaan	30%	Initial Tolerance		180	250	180	40	120	225	50	–							
+382	Uragaan	Limp	Tolerance Increase		130	150	130	20	100	75	100	–							
+383	Uragaan	30%	Max Tolerance		570	700	570	440	620	900	550	–							
+384	Uragaan	430	Damage		360	–	–	120	–	200	–	–							
+385	Vaal Hazak	5|3|0	4,700		★	★	★	★★	★★	–									
+386	Vaal Hazak	Cap	Duration		15	40	7	–	7	–	–	–							
+387	Vaal Hazak	–	Initial Tolerance		250	250	300	120	200	–	50	200							
+388	Vaal Hazak	Limp	Tolerance Increase		150	150	100	90	250	–	100	20							
+389	Vaal Hazak	20%	Max Tolerance		700	700	700	1920	800	–	550	750							
+390	Vaal Hazak	470	Damage		80	–	–	120	–	–	–	–							
+391	Velkhana	5|5|0	3,600		★★	★	★	★★★	★	–									
+392	Velkhana	Cap	Duration		20	40	7	–	7	–	–	–							
+393	Velkhana	–	Initial Tolerance		150	250	300	40	200	–	65	200							
+394	Velkhana	Limp	Tolerance Increase		100	150	100	20	150	–	110	400							
+395	Velkhana	20%	Max Tolerance		550	700	700	440	800	–	725	2200							
+396	Velkhana	360	Damage		320	–	–	300	–	–	–	–							
+397	Viper Tobi-Kadachi	3|0|0	2,900		★	★★	★	★★	★★	500									
+398	Viper Tobi-Kadachi	Cap	Duration		7	40	3	–	7	80	–	–							
+399	Viper Tobi-Kadachi	30%	Initial Tolerance		250	150	300	70	150	150	65	–							
+400	Viper Tobi-Kadachi	Limp	Tolerance Increase		150	100	100	30	120	45	110	–							
+401	Viper Tobi-Kadachi	20%	Max Tolerance		700	550	700	670	630	585	725	–							
+402	Viper Tobi-Kadachi	290	Damage		80	–	–	300	–	150	–	–							
+403	Xeno·jiiva	5|D|3	7,500		★★★	✖	★	★★	★	–									
+404	Xeno·jiiva	Cap	Duration		120	–	7	–	7	–	–	–							
+405	Xeno·jiiva	–	Initial Tolerance		300	–	300	120	200	–	–	300							
+406	Xeno·jiiva	Limp	Tolerance Increase		50	–	100	90	250	–	–	–							
+407	Xeno·jiiva	–	Max Tolerance		600	–	700	1920	800	–	–	–							
+408	Xeno·jiiva	750	Damage		800	–	–	120	–	–	–	–							
+409	Yian Garuga	5|3|0	3,150		★	★	★★	★★★	★★	600									
+410	Yian Garuga	Cap	Duration		15	40	10	–	7	45	–	–							
+411	Yian Garuga	30%	Initial Tolerance		250	250	180	40	150	225	50	–							
+412	Yian Garuga	Limp	Tolerance Increase		150	150	130	20	120	75	100	–							
+413	Yian Garuga	16%	Max Tolerance		700	700	570	440	630	900	550	–							
+414	Yian Garuga	315	Damage		160	–	–	300	–	250	–	–							
+415	Zinogre	3|5|0	3,350		★★	★★	★	★★	★★	500									
+416	Zinogre	Cap	Duration		20	40	5	–	7	50	–	–							
+417	Zinogre	30%	Initial Tolerance		150	150	300	70	150	225	50	–							
+418	Zinogre	Limp	Tolerance Increase		100	100	250	30	120	75	100	–							
+419	Zinogre	16%	Max Tolerance		550	550	1200	670	630	900	550	–							
+420	Zinogre	335	Damage		320	–	–	300	–	150	–	–							
+421	Zorah Magdaros	0|0|3	12,000		✖	✖	✖	✖	✖	–									
+422	Zorah Magdaros	Cap	Duration		–	–	–	–	–	–	–	–							
+423	Zorah Magdaros	–	Initial Tolerance		–	–	–	–	–	–	–	–							
+424	Zorah Magdaros	Limp	Tolerance Increase		–	–	–	–	–	–	–	–							
+425	Zorah Magdaros	–	Max Tolerance		–	–	–	–	–	–	–	–							
+426	Zorah Magdaros	1200	Damage		–	–	–	–	–	–	–	–							
+#	Large Monster		Stats																
+1	Acidic Glavenus		Duration		20	10	8	✖	30	✖|✓									
+2	Acidic Glavenus		Duration (Fatigued)		20	15	11	–	50% eff.	–									
+3	Acidic Glavenus		Tol. Reduction		4	2	2	–	–	–									
+4	Acidic Glavenus		Min. Duration		5	2	2	–	–	–									
+5	Alatreon		Duration		N	✖	✖	✖	✖	✖|✖									
+6	Alatreon		Duration (Fatigued)		N	–	–	–	–	–									
+7	Alatreon		Tol. Reduction		–	–	–	–	–	–									
+8	Alatreon		Min. Duration		–	–	–	–	–	–									
+9	Ancient Leshen		Duration		10	✖	✖	✖	✖	✖|✖									
+10	Ancient Leshen		Duration (Fatigued)		10	–	–	–	–	–									
+11	Ancient Leshen		Tol. Reduction		5	–	–	–	–	–									
+12	Ancient Leshen		Min. Duration		1	–	–	–	–	–									
+13	Anjanath		Duration		20	10	8	8	30	✖|✓									
+14	Anjanath		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+15	Anjanath		Tol. Reduction		4	2	2	–	–	–									
+16	Anjanath		Min. Duration		5	2	2	–	–	–									
+17	Azure Rathalos		Duration		20	10	8	8	30	✖|✖									
+18	Azure Rathalos		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+19	Azure Rathalos		Tol. Reduction		4	2	2	–	–	–									
+20	Azure Rathalos		Min. Duration		5	2	2	–	–	–									
+21	Banbaro		Duration		20	12	8	8	30	✖|✖									
+22	Banbaro		Duration (Fatigued)		20	17	11	8	70% eff.	–									
+23	Banbaro		Tol. Reduction		4	2	2	–	–	–									
+24	Banbaro		Min. Duration		5	2	2	–	–	–									
+25	Barioth		Duration		20	10	8	8	30	✖|✖									
+26	Barioth		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+27	Barioth		Tol. Reduction		4	2	2	–	–	–									
+28	Barioth		Min. Duration		5	2	2	–	–	–									
+29	Barroth		Duration		30	10	8	8	30	✖|✖									
+30	Barroth		Duration (Fatigued)		30	15	11	8	70% eff.	–									
+31	Barroth		Tol. Reduction		5	2	2	–	–	–									
+32	Barroth		Min. Duration		10	2	2	–	–	–									
+33	Bazelgeuse		Duration		10	10	8	8	30	✖|✓									
+34	Bazelgeuse		Duration (Fatigued)		10	15	11	8	50% eff.	–									
+35	Bazelgeuse		Tol. Reduction		2	2	2	–	–	–									
+36	Bazelgeuse		Min. Duration		3	2	2	–	–	–									
+37	Behemoth		Duration		10	✖	✖	✖	✖	✖|✖									
+38	Behemoth		Duration (Fatigued)		10	–	–	–	–	–									
+39	Behemoth		Tol. Reduction		5	–	–	–	–	–									
+40	Behemoth		Min. Duration		1	–	–	–	–	–									
+41	Beotodus		Duration		20	12	10	8	30	✓|✓									
+42	Beotodus		Duration (Fatigued)		20	17	13	8	70% eff.	–									
+43	Beotodus		Tol. Reduction		4	4	3	–	–	–									
+44	Beotodus		Min. Duration		5	2	2	–	–	–									
+45	Black Diablos		Duration		10	10	8	8	30	6|✖									
+46	Black Diablos		Duration (Fatigued)		10	15	11	8	20% eff.	–									
+47	Black Diablos		Tol. Reduction		2	2	2	–	–	–									
+48	Black Diablos		Min. Duration		3	2	2	–	–	–									
+49	Blackveil Vaal Hazak		Duration		10 B	✖	✖	✖	✖	✖|✖									
+50	Blackveil Vaal Hazak		Duration (Fatigued)		10 B	–	–	–	–	–									
+51	Blackveil Vaal Hazak		Tol. Reduction		2	–	–	–	–	–									
+52	Blackveil Vaal Hazak		Min. Duration		3	–	–	–	–	–									
+53	Brachydios		Duration		20	10	8	8	30	✖|✖									
+54	Brachydios		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+55	Brachydios		Tol. Reduction		4	2	2	–	–	–									
+56	Brachydios		Min. Duration		5	2	2	–	–	–									
+57	Brute Tigrex		Duration		20	10	8	8	30	✖|✓									
+58	Brute Tigrex		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+59	Brute Tigrex		Tol. Reduction		4	2	2	–	–	–									
+60	Brute Tigrex		Min. Duration		5	2	2	–	–	–									
+61	Coral Pukei-Pukei		Duration		20	12	10	10	30	✖|✖									
+62	Coral Pukei-Pukei		Duration (Fatigued)		20	17	13	10	50% eff.	–									
+63	Coral Pukei-Pukei		Tol. Reduction		4	4	3	–	–	–									
+64	Coral Pukei-Pukei		Min. Duration		5	2	2	–	–	–									
+65	Deviljho		Duration		20	15	8	10	30	✖|✓									
+66	Deviljho		Duration (Fatigued)		20	20	11	10	50% eff.	–									
+67	Deviljho		Tol. Reduction		4	3	2	–	–	–									
+68	Deviljho		Min. Duration		5	2	2	–	–	–									
+69	Diablos		Duration		10	10	8	8	30	6|✖									
+70	Diablos		Duration (Fatigued)		10	15	11	8	20% eff.	–									
+71	Diablos		Tol. Reduction		2	2	2	–	–	–									
+72	Diablos		Min. Duration		3	2	2	–	–	–									
+73	Dodogama		Duration		20	10	8	8	30	✖|✖									
+74	Dodogama		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+75	Dodogama		Tol. Reduction		4	2	2	–	–	–									
+76	Dodogama		Min. Duration		5	2	2	–	–	–									
+77	Ebony Odogaron		Duration		20	10	8	8	30	✖|✓									
+78	Ebony Odogaron		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+79	Ebony Odogaron		Tol. Reduction		2	2	2	–	–	–									
+80	Ebony Odogaron		Min. Duration		3	2	2	–	–	–									
+81	Fatalis		Duration		✖	✖	✖	✖	✖	✖|✖									
+82	Fatalis		Duration (Fatigued)		–	–	–	–	–	–									
+83	Fatalis		Tol. Reduction		–	–	–	–	–	–									
+84	Fatalis		Min. Duration		–	–	–	–	–	–									
+85	Frostfang Barioth		Duration		20	10	8	8	30	✖|✖									
+86	Frostfang Barioth		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+87	Frostfang Barioth		Tol. Reduction		4	2	2	–	–	–									
+88	Frostfang Barioth		Min. Duration		5	2	2	–	–	–									
+89	Fulgur Anjanath		Duration		20	10	8	8	30	✖|✓									
+90	Fulgur Anjanath		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+91	Fulgur Anjanath		Tol. Reduction		4	2	2	–	–	–									
+92	Fulgur Anjanath		Min. Duration		5	2	2	–	–	–									
+93	Furious Rajang		Duration		10	7 R	5 N	5	30	✖|✖									
+94	Furious Rajang		Duration (Fatigued)		10	–	8 N	5	50% eff.	–									
+95	Furious Rajang		Tol. Reduction		2	2	2	–	–	–									
+96	Furious Rajang		Min. Duration		3	1	1	–	–	–									
+97	Glavenus		Duration		20	10	8	8	30	✖|✓									
+98	Glavenus		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+99	Glavenus		Tol. Reduction		4	2	2	–	–	–									
+100	Glavenus		Min. Duration		5	2	2	–	–	–									
+101	Gold Rathian		Duration		20	10	8	8	✖	✖|✖									
+102	Gold Rathian		Duration (Fatigued)		20	15	11	8	–	–									
+103	Gold Rathian		Tol. Reduction		4	2	2	–	–	–									
+104	Gold Rathian		Min. Duration		5	2	2	–	–	–									
+105	Great Girros		Duration		20	12	10	10	30	✖|✖									
+106	Great Girros		Duration (Fatigued)		20	17	13	10	70% eff.	–									
+107	Great Girros		Tol. Reduction		4	4	3	–	–	–									
+108	Great Girros		Min. Duration		5	2	2	–	–	–									
+109	Great Jagras		Duration		30	12	10	10	30	✖|✓									
+110	Great Jagras		Duration (Fatigued)		30	17	12	10	70% eff.	–									
+111	Great Jagras		Tol. Reduction		5	4	3	–	–	–									
+112	Great Jagras		Min. Duration		10	2	2	–	–	–									
+113	Jyuratodus		Duration		20	10	8	8	30	✓|✖									
+114	Jyuratodus		Duration (Fatigued)		20	15	11	8	100% eff.	–									
+115	Jyuratodus		Tol. Reduction		4	2	2	–	–	–									
+116	Jyuratodus		Min. Duration		5	2	2	–	–	–									
+117	Kirin		Duration		✖	✖	✖	✖	✖	✖|✖									
+118	Kirin		Duration (Fatigued)		–	–	–	–	–	–									
+119	Kirin		Tol. Reduction		–	–	–	–	–	–									
+120	Kirin		Min. Duration		–	–	–	–	–	–									
+121	Kulu-Ya-Ku		Duration		30	10	8	8	30	✖|✖									
+122	Kulu-Ya-Ku		Duration (Fatigued)		30	15	11	8	100% eff.	–									
+123	Kulu-Ya-Ku		Tol. Reduction		5	2	2	–	–	–									
+124	Kulu-Ya-Ku		Min. Duration		10	2	2	–	–	–									
+125	Kulve Taroth		Duration		✖	✖	✖	✖	✖	✖|✖									
+126	Kulve Taroth		Duration (Fatigued)		–	–	–	–	–	–									
+127	Kulve Taroth		Tol. Reduction		–	–	–	–	–	–									
+128	Kulve Taroth		Min. Duration		–	–	–	–	–	–									
+129	Kushala Daora		Duration		20	✖	✖	✖	✖	✖|✖									
+130	Kushala Daora		Duration (Fatigued)		20	–	–	–	–	–									
+131	Kushala Daora		Tol. Reduction		4	–	–	–	–	–									
+132	Kushala Daora		Min. Duration		5	–	–	–	–	–									
+133	Lavasioth		Duration		30	10	8	8	30	✓|✖									
+134	Lavasioth		Duration (Fatigued)		30	15	11	8	50% eff.	–									
+135	Lavasioth		Tol. Reduction		5	2	2	–	–	–									
+136	Lavasioth		Min. Duration		10	2	2	–	–	–									
+137	Legiana		Duration		20	10	8	8	30	✖|✖									
+138	Legiana		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+139	Legiana		Tol. Reduction		4	2	2	–	–	–									
+140	Legiana		Min. Duration		5	2	2	–	–	–									
+141	Leshen		Duration		10	✖	✖	✖	✖	✖|✖									
+142	Leshen		Duration (Fatigued)		10	–	–	–	–	–									
+143	Leshen		Tol. Reduction		5	–	–	–	–	–									
+144	Leshen		Min. Duration		1	–	–	–	–	–									
+145	Lunastra		Duration		30	✖	✖	✖	✖	✖|✖									
+146	Lunastra		Duration (Fatigued)		30	–	–	–	–	–									
+147	Lunastra		Tol. Reduction		2	–	–	–	–	–									
+148	Lunastra		Min. Duration		20	–	–	–	–	–									
+149	Namielle		Duration		20	✖	✖	✖	✖	✖|✖									
+150	Namielle		Duration (Fatigued)		20	–	–	–	–	–									
+151	Namielle		Tol. Reduction		4	–	–	–	–	–									
+152	Namielle		Min. Duration		5	–	–	–	–	–									
+153	Nargacuga		Duration		20	10 N	8	8	30	✓|✓									
+154	Nargacuga		Duration (Fatigued)		20	15 N	11	8	50% eff.	–									
+155	Nargacuga		Tol. Reduction		4	2	2	–	–	–									
+156	Nargacuga		Min. Duration		5	2	2	–	–	–									
+157	Nergigante		Duration		20	✖	✖	✖	✖	✖|✖									
+158	Nergigante		Duration (Fatigued)		20	–	–	–	–	–									
+159	Nergigante		Tol. Reduction		4	–	–	–	–	–									
+160	Nergigante		Min. Duration		5	–	–	–	–	–									
+161	Nightshade Paolumu		Duration		20	10	8	8	30	✖|✖									
+162	Nightshade Paolumu		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+163	Nightshade Paolumu		Tol. Reduction		4	2	2	–	–	–									
+164	Nightshade Paolumu		Min. Duration		5	2	2	–	–	–									
+165	Odogaron		Duration		10	10	8	8	30	✖|✓									
+166	Odogaron		Duration (Fatigued)		10	15	11	8	70% eff.	–									
+167	Odogaron		Tol. Reduction		2	2	2	–	–	–									
+168	Odogaron		Min. Duration		3	2	2	–	–	–									
+169	Paolumu		Duration		20	10	8	8	30	✖|✖									
+170	Paolumu		Duration (Fatigued)		20	15	11	8	70% eff.	–									
+171	Paolumu		Tol. Reduction		4	2	2	–	–	–									
+172	Paolumu		Min. Duration		5	2	2	–	–	–									
+173	Pink Rathian		Duration		20	10	8	8	30	✖|✖									
+174	Pink Rathian		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+175	Pink Rathian		Tol. Reduction		4	2	2	–	–	–									
+176	Pink Rathian		Min. Duration		5	2	2	–	–	–									
+177	Pukei-Pukei		Duration		20	12	10	10	30	✖|✖									
+178	Pukei-Pukei		Duration (Fatigued)		20	17	13	10	50% eff.	–									
+179	Pukei-Pukei		Tol. Reduction		4	4	3	–	–	–									
+180	Pukei-Pukei		Min. Duration		5	2	2	–	–	–									
+181	Radobaan		Duration		10	10	8	8	30	✖|✖									
+182	Radobaan		Duration (Fatigued)		10	15	11	8	50% eff.	–									
+183	Radobaan		Tol. Reduction		2	2	2	–	–	–									
+184	Radobaan		Min. Duration		3	2	2	–	–	–									
+185	Raging Brachydios		Duration		20	7	5	8	30	✖|✖									
+186	Raging Brachydios		Duration (Fatigued)		–	–	–	–	70% eff.	–									
+187	Raging Brachydios		Tol. Reduction		4	2	2	–	–	–									
+188	Raging Brachydios		Min. Duration		5	2	2	–	–	–									
+189	Rajang		Duration		10	7 R	5 N	5	30	✖|✖									
+190	Rajang		Duration (Fatigued)		10	–	8 N	5	50% eff.	–									
+191	Rajang		Tol. Reduction		2	2	2	–	–	–									
+192	Rajang		Min. Duration		3	1	1	–	–	–									
+193	Rathalos		Duration		20	10	8	8	30	✖|✖									
+194	Rathalos		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+195	Rathalos		Tol. Reduction		4	2	2	–	–	–									
+196	Rathalos		Min. Duration		5	2	2	–	–	–									
+197	Rathian		Duration		20	10	8	8	30	✖|✖									
+198	Rathian		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+199	Rathian		Tol. Reduction		4	2	2	–	–	–									
+200	Rathian		Min. Duration		5	2	2	–	–	–									
+201	Ruiner Nergigante		Duration		20	✖	✖	✖	✖	✖|✖									
+202	Ruiner Nergigante		Duration (Fatigued)		20	–	–	–	–	–									
+203	Ruiner Nergigante		Tol. Reduction		4	–	–	–	–	–									
+204	Ruiner Nergigante		Min. Duration		5	–	–	–	–	–									
+205	Safi·jiiva		Duration		10	✖	✖	20	✖	✖|✖									
+206	Safi·jiiva		Duration (Fatigued)		10	–	–	–	–	–									
+207	Safi·jiiva		Tol. Reduction		2	–	–	–	–	–									
+208	Safi·jiiva		Min. Duration		3	–	–	–	–	–									
+209	Savage Deviljho		Duration		20	15	8	10	30	✖|✓									
+210	Savage Deviljho		Duration (Fatigued)		–	–	–	–	50% eff.	–									
+211	Savage Deviljho		Tol. Reduction		4	3	2	–	–	–									
+212	Savage Deviljho		Min. Duration		5	2	2	–	–	–									
+213	Scarred Yian Garuga		Duration		20	10 N	8	8	30	✖|✖									
+214	Scarred Yian Garuga		Duration (Fatigued)		20	15 N	11	8	50% eff.	–									
+215	Scarred Yian Garuga		Tol. Reduction		4	2	2	–	–	–									
+216	Scarred Yian Garuga		Min. Duration		5	2	2	–	–	–									
+217	Seething Bazelgeuse		Duration		20	10	8	8	30	✖|✓									
+218	Seething Bazelgeuse		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+219	Seething Bazelgeuse		Tol. Reduction		4	2	2	–	–	–									
+220	Seething Bazelgeuse		Min. Duration		5	2	2	–	–	–									
+221	Shara Ishvalda		Duration		✖	✖	✖	✖	✖	✖|✖									
+222	Shara Ishvalda		Duration (Fatigued)		–	–	–	–	–	–									
+223	Shara Ishvalda		Tol. Reduction		–	–	–	–	–	–									
+224	Shara Ishvalda		Min. Duration		–	–	–	–	–	–									
+225	Shrieking Legiana		Duration		20	10	8	8	30	✖|✖									
+226	Shrieking Legiana		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+227	Shrieking Legiana		Tol. Reduction		4	2	2	–	–	–									
+228	Shrieking Legiana		Min. Duration		5	2	2	–	–	–									
+229	Silver Rathalos		Duration		20	10	8	8	✖	✖|✖									
+230	Silver Rathalos		Duration (Fatigued)		20	15	11	8	–	–									
+231	Silver Rathalos		Tol. Reduction		4	2	2	–	–	–									
+232	Silver Rathalos		Min. Duration		5	2	2	–	–	–									
+233	Stygian Zinogre		Duration		20	10	10	8	30	✖|✖									
+234	Stygian Zinogre		Duration (Fatigued)		20	15	13	8	50% eff.	–									
+235	Stygian Zinogre		Tol. Reduction		4	2	3	–	–	–									
+236	Stygian Zinogre		Min. Duration		5	2	2	–	–	–									
+237	Teostra		Duration		20	✖	✖	✖	✖	✖|✖									
+238	Teostra		Duration (Fatigued)		20	–	–	–	–	–									
+239	Teostra		Tol. Reduction		4	–	–	–	–	–									
+240	Teostra		Min. Duration		5	–	–	–	–	–									
+241	Tigrex		Duration		20	10	8	8	30	✖|✓									
+242	Tigrex		Duration (Fatigued)		20	15	11	8	50% eff.	–									
+243	Tigrex		Tol. Reduction		4	2	2	–	–	–									
+244	Tigrex		Min. Duration		5	2	2	–	–	–									
+245	Tobi-Kadachi		Duration		30	12	10	10	30	✖|✖									
+246	Tobi-Kadachi		Duration (Fatigued)		30	17	13	10	50% eff.	–									
+247	Tobi-Kadachi		Tol. Reduction		5	4	3	–	–	–									
+248	Tobi-Kadachi		Min. Duration		10	2	2	–	–	–									
+249	Tzitzi-Ya-Ku		Duration		–	10	8	8	30	–									
+250	Tzitzi-Ya-Ku		Duration (Fatigued)		–	15	11	8	70% eff.	–									
+251	Tzitzi-Ya-Ku		Tol. Reduction		–	2	2	–	–	–									
+252	Tzitzi-Ya-Ku		Min. Duration		–	2	2	–	–	–									
+253	Uragaan		Duration		10	10	8	8	30	✖|✖									
+254	Uragaan		Duration (Fatigued)		10	15	11	8	50% eff.	–									
+255	Uragaan		Tol. Reduction		2	2	2	–	–	–									
+256	Uragaan		Min. Duration		3	2	2	–	–	–									
+257	Vaal Hazak		Duration		5	✖	✖	✖	✖	✖|✖									
+258	Vaal Hazak		Duration (Fatigued)		5	–	–	–	–	–									
+259	Vaal Hazak		Tol. Reduction		2	–	–	–	–	–									
+260	Vaal Hazak		Min. Duration		3	–	–	–	–	–									
+261	Velkhana		Duration		20	✖	✖	✖	✖	✖|✖									
+262	Velkhana		Duration (Fatigued)		20	–	–	–	–	–									
+263	Velkhana		Tol. Reduction		4	–	–	–	–	–									
+264	Velkhana		Min. Duration		5	–	–	–	–	–									
+265	Viper Tobi-Kadachi		Duration		20	10	5	✖	30	✖|✖									
+266	Viper Tobi-Kadachi		Duration (Fatigued)		20	15	8	–	50% eff.	–									
+267	Viper Tobi-Kadachi		Tol. Reduction		4	2	2	–	–	–									
+268	Viper Tobi-Kadachi		Min. Duration		5	2	1	–	–	–									
+269	Xeno·jiiva		Duration		✖	✖	✖	✖	✖	✖|✖									
+270	Xeno·jiiva		Duration (Fatigued)		–	–	–	–	–	–									
+271	Xeno·jiiva		Tol. Reduction		–	–	–	–	–	–									
+272	Xeno·jiiva		Min. Duration		–	–	–	–	–	–									
+273	Yian Garuga		Duration		20	10 N	8	8	30	✖|✖									
+274	Yian Garuga		Duration (Fatigued)		20	15 N	11	8	50% eff.	–									
+275	Yian Garuga		Tol. Reduction		4	2	2	–	–	–									
+276	Yian Garuga		Min. Duration		5	2	2	–	–	–									
+277	Zinogre		Duration		20	10	6 N	8	30	✖|✖									
+278	Zinogre		Duration (Fatigued)		20	15	9 N	8	50% eff.	–									
+279	Zinogre		Tol. Reduction		4	2	2	–	–	–									
+280	Zinogre		Min. Duration		5	2	1	–	–	–									
+281	Zorah Magdaros		Duration		✖	✖	✖	✖	✖	✖|✖									
+282	Zorah Magdaros		Duration (Fatigued)		–	–	–	–	–	–									
+283	Zorah Magdaros		Tol. Reduction		–	–	–	–	–	–									
+284	Zorah Magdaros		Min. Duration		–	–	–	–	–	–									
+#	Large Monster	Tender	Dmg to  Enrage	Enrage  Duration	Enrage  Speed	Monstr Dmg	Player  Dmg												
+1	Acidic Glavenus	+0	370	130	110%	100%	100%												
+2	Alatreon																		
+3	Ancient Leshen	+0	0	0	100%	100%	100%												
+4	Anjanath	+0	370	130	110%	100%	100%												
+5	Azure Rathalos	+0	650	100	115%	105%	110%												
+6	Banbaro	+0	600	90	103%	110%	110%												
+7	Barioth	+0	300	90	105%	105%	105%												
+8	Barroth	+0	370	130	105%	110%	100%												
+9	Bazelgeuse	+0	400	120	110%	125%	110%												
+10	Behemoth	+0	2000	120	110%	125%	100%												
+11	Beotodus	+0	350	120	105%	110%	105%												
+12	Black Diablos	+0	300	75	115%	120%	110%												
+13	Blackveil Vaal Hazak	+0	430	120	110%	105%	105%												
+14	Brachydios	+0	500	130	102%	100%	95%												
+15	Brute Tigrex	+0	450	120	110%	110%	110%												
+16	Coral Pukei-Pukei	+0	560	80	105%	115%	110%												
+17	Deviljho	+0	500	135	105%	105%	100%												
+18	Diablos	+0	500	90	105%	120%	110%												
+19	Dodogama	+0	550	90	103%	120%	110%												
+20	Ebony Odogaron	+0	300	200	105%	110%	100%												
+21	Fatalis	-5	500	180	105%	110%	110%												
+22	Frostfang Barioth																		
+23	Fulgur Anjanath	+0	370	130	110%	110%	100%												
+24	Furious Rajang	+0	350	110	109%	120%	100%												
+25	Glavenus	+0	400	120	110%	110%	100%												
+26	Gold Rathian	+5	330	150	110%	110%	120%												
+27	Great Girros	+0	480	60	110%	110%	110%												
+28	Great Jagras	+0	440	60	110%	110%	110%												
+29	Jyuratodus	+0	450	60	105%	110%	90%												
+30	Kirin	+5	200	150	105%	120%	110%												
+31	Kulu-Ya-Ku	+0	500	100	110%	120%	100%												
+32	Kulve Taroth	+0	1500	150	115%	115%	120%												
+33	Kushala Daora	+0	550	80	104%	105%	110%												
+34	Lavasioth	+5	450	120	105%	110%	90%												
+35	Legiana	+0	600	100	110%	110%	110%												
+36	Leshen	+0	0	0	100%	100%	100%												
+37	Lunastra	+0	860	120	110%	120%	120%												
+38	Namielle	+5	600	120	110%	110%	90%												
+39	Nargacuga	+0	550	75	110%	120%	110%												
+40	Nergigante	+0	400	100	104%	120%	100%												
+41	Nightshade Paolumu	+0	450	150	120%	105%	100%												
+42	Odogaron	+0	600	100	105%	115%	110%												
+43	Paolumu	+0	450	150	120%	105%	100%												
+44	Pink Rathian	+0	600	100	110%	110%	110%												
+45	Pukei-Pukei	+0	560	80	105%	115%	110%												
+46	Radobaan	+0	370	100	105%	110%	100%												
+47	Raging Brachydios	+0	500	150	100%	110%	105%												
+48	Rajang	+0	350	80	110%	120%	100%												
+49	Rathalos	+0	650	100	110%	110%	110%												
+50	Rathian	+0	600	80	105%	115%	110%												
+51	Ruiner Nergigante	+0	400	90	105%	105%	100%												
+52	Safi·jiiva	-5	1500	180	100%	120%	110%												
+53	Savage Deviljho	+5	450	120	113%	110%	120%												
+54	Scarred Yian Garuga	+0	450	75	110%	120%	110%												
+55	Seething Bazelgeuse	+0	600	120	103%	110%	110%												
+56	Shara Ishvalda	+0	1200	120	100%	120%	105%												
+57	Shrieking Legiana	+0	600	100	108%	110%	110%												
+58	Silver Rathalos	+5	325	120	110%	110%	120%												
+59	Stygian Zinogre	+0	200	135	105%	115%	100%												
+60	Teostra	+0	860	120	110%	120%	120%												
+61	Tigrex	+0	450	110	110%	110%	110%												
+62	Tobi-Kadachi	+0	550	80	105%	120%	110%												
+63	Tzitzi-Ya-Ku	+0	500	100	110%	120%	100%												
+64	Uragaan	+5	450	120	115%	110%	100%												
+65	Vaal Hazak	+0	600	60	105%	110%	105%												
+66	Velkhana	+0	800	150	110%	115%	120%												
+67	Viper Tobi-Kadachi	+0	600	100	104%	120%	110%												
+68	Xeno·jiiva	+0	500	100	110%	105%	95%												
+69	Yian Garuga	+0	450	75	110%	120%	110%												
+70	Zinogre	+0	200	120	105%	110%	100%												
+71	Zorah Magdaros	–	0	0	100%	100%	100%												
