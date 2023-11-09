@@ -36,6 +36,8 @@ import re
 s = "INSERT INTO `t_weapon` VALUES (1, '防卫队炎刃型大剑1', '防卫队衍生', '', '防卫队炎刃型大剑2', 1, 624, 0, '', 'blast:240', '', '', '为了防卫队制作的轻弩。集结了工房技术的精髓，得以实现前所未有的卓越性能。', 'danger:30,warning:60,yellow:20,success:90,dark:200|danger:30,warning:60,yellow:20,success:140,dark:150', '', '', 242, '防衛隊炎刃型大劍Ⅰ', 0, '', NULL, NULL, 1);"
 
 # ret = re.sub(r'VALUES \(\d+, ', "VALUES (", s)
-ret = re.sub(r'NULL', "''", s)
+# ret = re.sub(r'NULL', "''", s)
+
+ret = re.findall("\d+", '242-226.png')
 
 print(ret)
