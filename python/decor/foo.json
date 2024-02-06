@@ -1,0 +1,14 @@
+{
+  "_process": {
+      "env": {
+        "DB_ADDR": "capture.mdb.mig",
+        "DB_USER": "writeuser",
+        "DB_PASS": "uxdTnglgcl9wn8rb",
+        "DB_PORT": 15652,
+        "DB_NAME": "wiki",
+        "RD_HOST": "9.139.136.100",
+        "RD_PORT": 6379,
+        "RD_PASS": "AnTest-+2021()Xin"
+      }
+  }
+}

@@ -1,0 +1,17 @@
+insert into t_dress values (null, 6, 231, '惨爪龙阿尔法', '绝命惨爪:5|惨爪龙的厚鳞:3|龙脉的重龙骨:3|扭曲的结晶:2');
+insert into t_dress values (null, 6, 231, '惨爪龙贝塔', '绝命惨爪:5|惨爪龙的厚鳞:3|龙脉的重龙骨:3|扭曲的结晶:2');
+insert into t_dress values (null, 6, 231, '熔岩龙阿尔法', '灼热的熔岩鳍:5|熔岩龙的重壳:3|龙脉的重龙骨:3|炽热蛮骨:2');
+insert into t_dress values (null, 6, 231, '熔岩龙贝塔', '灼热的熔岩鳍:5|熔岩龙的重壳:3|龙脉的重龙骨:3|炽热蛮骨:2');
+insert into t_dress values (null, 6, 231, '火龙心阿尔法', '樱花的龙鳞:5|樱火龙的重壳:3|龙脉的刚龙骨:3|陆珊瑚的结晶:2');
+insert into t_dress values (null, 6, 231, '火龙心贝塔', '樱花的龙鳞:5|樱火龙的重壳:3|龙脉的刚龙骨:3|陆珊瑚的结晶:2');
+insert into t_dress values (null, 6, 231, '风漂龙阿尔法', '光滑的冰皮:5|风漂龙的厚皮:3|龙脉的重龙骨:3|鲜艳红骨:2');
+insert into t_dress values (null, 6, 231, '风漂龙贝塔', '光滑的冰皮:5|风漂龙的厚皮:3|龙脉的重龙骨:3|鲜艳红骨:2');
+insert into t_dress values (null, 6, 231, '火龙阿尔法', '王者的龙鳞:5|火龙的重壳:3|龙脉的重龙骨:3|腐朽的结晶:2');
+insert into t_dress values (null, 6, 231, '火龙贝塔', '王者的龙鳞:5|火龙的重壳:3|龙脉的重龙骨:3|腐朽的结晶:2');
+insert into t_dress values (null, 6, 231, '角龙阿尔法', '勇壮的弯曲角:5|角龙的重甲:3|龙脉的重龙骨:3|破裂的结晶:2');
+insert into t_dress values (null, 6, 231, '角龙贝塔', '勇壮的弯曲角:5|角龙的重甲:3|龙脉的重龙骨:3|破裂的结晶:2');
+insert into t_dress values (null, 6, 231, '铸岛熔岩阿尔法', '熔岩的结晶:2|霸王之证:1|龙脉的古龙骨:3');
+insert into t_dress values (null, 6, 231, '铸岛熔岩贝塔', '熔岩的结晶:2|霸王之证:1|龙脉的古龙骨:3');
+insert into t_dress values (null, 6, 231, '骨锤龙阿尔法', '引导的结晶【熔岩】:1');
+insert into t_dress values (null, 6, 231, '骨锤龙贝塔', '引导的结晶【熔岩】:1');
+insert into t_dress values (null, 6, 231, '守护者', '溟波龙票:1|古龙的净血:5|灵脉的重龙骨:3|繁荣的结晶:2');

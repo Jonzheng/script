@@ -19,7 +19,7 @@
 # sql += ','.join(srr)
 # print(sql)
 
-import re
+# import re
 
 # res = re.findall("\d+", '赋予回复能力')
 # res = re.findall("\d+", '攻击力强化1|Slot: 3')
@@ -33,11 +33,28 @@ import re
 # h = [{'tree': '风风风', 'att': 1},{'tree': '三刀', 'att': 6},{'tree': '懂法扥', 'att': 3},{'tree': '', 'att': 2},{'tree': '掐死', 'att': 4},{'tree': '掐死', 'att': 1},{'tree': '懂法扥', 'att': 6}]
 # print(sorted(h, key=lambda tup: (tup['tree'], tup['att'])))
 
-s = "INSERT INTO `t_weapon` VALUES (1, '防卫队炎刃型大剑1', '防卫队衍生', '', '防卫队炎刃型大剑2', 1, 624, 0, '', 'blast:240', '', '', '为了防卫队制作的轻弩。集结了工房技术的精髓，得以实现前所未有的卓越性能。', 'danger:30,warning:60,yellow:20,success:90,dark:200|danger:30,warning:60,yellow:20,success:140,dark:150', '', '', 242, '防衛隊炎刃型大劍Ⅰ', 0, '', NULL, NULL, 1);"
+# s = "INSERT INTO `t_weapon` VALUES (1, '防卫队炎刃型大剑1', '防卫队衍生', '', '防卫队炎刃型大剑2', 1, 624, 0, '', 'blast:240', '', '', '为了防卫队制作的轻弩。集结了工房技术的精髓，得以实现前所未有的卓越性能。', 'danger:30,warning:60,yellow:20,success:90,dark:200|danger:30,warning:60,yellow:20,success:140,dark:150', '', '', 242, '防衛隊炎刃型大劍Ⅰ', 0, '', NULL, NULL, 1);"
 
 # ret = re.sub(r'VALUES \(\d+, ', "VALUES (", s)
 # ret = re.sub(r'NULL', "''", s)
 
-ret = re.findall("\d+", '242-226.png')
+# ret = re.findall("\d+", '242-226.png')
 
-print(ret)
+# print(ret)
+
+# arr = [1,2,4]
+# arr.extend([5,6,7])
+# print('arr', arr)
+# alter table t_weapon AUTO_INCREMENT=4500;
+# UPDATE t_items INNER JOIN t_cloak ON t_items.`name` = t_cloak.`name` SET t_items.icon = CONCAT(t_cloak.icon,'-',t_cloak.color,'.png');
+# truncate t_wp_star
+
+import re
+# 替换字符中间的字符
+# s = 'http://utf8.api.smschinese.cn/?Uid=negopk&Key=xxxooo&smsMob=16666666666&smsText=验证码:8888'
+# s = "INSERT INTO `t_weapon` VALUES (191, '赤龙断绝剑·火', '', '', '', 12, 1296, 0, '+5%', 'fire:150', '', '4', '冥赤龙的大剑。借由与特殊素材产生反应，让潜藏的龙脉之力觉醒。', '100,50,50,50,60,40,0|100,50,50,50,60,90,0', '', '', 242, '赤龍斷絕劍‧火', 0, '', '', 1, 0, 191);"
+# pattern = re.compile('(?<=VALUES \().*?(,)')
+# ret = pattern.sub('null,', s)  # 将字符串中匹配的部分替换为python
+# print(ret)
+ss = 'Paralysis'.lower()
+print('ss', ss)

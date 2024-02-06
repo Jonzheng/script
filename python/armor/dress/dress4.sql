@@ -1,0 +1,15 @@
+insert into t_dress values (null, 4, 231, '死神', '尸套龙票:2|灾祸之布:5');
+insert into t_dress values (null, 4, 231, '铸铁', '冰冻的结晶:5|云鸠石:3|龙脉的强龙骨:3');
+insert into t_dress values (null, 4, 231, '旅团', '狩猎王硬币:5|勇气之证·大:5');
+insert into t_dress values (null, 4, 231, '盛开', '幻兽票:2');
+insert into t_dress values (null, 4, 231, '潜水员', '纳凉票:5');
+insert into t_dress values (null, 4, 231, '收获', '丰收票:5');
+insert into t_dress values (null, 4, 231, '猎户星', '闪耀票:5');
+insert into t_dress values (null, 4, 231, '盛装', '感谢票:10');
+insert into t_dress values (null, 4, 225, '墨镜', '纳凉票:2|黑水晶票:1');
+insert into t_dress values (null, 4, 225, '蘑菇猪头套', '伪装票:1|蘑菇猪苔皮:2');
+insert into t_dress values (null, 4, 225, '艾露猫头套', '伪装票:1|随从票:1');
+insert into t_dress values (null, 4, 225, '封印的眼罩', '伪装票2:1|黑色绷带:2');
+insert into t_dress values (null, 4, 225, '摇曳鳗头套', '伪装票2:1|摇曳鳗票:2');
+insert into t_dress values (null, 4, 225, '骷髅面罩', '伪装票3:1|谜之头骨:2');
+insert into t_dress values (null, 4, 225, '扒手龙头套', '伪装票3:1|搔鸟票:2');

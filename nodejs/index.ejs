@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <% include ../include/headerv7.ejs %>
+    <link href="/styles/complaint/complaint.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="//webcdn.m.qq.com/webcdn/gmall/adv-demo/official_common_style.css">
+</head>
+<body>
+<% include ../include/navigation2.ejs %>
+<div class="lab-wrapper">
+    <div class="security-lab-wrapper">
+        <a href="https://slab.qq.com" rel="nofollow" target="_blank">
+            <h1 class="h1-complaint"></h1>
+        </a>
+    </div>
+    <div class="gear-animations circular"></div>
+</div>
+<div class="complaint">
+    <div class="qqInfo">
+        <img src="https://ic.qq.com/face" class="user-avatar" id="menuUserAvatar">
+        <span class="nickname"><%= nickName %></span>
+    </div>
+    <form class="complaint-form" id="complaint-form">
+        <div class="row" style="display: none;">
+            <div class="label"><i class="require">*</i>软件名</div>
+            <div class="input">
+                <input type="text" placeholder="请填写软件名">
+            </div>
+        </div>
+        <div class="row">
+            <div class="label"><i class="require">*</i>申诉类型</div>
+            <div class="input">
+                <select name="complaint-type">
+                    <option value="0">病毒</option>
+                    <option value="1">广告</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="label"><i class="require">*</i>软件扫描截图</div>
+            <div class="input">
+                <div id="pic-uploader" class="wu-pic">
+                    <div id="pic-thelist" class="uploader-list"></div>
+                    <div class="btns">
+                        <div id="pic-picker">选择文件</div>
+                        <ul class="uploaded uploaded-pic" id="uploaded-pic">
+                            <!-- <li><a target="_blank" href="https://webcdn.m.qq.com/complaint/51752ee38e48a591c6f643d87a25567f.jpg">软件截图1<img src="https://webcdn.m.qq.com/complaint/51752ee38e48a591c6f643d87a25567f.jpg"></a><a></a><i class="remove" onclick="removePic(0)">x</i><i class="triangle"></i></li>
+                            <li><a target="_blank" href="https://webcdn.m.qq.com/complaint/719621d783fcc6241a5ed79b93cd18b1.jpg">软件截图2<img src="https://webcdn.m.qq.com/complaint/719621d783fcc6241a5ed79b93cd18b1.jpg"></a><a></a><i class="remove" onclick="removePic(1)">x</i><i class="triangle"></i></li>
+                            <li><a target="_blank" href="https://webcdn.m.qq.com/complaint/ec3441375fc79ab8eaaabfa88deceb12.jpg">软件截图3<img src="https://webcdn.m.qq.com/complaint/ec3441375fc79ab8eaaabfa88deceb12.jpg"></a><a></a><i class="remove" onclick="removePic(2)">x</i><i class="triangle"></i></li> -->
+                        </ul>
+                    </div>
+                    <div class="info">请上传管家及其他安全软件截图，最多五张</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="label"><i class="require">*</i>申诉APK安装包</div>
+            <div class="input">
+                <div id="apk-uploader" class="wu-apk">
+                    <div id="apk-thelist" class="uploader-list"></div>
+                    <div class="btns">
+                        <div id="apk-picker">选择文件</div>
+                        <ul class="uploaded uploaded-apk" id="uploaded-apk">
+                            <li>
+                                <a id="apk-file"></a>
+                                <i class="remove" onclick="removeApk()">x</i>
+                                <i class="triangle"></i>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="info">请上传被管家提示风险或广告安装包</div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="label"><i class="require">*</i>企业/个人名称</div>
+            <div class="input">
+                <input type="text" placeholder="" name="company">
+            </div>
+        </div>
+        <div class="row">
+            <div class="label"><i class="require">*</i>联系邮箱地址</div>
+            <div class="input">
+                <input id="complaint-email" type="email" placeholder="请输入QQ邮箱" name="email">
+            </div>
+        </div>
+        <div class="row">
+            <div class="label" style="vertical-align: top;"><i class="require">*</i>申诉理由</div>
+            <div class="input">
+                <textarea name="content" maxlength="255" cols="30" rows="8" placeholder="建议您填写和申诉类型相关的内容，以便于我们快速定位解决您的问题。"></textarea>
+            </div>
+        </div>
+        <div class="row">
+            <a id="submit-btn" style="cursor: pointer;" class="submit">提交申诉</a>
+            <a id="sign-btn" style="cursor: pointer;" class="submit">获取签名1</a>
+            <input id="pic-file" type="file" name="pic" accept="*">
+            <div class="tips" style="color:#0c0c0c">
+                提示：请根据页面提示填写完整信息申诉，申诉结果将返回联系邮箱，请留意查看。
+            </div>
+        </div>
+    </form>
+</div>
+<% include ../include/authen.ejs %>
+<% include ../include/footer.ejs %>
+<script src="//3gimg.qq.com/webapp_scan/website7/javascripts/jquery.js"></script>
+<script src="/javascripts/webuploader/webuploader.min.js"></script>
+<script src="/javascripts/cos-js-sdk-v5.min.js"></script>
+<script language="javascript" type="text/javascript" charset="utf8" src="/javascripts/crypto.js"></script>
+<script language="javascript" type="text/javascript" charset="utf8" src="/javascripts/sha1-min.js"></script>
+<script>
+    localStorage.setItem("last_login", new Date().getTime());
+    var form = {
+        sha1 : '',
+        screenShots : [],
+        content : '',
+        company : '',
+    };
+
+    const upload2Cos = function(fileObject, key){
+        console.log('up2cos', fileObject)
+        console.log('Key:', key)
+        cos.uploadFile({
+            Bucket: 'gj-complaint-1251316161', /* 填入您自己的存储桶，必须字段 */
+            Region: 'ap-guangzhou',  /* 存储桶所在地域，例如ap-beijing，必须字段 */
+            Key: key,  /* 存储在桶里的对象键（例如1.jpg，a/b/test.txt），必须字段 */
+            Body: fileObject, /* 必须，上传文件对象，可以是input[type="file"]标签选择本地文件后得到的file对象 */
+            SliceSize: 1024 * 1024 * 5,     /* 触发分块上传的阈值，超过5MB使用分块上传，非必须 */
+            onTaskReady: function(taskId) {                   /* 非必须 */
+                console.log(taskId);
+            },
+            onProgress: function (progressData) {           /* 非必须 */
+                console.log(JSON.stringify(progressData));
+            },
+            onFileFinish: function (err, data, options) {   /* 非必须 */
+                console.log(options.Key + '上传' + (err ? '失败' : '完成'));
+            },
+        }, function(err, data) {
+            console.log(err || data);
+        });
+    }
+
+    const getSha1 = function(param='test') {
+        return CryptoJS.SHA1(param).toString()
+        // hasher_sha1 = CryptoJS.algo.SHA1.create();
+        // CryptoJS_data = CryptoJS.enc.Latin1.parse(param);
+        // hasher_sha1.update(CryptoJS_data);
+        // return hasher_sha1.finalize().toString(CryptoJS.enc.Hex)
+    }
+
+    const fileReader = new FileReader();
+    async function calcFileHash(file) {
+        const ret = await new Promise((resolve, reject) => {
+            try {
+                let blobSlice = File.prototype.slice || File.prototype.mozSlice || File.prototype.webkitSlice,
+                chunkSize = 1024 * 64,
+                chunks = Math.ceil(file.size / chunkSize),
+                currentChunk = 0,
+                hasher_sha1 = CryptoJS.algo.SHA1.create();
+    
+                fileReader.onload = function (e) {
+                    CryptoJS_data = CryptoJS.enc.Latin1.parse(e.target.result);
+                    hasher_sha1.update(CryptoJS_data);
+                    currentChunk += 1;
+                    if (currentChunk < chunks) {
+                        loadNext();
+                    } else {
+                        resolve(hasher_sha1.finalize().toString(CryptoJS.enc.Hex));
+                    }
+                };
+    
+    
+                function loadNext() {
+                    var start = currentChunk * chunkSize,
+                    end = start + chunkSize >= file.size ? file.size : start + chunkSize;
+                    fileReader.readAsBinaryString(blobSlice.call(file, start, end));
+                }
+    
+                loadNext();
+            } catch(e) {
+                reject(e)
+            }
+        })
+        console.log('ret', ret)
+        return ret;
+    }
+
+    var fileNumLimit = 5;
+    var uploader = WebUploader.create({
+
+        // swf文件路径
+        swf: '//cdn.staticfile.org/webuploader/0.1.0//js/Uploader.swf',
+        duplicate:true,
+        server: '/complaint/pic',
+        pick: '#pic-picker',
+        fileVal : 'pic',
+        resize: false,
+        fileNumLimit:fileNumLimit,
+        accept:{
+            extensions: 'gif,jpg,jpeg,bmp,png',
+            mimeTypes: 'image/*',
+        },
+        auto : true
+    });
+
+    uploader.on( 'error', function( type ) {
+        if('Q_EXCEED_NUM_LIMIT' === type){
+            alert('最多上传' +fileNumLimit+ '张截图');
+        }
+        if('Q_TYPE_DENIED' === type){
+            alert('文件类型必须是gif,jpg,jpeg,bmp,png');
+        }
+        if('Q_EXCEED_SIZE_LIMIT' === type){
+            alert('文件过大');
+        }
+    });
+
+
+    uploader.on( 'uploadSuccess', function( file , resp) {
+        if(resp.https){
+            $( '#'+file.id ).find('p.state').text('已上传');
+            form.screenShots.push(resp.https);
+            renderItems($('#uploaded-pic'), form.screenShots);
+        }else{
+            alert('上传失败，请重试');
+        }
+    });
+
+    uploader.on( 'uploadError', function( file ) {
+        uploader.reset();
+        alert('操作太频繁了，请稍等片刻后重试');
+    });
+
+    uploader.on( 'uploadComplete', function( file ) {
+        $( '#'+file.id ).find('.progress').fadeOut();
+    });
+
+    var apkUploader = WebUploader.create({
+        swf: '//cdn.staticfile.org/webuploader/0.1.0//js/Uploader.swf',
+        server: '/complaint/apk',
+        pick: '#apk-picker',
+        fileVal : 'apk',
+        resize: false,
+        fileNumLimit:1,
+        accept:{
+            extensions: 'apk'
+        },
+        auto : true,
+        timeout: 0,
+    });
+    apkUploader.on( 'uploadSuccess', function( file, resp) {
+        console.log('success prefix:', resp.prefix)
+        console.log('success sha1:', resp.sha1)
+        console.log('success file', file)
+        console.log('success type',file.source.source instanceof File)
+        console.log('test sha1', getSha1('test'))
+        $.ajax({type:'POST',url:'/complaint/checkApk',data: JSON.stringify({sha1: resp.sha1}),contentType:'application/json'}).then(res => {
+            console.log('res', res)
+        })
+    });
+
+    apkUploader.on( 'uploadStart', async function( file, percentage) {
+        $( '#apk-file' ).text('');
+        const fileObject = file.source.source
+        console.log('start apk', file)
+        const suffix = fileObject.name.split('.').pop()
+        const prefix = getSha1('test').toUpperCase()
+        const sha1 = (await calcFileHash(fileObject)).toUpperCase()
+        form.prefix = prefix;
+        form.sha1 = sha1;
+        console.log('start sha1', sha1)
+        const key = `apk/${prefix}/${sha1}.${suffix}`
+        upload2Cos(fileObject, key)
+    });
+
+    apkUploader.on( 'uploadProgress', function( file, percentage) {
+        $( '#apk-file' ).text('上传中');
+        $('#uploaded-apk').css('display','inline-block');
+    });
+
+    apkUploader.on( 'uploadError', function( file ) {
+        apkUploader.reset();
+        alert('操作太频繁了，请稍等片刻后重试');
+    });
+
+    apkUploader.on( 'uploadComplete', function( file ) {
+        $( '#apk-file' ).text(file.name);
+        apkUploader.reset();
+    });
+
+    function removePic(index){
+        form.screenShots.splice(index, 1);
+        renderItems($('#uploaded-pic'), form.screenShots);
+    }
+
+    function removeApk(){
+        $('#uploaded-apk').css('display','none');
+        form.sha1 = '';
+
+    }
+
+    function renderItems(parent, items){
+        parent.empty();
+        items.forEach(function(e, i){
+            parent.append('<li><a target="_blank" href="' +e+ '">软件截图' +(i+1)+ '<img src="'+e+'"/><a/><i class="remove" onclick="removePic('+i+')">x</i><i class="triangle"></i></li>');
+        });
+
+    }
+
+    function insertForm(){
+
+        var sform = $('#complaint-form').serializeArray();
+        sform.forEach(function(e){
+            form[e.name] = e.value;
+        });
+
+        var temp = document.getElementById("complaint-email");
+        console.log('form', form)
+        //对电子邮件的验证
+        var myreg = /^[1-9]\d{4,9}@qq\.[a-zA-Z]{2,3}$/;
+        if (!myreg.test(form["email"])) {
+            alert('请输入有效的QQ邮箱地址！');
+            temp.focus();
+            return false;
+        }
+
+        // 这里开始提交表单
+        $.ajax({type:'POST',url:'/complaint/insertForm',data: JSON.stringify(form),contentType:'application/json'}).then(function(resp){
+            console.log(resp);
+            if(resp.reCode < 0){
+                alert('提交失败:'+resp.msg);
+            }else{
+                alert('提交成功');
+                form = {
+                    sha1 : '',
+                    screenShots : [],
+                    content : '',
+                    company : '',
+                    email : ''
+                };
+                $('#complaint-form')[0].reset();
+                renderItems($('#uploaded-pic'), []);
+                removeApk();
+                apkUploader.reset();
+                uploader.reset();
+            }
+
+        }).fail(function(err){
+            console.log(err);
+            alert(JSON.stringify(err));
+        })
+    }
+
+    $('#submit-btn').click(insertForm);
+    const cos = new COS({
+        // getAuthorization 必选参数
+        getAuthorization: function (options, callback) {
+            // 初始化时不会调用，只有调用 cos 方法（例如 cos.putObject）时才会进入
+            // 异步获取临时密钥
+            // 服务端 JS 和 PHP 例子：https://github.com/tencentyun/cos-js-sdk-v5/blob/master/server/
+            // 服务端其他语言参考 COS STS SDK ：https://github.com/tencentyun/qcloud-cos-sts-sdk
+            // STS 详细文档指引看：https://cloud.tencent.com/document/product/436/14048
+
+            const url = '/complaint/cosSignature';
+            const xhr = new XMLHttpRequest();
+            let data = null;
+            let credentials = null;
+            xhr.open('POST', url, true);
+            xhr.onload = function (e) {
+                try {
+                    data = JSON.parse(e.target.responseText);
+                    credentials = data.credentials;
+                } catch (e) {}
+                if (!data || !credentials) {
+                    return console.error('credentials invalid:\n' + JSON.stringify(data, null, 2))
+                };
+                console.log('data', data)
+                callback({
+                    TmpSecretId: credentials.tmpSecretId,
+                    TmpSecretKey: credentials.tmpSecretKey,
+                    SecurityToken: credentials.sessionToken,
+                    // 建议返回服务器时间作为签名的开始时间，避免用户浏览器本地时间偏差过大导致签名错误
+                    StartTime: data.startTime, // 时间戳，单位秒，如：1580000000
+                    ExpiredTime: data.expiredTime, // 时间戳，单位秒，如：1580000000
+                });
+            };
+            xhr.send();
+        }
+    });
+    $('#sign-btn').click(function(){
+        var fileData = $("#pic-file").prop("files")[0];
+        console.log('fileData', fileData)
+        $.ajax({type:'POST',url:'/complaint/cosSignature'}).then(res => {
+            console.log('res', res)
+        })
+    });
+    $('#pic-file').change(function(){
+        var fileObject = $("#pic-file").prop("files")[0];
+        console.log('fileObject', fileObject)
+        cos.uploadFile({
+            Bucket: 'gj-complaint-1251316161', /* 填入您自己的存储桶，必须字段 */
+            Region: 'ap-guangzhou',  /* 存储桶所在地域，例如ap-beijing，必须字段 */
+            Key: '7366b475d567ba0ec108119dd8a9b1b287a714f6/1.jpg',  /* 存储在桶里的对象键（例如1.jpg，a/b/test.txt），必须字段 */
+            Body: fileObject, /* 必须，上传文件对象，可以是input[type="file"]标签选择本地文件后得到的file对象 */
+            SliceSize: 1024 * 1024 * 5,     /* 触发分块上传的阈值，超过5MB使用分块上传，非必须 */
+            onTaskReady: function(taskId) {                   /* 非必须 */
+                console.log(taskId);
+            },
+            onProgress: function (progressData) {           /* 非必须 */
+                console.log(JSON.stringify(progressData));
+            },
+            onFileFinish: function (err, data, options) {   /* 非必须 */
+                console.log(options.Key + '上传' + (err ? '失败' : '完成'));
+            },
+        }, function(err, data) {
+            console.log(err || data);
+        });
+
+        // cos.putObject({
+        //     Bucket: 'gj-complaint-1251316161', /* 填入您自己的存储桶，必须字段 */
+        //     Region: 'ap-guangzhou',  /* 存储桶所在地域，例如ap-beijing，必须字段 */
+        //     Key: '7366b475d567ba0ec108119dd8a9b1b287a714f6/1.jpg',  /* 存储在桶里的对象键（例如1.jpg，a/b/test.txt），必须字段 */
+        //     Body: fileObject, /* 必须，上传文件对象，可以是input[type="file"]标签选择本地文件后得到的file对象 */
+        //     onProgress: function(progressData) {
+        //         console.log(JSON.stringify(progressData));
+        //     }
+        // }, function(err, data) {
+        //     console.log(err || data);
+        // });
+
+
+    });
+
+
+</script>
+</body>
+</html>

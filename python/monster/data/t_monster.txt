@@ -1,0 +1,71 @@
+黑龙	Fatalis
+煌黑龙	Alatreon
+冥赤龙	Safi·jiiva
+冰呪龙	Velkhana
+溟波龙	Namielle
+歼世灭尽龙	Ruiner Nergigante
+雾瘴尸套龙	Blackveil Vaal Hazak
+天地煌啼龙	Shara Ishvalda
+麒麟	Kirin
+钢龙	Kushala Daora
+炎妃龙	Lunastra
+炎王龙	Teostra
+灭尽龙	Nergigante
+冥灯龙	Xeno·jiiva
+熔山龙	Zorah Magdaros
+尸套龙	Vaal Hazak
+绚辉龙	Kulve Taroth
+贝希摩斯	Behemoth
+霜刃冰牙龙	Frostfang Barioth
+霜翼风漂龙	Shrieking Legiana
+迅龙	Nargacuga
+冰牙龙	Barioth
+浮眠龙	Nightshade Paolumu
+红莲爆鳞龙	Seething Bazelgeuse
+黑轰龙	Brute Tigrex
+金火龙	Gold Rathian
+银火龙	Silver Rathalos
+樱火龙	Pink Rathian
+雌火龙	Rathian
+苍火龙	Azure Rathalos
+黑角龙	Black Diablos
+浮空龙	Paolumu
+风漂龙	Legiana
+爆鳞龙	Bazelgeuse
+猛爆碎龙	Raging Brachydios
+雷颚龙	Fulgur Anjanath
+碎龙	Brachydios
+硫斩龙	Acidic Glavenus
+斩龙	Glavenus
+猛牛龙	Banbaro
+惶怒恐暴龙	Savage Deviljho
+恐暴龙	Deviljho
+土砂龙	Barroth
+爆锤龙	Uragaan
+蛮颚龙	Anjanath
+骨锤龙	Radobaan
+激昂金狮子	Furious Rajang
+金狮子	Rajang
+狱狼龙	Stygian Zinogre
+凶爪龙	Ebony Odogaron
+痹毒龙	Viper Tobi-Kadachi
+雷狼龙	Zinogre
+大贼龙	Great Jagras
+飞雷龙	Tobi-Kadachi
+大痹贼龙	Great Girros
+惨爪龙	Odogaron
+岩贼龙	Dodogama
+冰鱼龙	Beotodus
+熔岩龙	Lavasioth
+泥鱼龙	Jyuratodus
+水妖鸟	Coral Pukei-Pukei
+黑狼鸟	Yian Garuga
+战痕黑狼鸟	Scarred Yian Garuga
+毒妖鸟	Pukei-Pukei
+搔鸟	Kulu-Ya-Ku
+眩鸟	Tzitzi-Ya-Ku
+鹿首精	Leshen
+古代鹿首精	Ancient Leshen
+火龙	Rathalos
+角龙	Diablos
+轰龙	Tigrex

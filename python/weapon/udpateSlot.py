@@ -10,11 +10,10 @@ with open(r'D:\my_dev\script\python\weapon\t_wp.txt', 'r', encoding='utf-8') as 
     if ol:
       [id, eld, slot, whet] = ol.split('\t')
       if '6' in slot or '7' in slot:
-        eld = eld.replace('龙封力[', '').replace(']', '')
-        slot = slot.replace('67', '1').replace('68', '2').replace('69', '3').replace('73', '4').replace('66', '1').replace('72', '4')
-        sql = "update t_weapon set seal = '{}', slot = '{}' where id = {};\n".format(eld, slot, id)
+        slot = slot.replace('66', '1').replace('67', '2').replace('68', '3').replace('72', '4')
+        sql = "update t_weapon set slot = '{}' where id = {};\n".format(slot, id)
         sqls.append(sql)
 
-with open(r'D:\my_dev\script\python\weapon\t_up_slot.sql', 'w', encoding='utf-8') as out:
+with open(r'D:\my_dev\script\python\weapon\update_slot.sql', 'w', encoding='utf-8') as out:
   for ol in sqls:
     out.write(ol)
