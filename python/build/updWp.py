@@ -17,20 +17,20 @@ with open(r'D:\pro\script\python\build\data\upd_build_wp.sql', 'w', encoding='ut
         k = type +'|'+ wid
         wp = wm.get(wid, '')
         sql = "update t_build set wp = '{}' where id = {};\n".format(wp, id)
-        out.write(sql)
-        # if mp.get(k):
-        #   mp[k] += 1
-        # else:
-        #   mp[k] = 1
-# arr = []
-# for k in mp:
-#   if mp[k] > 0:
-#     [type, wid] = k.split('|')
-#     c = mp[k]
-#     arr.append({ 'type': type, 'wid': wid, 'c': c })
-# brr = [it for it in arr if it['type'] == '254']
-# crr = sorted(brr, key=lambda x: x['c'], reverse=True)
-# ids = []
-# for it in crr:
-#   ids.append(wm[it['wid']])
-# print(ids[:10])
+        # out.write(sql)
+        if mp.get(k):
+          mp[k] += 1
+        else:
+          mp[k] = 1
+arr = []
+for k in mp:
+  if mp[k] > 0:
+    [type, wid] = k.split('|')
+    c = mp[k]
+    arr.append({ 'type': type, 'wid': wid, 'c': c })
+brr = [it for it in arr if it['type'] == '253']
+crr = sorted(brr, key=lambda x: x['c'], reverse=True)
+ids = []
+for it in crr:
+  ids.append(wm[it['wid']])
+print(ids[:10])
