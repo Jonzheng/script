@@ -35,6 +35,7 @@ def scraftItem(link):
   ques = []
   crafts = []
   ways = []
+  zrr = []
   for tb in tableTag:
     th = tb.select('th')
     if len(th) > 0:
@@ -53,6 +54,17 @@ def scraftItem(link):
               sale = td4.get_text().replace('\r', '').replace('\n', '').strip()
               # print('__tag', tag, rare, 'B', buy, sale)
               base = [tag, rare, buy, sale]
+        elif '中文简体' in thh:
+          for tr in tbd.select('tr'):
+            tds = tr.select('td')
+            if len(tds) == 4:
+              [td1, td2, td3, td4] = tds
+              # name = td1.get_text().replace('\r', '').replace('\n', '').strip()
+              hk = td2.get_text().replace('\r', '').replace('\n', '').strip()
+              en = td3.get_text().replace('\r', '').replace('\n', '').strip()
+              jp = td4.get_text().replace('\r', '').replace('\n', '').strip()
+              zrr = [hk, en, jp]
+              print('_hk', zrr)
         elif '怪物' in thh:
           for tr in tbd.select('tr'):
             tds = tr.select('td')
@@ -98,7 +110,7 @@ def scraftItem(link):
               perc = td6.get_text().replace('\r', '').replace('\n', '').strip()
               # print('__que', quest_type, star, 'D', quest_name, desc, quan, perc)
               ques.append([quest_type, star, quest_name, desc, quan, perc])
-  return [base, finds, ques, crafts, '|'.join(ways)]
+  return [base, finds, ques,zrr, crafts, '|'.join(ways)]
 
 items = getItemList()
 with open(r'D:\pro\script\python\item\data\r_item9.txt', 'w', encoding='utf-8') as out:
@@ -107,9 +119,10 @@ with open(r'D:\pro\script\python\item\data\r_item9.txt', 'w', encoding='utf-8') 
       for irr in items:
         [name, en, jp, desc] = irr
         name = name.replace(' ', '').strip()
-        [base, finds, ques, crafts, way] = scraftItem(link+name)
+        [base, finds, ques, zrr, crafts, way] = scraftItem(link+name)
         [tag, rare, buy, sale] = base
-        line1 = '\t'.join([name,tag, rare, buy, sale, en, jp, desc, way])
+        [hk, en, jp] = zrr
+        line1 = '\t'.join([name, tag, rare, hk, en, jp, buy, sale, desc, way])
         out.write(line1+'\n')
         for find in finds:
           [mon, rank, desc, quan, perc] = find

@@ -5,7 +5,7 @@ tag = '素材'
 rank = '下位'
 link = 'https://gamecat.fun/rise/zh/index.php?title=' + tag + '/'
 def getItemList():
-  with open(r'D:\pro\script\python\item\html\item4.html', 'r', encoding='utf-8') as inf:
+  with open(r'D:\pro\script\python\item\html\item5.html', 'r', encoding='utf-8') as inf:
     tt = inf.read()
     soup = BeautifulSoup(tt, 'lxml')
     trs = soup.find_all(name='tr')
@@ -29,6 +29,13 @@ def scraftItem(link):
   resp = requests.get(link)
   soup = BeautifulSoup(resp.text, 'lxml')
   tableTag = soup.find_all(name='table')
+  parent = soup.find('div', class_='mw-parser-output')
+  pt = ''
+  for pp in parent.children:
+    if pp.name == 'p':
+      ptt = pp.get_text().replace('\r', '').replace('\n', '').replace(' ', '').strip()
+      if '本素材可以通过' in ptt:
+        pt = ptt
   print(link)
   idx = 0
   base = []
@@ -36,6 +43,10 @@ def scraftItem(link):
   ques = []
   crafts = []
   ways = []
+  zrr = []
+  print('_pt', pt)
+  if pt:
+    finds.append(['', '', pt, '', ''])
   for tb in tableTag:
     th = tb.select('th')
     if len(th) > 0:
@@ -54,6 +65,17 @@ def scraftItem(link):
               sale = td4.get_text().replace('\r', '').replace('\n', '').strip()
               # print('__tag', tag, rare, 'B', buy, sale)
               base = [tag, rare, buy, sale]
+        elif '中文简体' in thh:
+          for tr in tbd.select('tr'):
+            tds = tr.select('td')
+            if len(tds) == 4:
+              [td1, td2, td3, td4] = tds
+              # name = td1.get_text().replace('\r', '').replace('\n', '').strip()
+              hk = td2.get_text().replace('\r', '').replace('\n', '').strip()
+              en = td3.get_text().replace('\r', '').replace('\n', '').strip()
+              jp = td4.get_text().replace('\r', '').replace('\n', '').strip()
+              zrr = [hk, en, jp]
+              print('_hk', zrr)
         elif '怪物' in thh:
           for tr in tbd.select('tr'):
             tds = tr.select('td')
@@ -99,26 +121,39 @@ def scraftItem(link):
               perc = td6.get_text().replace('\r', '').replace('\n', '').strip()
               # print('__que', quest_type, star, 'D', quest_name, desc, quan, perc)
               ques.append([quest_type, star, quest_name, desc, quan, perc])
-  return [base, finds, ques, crafts, '|'.join(ways)]
+  return [base, finds, ques, zrr, crafts, '|'.join(ways)]
 
 ['商店购买','交易船兑换','调和','潜水艇','随从隐秘队','福木兔的巢','任务补给箱','野外采集','怪物素材','任务奖励']
 names = []
+with open(r'D:\pro\script\python\item\data\r_item1.txt', 'r', encoding='utf-8') as inf:
+  for ss in inf.readlines():
+    arr = ss.split('\t')
+    names.append(arr[0])
+with open(r'D:\pro\script\python\item\data\r_item2.txt', 'r', encoding='utf-8') as inf:
+  for ss in inf.readlines():
+    arr = ss.split('\t')
+    names.append(arr[0])
 with open(r'D:\pro\script\python\item\data\r_item3.txt', 'r', encoding='utf-8') as inf:
   for ss in inf.readlines():
     arr = ss.split('\t')
     names.append(arr[0])
-
+with open(r'D:\pro\script\python\item\data\r_item4.txt', 'r', encoding='utf-8') as inf:
+  for ss in inf.readlines():
+    arr = ss.split('\t')
+    names.append(arr[0])
+print('__len', len(names))
 items = getItemList()
-with open(r'D:\pro\script\python\item\data\r_item40.txt', 'w', encoding='utf-8') as out:
-  with open(r'D:\pro\script\python\item\data\r_item_find40.txt', 'w', encoding='utf-8') as out2:
-    with open(r'D:\pro\script\python\item\data\r_craft40.txt', 'w', encoding='utf-8') as out3:
+with open(r'D:\pro\script\python\item\data\r_item5.txt', 'w', encoding='utf-8') as out:
+  with open(r'D:\pro\script\python\item\data\r_item_find5.txt', 'w', encoding='utf-8') as out2:
+    with open(r'D:\pro\script\python\item\data\r_craft5.txt', 'w', encoding='utf-8') as out3:
       for irr in items:
         [name, en, jp, desc] = irr
         if name not in names:
           name = name.replace(' ', '').strip()
-          [base, finds, ques, crafts, way] = scraftItem(link+name)
+          [base, finds, ques,zrr, crafts, way] = scraftItem(link+name)
           [tag, rare, buy, sale] = base
-          line1 = '\t'.join([name,tag, rare, buy, sale, en, jp, desc, way])
+          [hk, en, jp] = zrr
+          line1 = '\t'.join([name, tag, rare, hk, en, jp, buy, sale, desc, way])
           out.write(line1+'\n')
           for find in finds:
             [mon, rank, desc, quan, perc] = find
@@ -131,9 +166,11 @@ with open(r'D:\pro\script\python\item\data\r_item40.txt', 'w', encoding='utf-8')
           for crf in crafts:
             line1 = '\t'.join(crf)
             out3.write(line1+'\n')
-          time.sleep(1)
+          time.sleep(2)
+        else:
+          print('__ex', name)
 # scraftItem(link+'泡狐龙的鳞')
-# scraftItem(link+'臣蜘蛛的丝')
+# scraftItem(link+'百龙击退证三')
 # [base, finds] = scraftItem(link+'火炎袋')
 # [base, finds, ques, crafts] = scraftItem(link+'白化精华')
 # [base, finds, ques, crafts] = scraftItem(link+'龙骨小')
